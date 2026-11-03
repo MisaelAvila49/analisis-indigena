@@ -1,0 +1,1724 @@
+{
+  "version": "2026-11-02",
+  "descripcion": "Inventario de fuentes de datos sobre población indígena: qué filtros de identificación tiene cada una, hasta qué nivel territorial baja, qué filtros sociodemográficos ofrece, qué se ha analizado ya y dónde. Base de la bitácora Julio-Septiembre 2026 del equipo de Ciencia de Datos, actualizada con lo que ya existe en los sitios grupos-originarios y perdida-lengua.",
+  "estados": [
+    {
+      "id": "analizada",
+      "etiqueta": "Con análisis",
+      "descripcion": "Al menos una edición procesada, con filtros construidos y probados en análisis publicados o listos para publicar."
+    },
+    {
+      "id": "parcial",
+      "etiqueta": "Uso parcial",
+      "descripcion": "Se usa una parte (una edición, un nivel o un indicador derivado); lo que describe la bitácora todavía no está completo."
+    },
+    {
+      "id": "identificada",
+      "etiqueta": "Por analizar",
+      "descripcion": "Filtros identificados en el cuestionario o el descriptor de archivos; no hay datos procesados."
+    }
+  ],
+  "estadosFiltro": [
+    {
+      "id": "probado",
+      "etiqueta": "Construido y probado",
+      "descripcion": "El filtro existe en un análisis, con su universo, y sus cifras se cotejaron o se revisaron en el navegador."
+    },
+    {
+      "id": "disponible",
+      "etiqueta": "Disponible, sin usar",
+      "descripcion": "La variable existe en la fuente y se ubicó en el cuestionario o el descriptor; todavía no se construye el filtro."
+    },
+    {
+      "id": "por-confirmar",
+      "etiqueta": "Por confirmar",
+      "descripcion": "Se espera que exista; falta confirmar el nombre de la variable o la edición."
+    }
+  ],
+  "filtros": [
+    {
+      "id": "hli",
+      "name": "habla_lengua_indigena",
+      "label": "Habla lengua indígena",
+      "tipo": "indigena",
+      "dataType": "boolean",
+      "description": "La persona habla alguna lengua indígena (HLI). Universo habitual: 3 años o más; algunas series usan 5 años o más."
+    },
+    {
+      "id": "lengua",
+      "name": "lengua_indigena",
+      "label": "Lengua que habla",
+      "tipo": "indigena",
+      "dataType": "text",
+      "description": "Clave de la lengua (catálogo INEGI/INALI); permite agrupar por familia, agrupación y, por inferencia, variante."
+    },
+    {
+      "id": "habla_espanol",
+      "name": "habla_espanol",
+      "label": "Habla español",
+      "tipo": "indigena",
+      "dataType": "boolean",
+      "description": "Entre quienes hablan lengua indígena, si también hablan español (monolingüismo)."
+    },
+    {
+      "id": "comprension",
+      "name": "comprende_lengua_indigena",
+      "label": "Comprende lengua indígena",
+      "tipo": "indigena",
+      "dataType": "boolean",
+      "description": "Entiende una lengua indígena aunque no la hable."
+    },
+    {
+      "id": "autoads",
+      "name": "autoadscripcion_indigena",
+      "label": "Se considera indígena",
+      "tipo": "indigena",
+      "dataType": "boolean",
+      "description": "Autoadscripción: la persona se considera indígena de acuerdo con su cultura, historia y tradiciones."
+    },
+    {
+      "id": "razon_autoads",
+      "name": "razon_autoadscripcion",
+      "label": "Razón de autoadscripción",
+      "tipo": "indigena",
+      "dataType": "text",
+      "description": "Por qué se considera indígena (familia, lengua, comunidad...)."
+    },
+    {
+      "id": "hogar_indigena",
+      "name": "hogar_indigena",
+      "label": "Hogar indígena",
+      "tipo": "indigena",
+      "dataType": "boolean",
+      "description": "Hogar donde el jefe, el cónyuge o algún ascendiente habla lengua indígena (definición INPI/INEGI)."
+    },
+    {
+      "id": "afro",
+      "name": "afrodescendencia",
+      "label": "Afrodescendencia",
+      "tipo": "indigena",
+      "dataType": "boolean",
+      "description": "Se considera afromexicana, negra o afrodescendiente."
+    },
+    {
+      "id": "territorio_indigena",
+      "name": "tipologia_territorial_indigena",
+      "label": "Municipio o localidad indígena",
+      "tipo": "indigena",
+      "dataType": "text",
+      "description": "Clasificación de la unidad territorial (municipio indígena, con presencia, dispersa); no identifica personas."
+    },
+    {
+      "id": "sexo",
+      "name": "sexo",
+      "label": "Sexo",
+      "tipo": "sociodemografico",
+      "dataType": "text",
+      "description": "Mujeres y hombres."
+    },
+    {
+      "id": "edad",
+      "name": "edad",
+      "label": "Edad",
+      "tipo": "sociodemografico",
+      "dataType": "integer",
+      "description": "Años cumplidos o grupos de edad."
+    },
+    {
+      "id": "ingreso",
+      "name": "ingreso",
+      "label": "Ingreso o decil",
+      "tipo": "sociodemografico",
+      "dataType": "number",
+      "description": "Ingreso por trabajo o del hogar; deciles solo donde la fuente trae ingreso corriente del hogar."
+    },
+    {
+      "id": "escolaridad",
+      "name": "escolaridad",
+      "label": "Escolaridad",
+      "tipo": "sociodemografico",
+      "dataType": "text",
+      "description": "Nivel de estudios aprobado."
+    },
+    {
+      "id": "ocupacion",
+      "name": "ocupacion",
+      "label": "Trabajo y ocupación",
+      "tipo": "sociodemografico",
+      "dataType": "text",
+      "description": "Condición de actividad, posición en el trabajo u ocupación."
+    },
+    {
+      "id": "tam_loc",
+      "name": "tamano_localidad",
+      "label": "Urbano o rural",
+      "tipo": "sociodemografico",
+      "dataType": "text",
+      "description": "Ámbito urbano o rural, o tamaño de localidad."
+    },
+    {
+      "id": "estrato",
+      "name": "estrato_socioeconomico",
+      "label": "Estrato socioeconómico",
+      "tipo": "sociodemografico",
+      "dataType": "text",
+      "description": "Estrato del diseño muestral (bajo, medio bajo, medio alto, alto)."
+    },
+    {
+      "id": "salud",
+      "name": "salud_discapacidad",
+      "label": "Salud y discapacidad",
+      "tipo": "sociodemografico",
+      "dataType": "text",
+      "description": "Afiliación a servicios de salud, discapacidad o mediciones de salud."
+    }
+  ],
+  "niveles": [
+    {
+      "id": "nacional",
+      "label": "Nacional"
+    },
+    {
+      "id": "region",
+      "label": "Región o ámbito"
+    },
+    {
+      "id": "entidad",
+      "label": "Entidad"
+    },
+    {
+      "id": "municipio",
+      "label": "Municipio"
+    },
+    {
+      "id": "localidad",
+      "label": "Localidad"
+    },
+    {
+      "id": "ageb",
+      "label": "AGEB"
+    },
+    {
+      "id": "manzana",
+      "label": "Manzana o escuela"
+    }
+  ],
+  "sitios": [
+    {
+      "id": "grupos-originarios",
+      "titulo": "Poblaciones Indígenas en México · Datos estadísticos",
+      "url": "https://socialdataibero.github.io/sectei-pueblos-indigenas",
+      "repositorio": "socialdataibero/sectei-pueblos-indigenas",
+      "publicado": true
+    },
+    {
+      "id": "perdida-lengua",
+      "titulo": "Las lenguas indígenas de México en riesgo de desaparecer",
+      "url": null,
+      "repositorio": "socialdataibero/perdida-lengua-indigena",
+      "publicado": false
+    }
+  ],
+  "fuentes": [
+    {
+      "slug": "censo",
+      "sigla": "Censo",
+      "title": "Censo de Población y Vivienda",
+      "sourceOrg": "INEGI",
+      "sourceUrl": "https://www.inegi.org.mx/programas/ccpv/2020/",
+      "survey": "CENSO",
+      "periodType": "MULTIYEAR",
+      "tipo": "Censo",
+      "ediciones": [
+        1990,
+        2000,
+        2010,
+        2020
+      ],
+      "edicionesProcesadas": [
+        1990,
+        2000,
+        2010,
+        2020
+      ],
+      "estado": "analizada",
+      "estadoBitacora": "analizada",
+      "universo": "Toda la población residente; lengua desde 3 años (5 años en la serie larga).",
+      "niveles": {
+        "nacional": "probado",
+        "entidad": "probado",
+        "municipio": "probado",
+        "localidad": "disponible",
+        "ageb": "probado",
+        "manzana": "probado"
+      },
+      "filtros": [
+        {
+          "filtro": "hli",
+          "variable": "Básico 6 a 8, ampliado 12 a 14",
+          "estado": "probado"
+        },
+        {
+          "filtro": "lengua",
+          "variable": "Ampliado, lengua que habla",
+          "estado": "probado",
+          "detalle": "Por lengua, familia y variante inferida con el catálogo del INALI."
+        },
+        {
+          "filtro": "habla_espanol",
+          "variable": "Ampliado, habla español",
+          "estado": "probado",
+          "detalle": "Monolingüismo en la Ciudad de México."
+        },
+        {
+          "filtro": "comprension",
+          "variable": "Ampliado, pregunta 15",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "autoads",
+          "variable": "Ampliado, pregunta 16",
+          "estado": "probado",
+          "detalle": "Representativa solo hasta municipio."
+        },
+        {
+          "filtro": "hogar_indigena",
+          "variable": "Derivada del parentesco y la lengua",
+          "estado": "probado"
+        },
+        {
+          "filtro": "afro",
+          "variable": "Cuestionario básico",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "Toda la población",
+          "estado": "probado"
+        },
+        {
+          "filtro": "edad",
+          "variable": "Toda la población",
+          "estado": "probado"
+        },
+        {
+          "filtro": "ingreso",
+          "variable": "Ampliado, ingreso mensual por trabajo (12 años o más); sin deciles",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "Nivel aprobado",
+          "estado": "probado"
+        },
+        {
+          "filtro": "ocupacion",
+          "variable": "Condición de actividad y posición",
+          "estado": "probado",
+          "detalle": "Solo en la Ciudad de México."
+        },
+        {
+          "filtro": "tam_loc",
+          "variable": "Tamaño de localidad",
+          "estado": "probado"
+        },
+        {
+          "filtro": "salud",
+          "variable": "Afiliación y discapacidad",
+          "estado": "probado",
+          "detalle": "Solo en la Ciudad de México, 2020."
+        }
+      ],
+      "description": "Es el universo completo: da el denominador de todo análisis y la máxima desagregación territorial y por lengua.",
+      "nota": "AGEB y manzana solo traen hablantes y hogares indígenas. La autoadscripción del cuestionario ampliado es representativa hasta municipio. Las ediciones 1990, 2000 y 2010 se procesaron desde sus muestras para lengua, edad y transmisión; la serie de 1930 a 1980 viene de los tabulados históricos.",
+      "pendientes": [
+        "Afrodescendencia (cuestionario básico 2020) sin construir.",
+        "Ingreso por trabajo del cuestionario ampliado sin usar.",
+        "Localidad: el ITER está descargado pero no hay análisis por localidad."
+      ],
+      "analisis": [
+        {
+          "titulo": "Vive en una vivienda con internet, dispositivos y otros servicios",
+          "sitio": "grupos-originarios",
+          "ruta": "/encuestas/censo/vivienda",
+          "ediciones": [
+            2020
+          ],
+          "forma": "mapas, heatmap, dumbbell"
+        },
+        {
+          "titulo": "La ciudad entre las 32 entidades",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/la-ciudad-en-el-pais",
+          "ediciones": [
+            2020
+          ],
+          "forma": "coropleta y lollipop"
+        },
+        {
+          "titulo": "Por alcaldía, AGEB y manzana",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/donde-viven",
+          "ediciones": [
+            1990,
+            2000,
+            2010,
+            2020
+          ],
+          "forma": "mapa navegable y heatmap"
+        },
+        {
+          "titulo": "Presencia indígena y marginación urbana",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/colonias-y-marginacion",
+          "ediciones": [
+            2020
+          ],
+          "forma": "barras por grado y lollipop"
+        },
+        {
+          "titulo": "Edad y sexo; escuela y trabajo; salud y español",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/quienes-son",
+          "ediciones": [
+            2010,
+            2020
+          ],
+          "forma": "pirámide y barras apiladas"
+        },
+        {
+          "titulo": "Mapa de la población indígena (país y Ciudad de México)",
+          "sitio": "grupos-originarios",
+          "ruta": "/mapa",
+          "ediciones": [
+            1990,
+            2000,
+            2010,
+            2020
+          ],
+          "forma": "mapa de teselas"
+        },
+        {
+          "titulo": "La serie larga, 1930 - 2025, y los municipios",
+          "sitio": "perdida-lengua",
+          "ruta": "/lenguas-en-riesgo",
+          "ediciones": [
+            1990,
+            2000,
+            2010,
+            2020
+          ],
+          "forma": "línea, mapa de cambio, franjas, crestas"
+        },
+        {
+          "titulo": "Pirámide, edades, de madres a hijos, hogares y generaciones",
+          "sitio": "perdida-lengua",
+          "ruta": "/lenguas-en-riesgo",
+          "ediciones": [
+            1990,
+            2000,
+            2010,
+            2020
+          ],
+          "forma": "pirámide, heatmap, flechas, waffle, árbol"
+        },
+        {
+          "titulo": "Dos maneras de contar: habla y se considera",
+          "sitio": "perdida-lengua",
+          "ruta": "/hablantes",
+          "ediciones": [
+            2020
+          ],
+          "forma": "mapas gemelos, mosaico de entidades"
+        }
+      ],
+      "fuentesIds": [
+        "D-CENSO-2020",
+        "D-CENSO-2010-AMP",
+        "D-CENSO-2000-AMP",
+        "D-CENSO-1990-MUESTRA",
+        "D-ITER-2020-NAL",
+        "D-CENSO-2020-RESAGEBURB"
+      ],
+      "tags": [
+        "lengua",
+        "autoadscripcion",
+        "territorio",
+        "vivienda"
+      ]
+    },
+    {
+      "slug": "conteos-eic",
+      "sigla": "Conteos y EIC",
+      "title": "Conteos de Población y Encuesta Intercensal",
+      "sourceOrg": "INEGI",
+      "sourceUrl": "https://www.inegi.org.mx/programas/intercensal/2015/",
+      "survey": "OTRA",
+      "periodType": "MULTIYEAR",
+      "tipo": "Conteo y encuesta intercensal",
+      "ediciones": [
+        1995,
+        2005,
+        2015,
+        2025
+      ],
+      "edicionesProcesadas": [
+        1995,
+        2005,
+        2015,
+        2025
+      ],
+      "estado": "analizada",
+      "estadoBitacora": "analizada",
+      "universo": "Personas de 3 años o más (lengua); toda la población (autoadscripción y afrodescendencia, 2015 y 2025).",
+      "niveles": {
+        "nacional": "probado",
+        "entidad": "probado",
+        "municipio": "probado",
+        "localidad": "disponible"
+      },
+      "filtros": [
+        {
+          "filtro": "hli",
+          "variable": "Personas de 3 años o más",
+          "estado": "probado"
+        },
+        {
+          "filtro": "lengua",
+          "variable": "Mismo bloque que HLI",
+          "estado": "probado",
+          "detalle": "Sin lengua por municipio en 1995 (tabulados) ni en 2005."
+        },
+        {
+          "filtro": "habla_espanol",
+          "variable": "Mismo bloque que HLI",
+          "estado": "probado"
+        },
+        {
+          "filtro": "autoads",
+          "variable": "Sí, sí en parte, no (2015); 2025",
+          "estado": "probado"
+        },
+        {
+          "filtro": "afro",
+          "variable": "Toda la población",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "Toda la población",
+          "estado": "probado"
+        },
+        {
+          "filtro": "edad",
+          "variable": "Toda la población",
+          "estado": "probado"
+        },
+        {
+          "filtro": "ingreso",
+          "variable": "Mensual por trabajo, 12 años o más; sin deciles",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "Nivel aprobado",
+          "estado": "probado",
+          "detalle": "Ciudad de México."
+        },
+        {
+          "filtro": "ocupacion",
+          "variable": "Condición de actividad",
+          "estado": "probado",
+          "detalle": "Ciudad de México."
+        },
+        {
+          "filtro": "hogar_indigena",
+          "variable": "Derivada del parentesco y la lengua",
+          "estado": "probado"
+        }
+      ],
+      "description": "Puente entre censos con representatividad municipal. Es la única fuente intermedia para series municipales de hablantes y autoadscripción.",
+      "nota": "El fraseo «de acuerdo con su cultura» elevó la autoadscripción a 21.5 % en 2015, por lo que no es comparable con el Censo 2010. El Conteo 1995 solo se usa por sus tabulados y el de 2005 no da lengua por municipio. La EIC 2025 no estaba en la bitácora y ya se procesó.",
+      "pendientes": [
+        "Afrodescendencia 2015 y 2025 sin construir.",
+        "Ingreso por trabajo sin usar."
+      ],
+      "analisis": [
+        {
+          "titulo": "Dos maneras de contar, todos los municipios y cada entidad",
+          "sitio": "perdida-lengua",
+          "ruta": "/hablantes",
+          "ediciones": [
+            2015,
+            2025
+          ],
+          "forma": "mapas gemelos, hexágonos, mosaico"
+        },
+        {
+          "titulo": "La serie larga y el cambio por municipio",
+          "sitio": "perdida-lengua",
+          "ruta": "/lenguas-en-riesgo",
+          "ediciones": [
+            1995,
+            2005,
+            2015,
+            2025
+          ],
+          "forma": "línea, mapa de cambio, aceleración"
+        },
+        {
+          "titulo": "Transmisión de madres a hijos y entre generaciones",
+          "sitio": "perdida-lengua",
+          "ruta": "/lenguas-en-riesgo",
+          "ediciones": [
+            2005,
+            2015,
+            2025
+          ],
+          "forma": "flechas, árbol de generaciones"
+        },
+        {
+          "titulo": "Se consideran indígenas pero no hablan la lengua",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/hablantes-en-el-tiempo",
+          "ediciones": [
+            2015,
+            2025
+          ],
+          "forma": "waffle"
+        },
+        {
+          "titulo": "Perfil de la Ciudad de México (edad, escuela, trabajo, español)",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/quienes-son",
+          "ediciones": [
+            2015,
+            2025
+          ],
+          "forma": "pirámide y barras apiladas"
+        }
+      ],
+      "fuentesIds": [
+        "D-EIC-2015-NAL",
+        "D-EIC-2025-MICRO",
+        "D-CONTEO-2005-MUESTRA",
+        "D-ITER-1995",
+        "D-EIC-2025-105"
+      ],
+      "tags": [
+        "lengua",
+        "autoadscripcion",
+        "serie"
+      ]
+    },
+    {
+      "slug": "enigh",
+      "sigla": "ENIGH",
+      "title": "Encuesta Nacional de Ingresos y Gastos de los Hogares",
+      "sourceOrg": "INEGI",
+      "sourceUrl": "https://www.inegi.org.mx/programas/enigh/nc/2024/",
+      "survey": "ENIGH",
+      "periodType": "BIANNUAL",
+      "tipo": "Encuesta en hogares",
+      "ediciones": [
+        2018,
+        2020,
+        2022,
+        2024
+      ],
+      "edicionesProcesadas": [
+        2020,
+        2022,
+        2024
+      ],
+      "estado": "analizada",
+      "estadoBitacora": "analizada",
+      "universo": "Personas de 3 años o más (tabla población); los análisis usan 6 años o más.",
+      "niveles": {
+        "nacional": "probado",
+        "entidad": "probado"
+      },
+      "filtros": [
+        {
+          "filtro": "hli",
+          "variable": "hablaind",
+          "estado": "probado"
+        },
+        {
+          "filtro": "lengua",
+          "variable": "lenguaind",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "habla_espanol",
+          "variable": "hablaesp",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "comprension",
+          "variable": "comprenind",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "autoads",
+          "variable": "etnia",
+          "estado": "probado"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "sexo",
+          "estado": "probado"
+        },
+        {
+          "filtro": "edad",
+          "variable": "edad",
+          "estado": "probado"
+        },
+        {
+          "filtro": "ingreso",
+          "variable": "ing_cor (concentradohogar)",
+          "estado": "probado",
+          "detalle": "Deciles de ingreso corriente del hogar."
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "nivelaprob",
+          "estado": "probado"
+        },
+        {
+          "filtro": "tam_loc",
+          "variable": "tam_loc",
+          "estado": "probado"
+        },
+        {
+          "filtro": "estrato",
+          "variable": "est_socio",
+          "estado": "probado"
+        },
+        {
+          "filtro": "ocupacion",
+          "variable": "Tablas trabajos e ingresos",
+          "estado": "disponible"
+        }
+      ],
+      "description": "Fuente oficial de ingreso y gasto y base de la medición de pobreza. Permite comparar ingreso, carencias y transferencias entre población hablante, autoadscrita y no indígena.",
+      "nota": "Variables de la tabla población, personas de 3 años o más. La edición 2024 ya se procesó (en septiembre estaba por confirmar su descriptor). La 2018 no se ha procesado.",
+      "pendientes": [
+        "Edición 2018.",
+        "Ingreso, gasto y transferencias por condición indígena: hoy solo se usa el equipamiento del hogar.",
+        "Lengua específica y habla español."
+      ],
+      "analisis": [
+        {
+          "titulo": "La conexión del hogar en tres ediciones",
+          "sitio": "grupos-originarios",
+          "ruta": "/encuestas/enigh/hogar",
+          "ediciones": [
+            2020,
+            2022,
+            2024
+          ],
+          "forma": "pendiente"
+        },
+        {
+          "titulo": "La conexión según el ingreso del hogar",
+          "sitio": "grupos-originarios",
+          "ruta": "/encuestas/enigh/hogar",
+          "ediciones": [
+            2020,
+            2022,
+            2024
+          ],
+          "forma": "dumbbell por decil"
+        },
+        {
+          "titulo": "Dispositivos y servicios del hogar",
+          "sitio": "grupos-originarios",
+          "ruta": "/encuestas/enigh/hogar",
+          "ediciones": [
+            2020,
+            2022,
+            2024
+          ],
+          "forma": "heatmap"
+        }
+      ],
+      "fuentesIds": [
+        "D-ENIGH-2020",
+        "D-ENIGH-2022",
+        "D-ENIGH-2024"
+      ],
+      "tags": [
+        "ingreso",
+        "hogar",
+        "tic"
+      ]
+    },
+    {
+      "slug": "enadis",
+      "sigla": "ENADIS",
+      "title": "Encuesta Nacional sobre Discriminación",
+      "sourceOrg": "INEGI, CONAPRED y CNDH",
+      "sourceUrl": "https://www.inegi.org.mx/programas/enadis/2022/",
+      "survey": "OTRA",
+      "periodType": "MULTIYEAR",
+      "tipo": "Encuesta en hogares",
+      "ediciones": [
+        2017,
+        2022
+      ],
+      "edicionesProcesadas": [
+        2017,
+        2022
+      ],
+      "estado": "analizada",
+      "estadoBitacora": "analizada",
+      "universo": "Módulo de población indígena de 12 años o más (tabla TINDIGENA); opinión de 18 años o más.",
+      "niveles": {
+        "nacional": "probado",
+        "entidad": "disponible"
+      },
+      "filtros": [
+        {
+          "filtro": "hli",
+          "variable": "Pregunta 3.12",
+          "estado": "probado",
+          "detalle": "Define, junto con la autoadscripción, el universo del módulo indígena."
+        },
+        {
+          "filtro": "habla_espanol",
+          "variable": "Pregunta 3.14",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "autoads",
+          "variable": "Preguntas 3.16 y VI.1",
+          "estado": "probado",
+          "detalle": "Define el universo del módulo indígena."
+        },
+        {
+          "filtro": "razon_autoads",
+          "variable": "Pregunta VI.2",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "afro",
+          "variable": "Módulo de afrodescendencia",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "Sociodemográficos",
+          "estado": "probado"
+        },
+        {
+          "filtro": "edad",
+          "variable": "Sociodemográficos",
+          "estado": "probado"
+        },
+        {
+          "filtro": "tam_loc",
+          "variable": "Urbano o rural",
+          "estado": "probado"
+        },
+        {
+          "filtro": "ingreso",
+          "variable": "Por confirmar en sociodemográficos; sin deciles",
+          "estado": "por-confirmar"
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "Sociodemográficos",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "salud",
+          "variable": "Discapacidad",
+          "estado": "disponible"
+        }
+      ],
+      "description": "Única fuente nacional de percepción: respeto a derechos, negación de derechos, prejuicios y barreras por lengua, contadas por las propias personas indígenas.",
+      "nota": "Numeración del cuestionario 2022. Los análisis publicados solo miran a la población indígena (una serie): la ENADIS no tiene un grupo de comparación con el mismo módulo.",
+      "pendientes": [
+        "Entidad (la muestra lo permite en totales, no en cruces finos).",
+        "Afrodescendencia y tono de piel.",
+        "Escolaridad y discapacidad."
+      ],
+      "analisis": [
+        {
+          "titulo": "Discriminación en el último año y por qué motivo",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/discriminacion",
+          "ediciones": [
+            2017,
+            2022
+          ],
+          "forma": "barras y dumbbell"
+        },
+        {
+          "titulo": "Dónde ocurre",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/discriminacion",
+          "ediciones": [
+            2017,
+            2022
+          ],
+          "forma": "lollipop"
+        },
+        {
+          "titulo": "Derechos negados y cómo ven el respeto a sus derechos",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/discriminacion",
+          "ediciones": [
+            2017,
+            2022
+          ],
+          "forma": "barras y likert"
+        }
+      ],
+      "fuentesIds": [
+        "D-ENADIS-2017",
+        "D-ENADIS-2022"
+      ],
+      "tags": [
+        "discriminacion",
+        "derechos"
+      ]
+    },
+    {
+      "slug": "endutih",
+      "sigla": "ENDUTIH",
+      "title": "Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares",
+      "sourceOrg": "INEGI",
+      "sourceUrl": "https://www.inegi.org.mx/programas/dutih/2025/",
+      "survey": "ENDUTIH",
+      "periodType": "ANNUAL",
+      "tipo": "Encuesta en hogares",
+      "ediciones": [
+        2025
+      ],
+      "edicionesProcesadas": [
+        2025
+      ],
+      "estado": "analizada",
+      "estadoBitacora": "pendiente",
+      "universo": "Personas de 6 años o más (tabla tic_2025_usuarios).",
+      "niveles": {
+        "nacional": "probado",
+        "entidad": "probado"
+      },
+      "filtros": [
+        {
+          "filtro": "autoads",
+          "variable": "Pregunta 6.A.3",
+          "estado": "probado"
+        },
+        {
+          "filtro": "razon_autoads",
+          "variable": "Pregunta 6.A.4",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "hli",
+          "variable": "Pregunta 6.A.5",
+          "estado": "probado"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "sexo",
+          "estado": "probado"
+        },
+        {
+          "filtro": "edad",
+          "variable": "edad, 0 a 99 años",
+          "estado": "probado"
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "nivel",
+          "estado": "probado"
+        },
+        {
+          "filtro": "tam_loc",
+          "variable": "tam_loc",
+          "estado": "probado"
+        },
+        {
+          "filtro": "estrato",
+          "variable": "estrato",
+          "estado": "probado"
+        }
+      ],
+      "description": "Mide la brecha digital de la población indígena: acceso, uso y habilidades. Solo desde 2025, por lo que todavía no hay serie histórica.",
+      "nota": "Las ediciones 2015 a 2024 no tienen filtro indígena. No trae ingreso, así que no permite deciles. En septiembre estaba como pendiente; ya tiene tres páginas de análisis.",
+      "pendientes": [
+        "Razón de autoadscripción."
+      ],
+      "analisis": [
+        {
+          "titulo": "Usa internet, dispositivos y conexión",
+          "sitio": "grupos-originarios",
+          "ruta": "/encuestas/endutih/uso",
+          "ediciones": [
+            2025
+          ],
+          "forma": "heatmap y barras agrupadas"
+        },
+        {
+          "titulo": "Para qué usa internet: escuela, trabajo, trámites, habilidades",
+          "sitio": "grupos-originarios",
+          "ruta": "/encuestas/endutih/actividades",
+          "ediciones": [
+            2025
+          ],
+          "forma": "heatmap, dumbbell, waffle"
+        },
+        {
+          "titulo": "Quién queda fuera y por qué",
+          "sitio": "grupos-originarios",
+          "ruta": "/encuestas/endutih/barreras",
+          "ediciones": [
+            2025
+          ],
+          "forma": "heatmap y apiladas"
+        }
+      ],
+      "fuentesIds": [
+        "D-ENDUTIH-2025"
+      ],
+      "tags": [
+        "tic",
+        "brecha-digital"
+      ]
+    },
+    {
+      "slug": "endireh",
+      "sigla": "ENDIREH",
+      "title": "Encuesta Nacional sobre la Dinámica de las Relaciones en los Hogares",
+      "sourceOrg": "INEGI",
+      "sourceUrl": "https://www.inegi.org.mx/programas/endireh/2021/",
+      "survey": "OTRA",
+      "periodType": "MULTIYEAR",
+      "tipo": "Encuesta en hogares",
+      "ediciones": [
+        2016,
+        2021
+      ],
+      "edicionesProcesadas": [
+        2021
+      ],
+      "estado": "analizada",
+      "estadoBitacora": "pendiente",
+      "universo": "Mujeres de 15 años o más; lengua y autoadscripción captadas desde 3 años.",
+      "niveles": {
+        "nacional": "probado",
+        "entidad": "probado"
+      },
+      "filtros": [
+        {
+          "filtro": "hli",
+          "variable": "General, 2.10 a 2.12",
+          "estado": "probado"
+        },
+        {
+          "filtro": "habla_espanol",
+          "variable": "General, 2.10 a 2.12",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "autoads",
+          "variable": "General, 2.10 a 2.12",
+          "estado": "probado"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "Solo mujeres",
+          "estado": "probado"
+        },
+        {
+          "filtro": "edad",
+          "variable": "Mujeres de 15 años o más",
+          "estado": "probado"
+        },
+        {
+          "filtro": "ingreso",
+          "variable": "Monto y periodicidad, mujer y pareja; sin deciles",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "Escolaridad",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "ocupacion",
+          "variable": "Situación conyugal y trabajo",
+          "estado": "disponible"
+        }
+      ],
+      "description": "Violencia contra mujeres indígenas en pareja, familia, escuela, trabajo y comunidad. Permite ver la doble desventaja de género y etnicidad.",
+      "nota": "Cada ámbito tiene su propio universo: la violencia laboral se calcula entre quienes trabajaron y la escolar entre quienes asistieron. Los filtros de expareja (secciones 4BC.3 a 4BC.5) están en los cuestionarios de mujeres separadas y solteras.",
+      "pendientes": [
+        "Edición 2016.",
+        "Filtros de expareja.",
+        "Ingreso propio y de la pareja."
+      ],
+      "analisis": [
+        {
+          "titulo": "Violencia a lo largo de la vida y en los últimos 12 meses",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/violencia",
+          "ediciones": [
+            2021
+          ],
+          "forma": "waffle"
+        },
+        {
+          "titulo": "Dónde ocurre: por ámbito",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/violencia",
+          "ediciones": [
+            2021
+          ],
+          "forma": "dumbbell"
+        },
+        {
+          "titulo": "De qué tipo",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/violencia",
+          "ediciones": [
+            2021
+          ],
+          "forma": "barras agrupadas"
+        }
+      ],
+      "fuentesIds": [
+        "D-ENDIREH-2021"
+      ],
+      "tags": [
+        "violencia",
+        "mujeres"
+      ]
+    },
+    {
+      "slug": "inali",
+      "sigla": "INALI",
+      "title": "Catálogo de las Lenguas Indígenas Nacionales y lenguas en riesgo",
+      "sourceOrg": "INALI",
+      "sourceUrl": "https://www.inali.gob.mx/clin-inali/",
+      "survey": "OTRA",
+      "periodType": "ONE_TIME",
+      "tipo": "Catálogo",
+      "ediciones": [
+        2008,
+        2010,
+        2012
+      ],
+      "edicionesProcesadas": [
+        2008,
+        2010,
+        2012
+      ],
+      "estado": "analizada",
+      "estadoBitacora": null,
+      "universo": "364 variantes lingüísticas de 68 agrupaciones y 11 familias.",
+      "niveles": {
+        "nacional": "probado",
+        "municipio": "probado",
+        "localidad": "probado"
+      },
+      "filtros": [
+        {
+          "filtro": "lengua",
+          "variable": "Familia, agrupación y variante",
+          "estado": "probado"
+        },
+        {
+          "filtro": "territorio_indigena",
+          "variable": "Localidades de cada variante (CLIN 2010 georreferenciado)",
+          "estado": "probado"
+        }
+      ],
+      "description": "Da la unidad que los censos no captan: la variante. Con su localización se infiere la variante probable de cada hablante y con el libro de 2012 se clasifica el riesgo de desaparición.",
+      "nota": "No estaba en la bitácora porque no es una encuesta, pero los dos sitios dependen de él. La variante de cada hablante es una inferencia rotulada («variante probable»): ningún censo la pregunta.",
+      "pendientes": [
+        "Actualizar el grado de riesgo con datos 2020 - 2025 (hoy se estima con la regla del INALI)."
+      ],
+      "analisis": [
+        {
+          "titulo": "Cuántas lenguas y cuántas variantes",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/lenguas-de-mexico",
+          "ediciones": [
+            2008
+          ],
+          "forma": "treemap"
+        },
+        {
+          "titulo": "Las variantes de cada lengua en la ciudad",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/variantes",
+          "ediciones": [
+            2010
+          ],
+          "forma": "barras y heatmap"
+        },
+        {
+          "titulo": "Cuántas variantes están en riesgo",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/lenguas-en-riesgo",
+          "ediciones": [
+            2012
+          ],
+          "forma": "unidades"
+        },
+        {
+          "titulo": "Variantes por grado de riesgo y de qué grado a qué grado pasaron",
+          "sitio": "perdida-lengua",
+          "ruta": "/lenguas-en-riesgo",
+          "ediciones": [
+            2012
+          ],
+          "forma": "barras al 100 % y aluvial"
+        }
+      ],
+      "fuentesIds": [
+        "D-INALI-CLIN-2008",
+        "D-INALI-CLIN-2010-GEO",
+        "D-INALI-RIESGO-2012"
+      ],
+      "tags": [
+        "lengua",
+        "variante",
+        "riesgo"
+      ]
+    },
+    {
+      "slug": "coneval",
+      "sigla": "CONEVAL",
+      "title": "Medición de la pobreza",
+      "sourceOrg": "CONEVAL (hoy INEGI)",
+      "sourceUrl": "https://www.coneval.org.mx/Medicion/MP/Paginas/AE_pobreza_2022.aspx",
+      "survey": "OTRA",
+      "periodType": "BIANNUAL",
+      "tipo": "Indicador derivado",
+      "ediciones": [
+        2015,
+        2016,
+        2018,
+        2020,
+        2022,
+        2024
+      ],
+      "edicionesProcesadas": [
+        2016,
+        2018,
+        2020,
+        2022,
+        2024
+      ],
+      "estado": "parcial",
+      "estadoBitacora": "pendiente",
+      "universo": "Población total; población indígena por pertenencia étnica (hogar indígena) o por lengua.",
+      "niveles": {
+        "nacional": "probado",
+        "entidad": "disponible",
+        "municipio": "disponible",
+        "ageb": "probado"
+      },
+      "filtros": [
+        {
+          "filtro": "hogar_indigena",
+          "variable": "Pertenencia étnica (anexo estadístico)",
+          "estado": "probado"
+        },
+        {
+          "filtro": "hli",
+          "variable": "Hablantes (anexo estadístico)",
+          "estado": "probado"
+        },
+        {
+          "filtro": "territorio_indigena",
+          "variable": "Municipios indígenas (clasificación incluida)",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "Anexo de grupos poblacionales",
+          "estado": "probado"
+        },
+        {
+          "filtro": "edad",
+          "variable": "Anexo de grupos poblacionales",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "ingreso",
+          "variable": "% bajo las líneas de pobreza (agregado)",
+          "estado": "probado"
+        }
+      ],
+      "description": "Lleva la pobreza oficial al municipio. En 2020, en 9 de cada 10 municipios indígenas más de 60 % de la población estaba en pobreza.",
+      "nota": "La bitácora registra la pobreza municipal 2015 y 2020, que todavía no se procesa. Lo que ya se usa es la serie nacional por grupo 2016 - 2024 (indicador derivado de la ENIGH) y el grado de rezago social por AGEB 2020 en la Ciudad de México.",
+      "pendientes": [
+        "Pobreza municipal 2015 y 2020 cruzada con el Censo por clave de municipio.",
+        "Las seis carencias por municipio."
+      ],
+      "analisis": [
+        {
+          "titulo": "Pobreza y pobreza extrema, 2016 - 2024",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/condiciones-de-vida",
+          "ediciones": [
+            2016,
+            2018,
+            2020,
+            2022,
+            2024
+          ],
+          "forma": "línea"
+        },
+        {
+          "titulo": "Carencias sociales",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/condiciones-de-vida",
+          "ediciones": [
+            2016,
+            2022
+          ],
+          "forma": "dumbbell"
+        },
+        {
+          "titulo": "Marginación y rezago social según el umbral de presencia indígena (AGEB)",
+          "sitio": "grupos-originarios",
+          "ruta": "/mapa-agebs",
+          "ediciones": [
+            2020
+          ],
+          "forma": "dumbbell"
+        }
+      ],
+      "fuentesIds": [
+        "D-CONEVAL-AE-2022",
+        "D-CONEVAL-GRS-2020"
+      ],
+      "tags": [
+        "pobreza",
+        "carencias"
+      ]
+    },
+    {
+      "slug": "conapo",
+      "sigla": "CONAPO",
+      "title": "Índice de marginación",
+      "sourceOrg": "CONAPO",
+      "sourceUrl": "https://www.datos.gob.mx/dataset/indices_marginacion",
+      "survey": "OTRA",
+      "periodType": "MULTIYEAR",
+      "tipo": "Indicador derivado",
+      "ediciones": [
+        2015,
+        2020
+      ],
+      "edicionesProcesadas": [
+        2020
+      ],
+      "estado": "parcial",
+      "estadoBitacora": "pendiente",
+      "universo": "Unidades territoriales: entidad, municipio, localidad, AGEB urbana y colonia.",
+      "niveles": {
+        "entidad": "disponible",
+        "municipio": "disponible",
+        "localidad": "disponible",
+        "ageb": "probado",
+        "manzana": "disponible"
+      },
+      "filtros": [
+        {
+          "filtro": "hli",
+          "variable": "Cruce con el Censo por clave geográfica (hasta AGEB)",
+          "estado": "probado"
+        },
+        {
+          "filtro": "hogar_indigena",
+          "variable": "Cruce con el Censo por clave geográfica",
+          "estado": "probado"
+        },
+        {
+          "filtro": "ingreso",
+          "variable": "% de ocupados con hasta 2 salarios mínimos",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "Indicadores de educación del índice",
+          "estado": "disponible"
+        }
+      ],
+      "description": "Es la medida de carencias donde no hay ingreso ni pobreza (localidad y AGEB). Muestra cuánta población hablante vive en alta y muy alta marginación.",
+      "nota": "Clasifica cada unidad en cinco grados, de muy bajo a muy alto. Desde 2020 usa el método DP2, comparable en el tiempo. Hoy solo se usa el índice urbano 2020 de las AGEB de la Ciudad de México.",
+      "pendientes": [
+        "Índice municipal y por localidad de todo el país, 2015 y 2020.",
+        "Índice por colonia."
+      ],
+      "analisis": [
+        {
+          "titulo": "Presencia indígena y marginación urbana",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/colonias-y-marginacion",
+          "ediciones": [
+            2020
+          ],
+          "forma": "barras por grado"
+        },
+        {
+          "titulo": "Conectividad y marginación según la presencia indígena (AGEB)",
+          "sitio": "grupos-originarios",
+          "ruta": "/mapa-agebs",
+          "ediciones": [
+            2020
+          ],
+          "forma": "dumbbell"
+        }
+      ],
+      "fuentesIds": [
+        "D-CONAPO-IMU-2020"
+      ],
+      "tags": [
+        "marginacion",
+        "territorio"
+      ]
+    },
+    {
+      "slug": "inpi",
+      "sigla": "INPI",
+      "title": "Indicadores Socioeconómicos de los Pueblos Indígenas y Afromexicano",
+      "sourceOrg": "INPI (antes CDI)",
+      "sourceUrl": "https://www.inpi.gob.mx/indicadores2020/",
+      "survey": "OTRA",
+      "periodType": "MULTIYEAR",
+      "tipo": "Indicador derivado",
+      "ediciones": [
+        2015,
+        2020
+      ],
+      "edicionesProcesadas": [
+        2020
+      ],
+      "estado": "parcial",
+      "estadoBitacora": "pendiente",
+      "universo": "Población en hogares indígenas más hablantes fuera de ellos; incluye menores de 3 años.",
+      "niveles": {
+        "nacional": "probado",
+        "entidad": "probado",
+        "municipio": "probado",
+        "localidad": "disponible"
+      },
+      "filtros": [
+        {
+          "filtro": "autoads",
+          "variable": "Hasta municipio (principal)",
+          "estado": "probado",
+          "detalle": "Se cotejó la autoadscripción municipal propia contra la del INPI."
+        },
+        {
+          "filtro": "hogar_indigena",
+          "variable": "Hasta localidad",
+          "estado": "probado"
+        },
+        {
+          "filtro": "afro",
+          "variable": "Hasta municipio",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "territorio_indigena",
+          "variable": "Tipología municipal",
+          "estado": "probado"
+        },
+        {
+          "filtro": "edad",
+          "variable": "Grupos de edad; incluye menores de 3 años",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "ingreso",
+          "variable": "Por trabajo, en rangos de salario mínimo",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "Educación",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "salud",
+          "variable": "Salud",
+          "estado": "disponible"
+        }
+      ],
+      "description": "Da ya calculado el «hogar indígena» y es la cifra de referencia de la política indígena. Lista para cruzar con pobreza y marginación.",
+      "nota": "Hogar indígena: aquel donde el jefe(a), cónyuge o algún ascendiente habla lengua indígena; se suman los hablantes fuera de esos hogares.",
+      "pendientes": [
+        "Edición 2015.",
+        "Localidad.",
+        "Indicadores de educación, salud y vivienda."
+      ],
+      "analisis": [
+        {
+          "titulo": "La ciudad entre las 32 entidades (población indígena INPI)",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/la-ciudad-en-el-pais",
+          "ediciones": [
+            2020
+          ],
+          "forma": "coropleta"
+        },
+        {
+          "titulo": "Opción «Población indígena INPI» del panel de censo",
+          "sitio": "grupos-originarios",
+          "ruta": "/libro/donde-viven",
+          "ediciones": [
+            2020
+          ],
+          "forma": "barras con intervalo"
+        }
+      ],
+      "fuentesIds": [
+        "D-INPI-2020-HOG",
+        "D-INPI-2020-AUTO"
+      ],
+      "tags": [
+        "hogar-indigena",
+        "politica-publica"
+      ]
+    },
+    {
+      "slug": "ensanut",
+      "sigla": "ENSANUT",
+      "title": "Encuesta Nacional de Salud y Nutrición",
+      "sourceOrg": "INSP y Secretaría de Salud",
+      "sourceUrl": "https://ensanut.insp.mx/",
+      "survey": "OTRA",
+      "periodType": "ANNUAL",
+      "tipo": "Encuesta en hogares",
+      "ediciones": [
+        2016,
+        2018,
+        2020,
+        2021,
+        2022,
+        2023
+      ],
+      "edicionesProcesadas": [],
+      "estado": "identificada",
+      "estadoBitacora": "pendiente",
+      "universo": "Hogares y todos los grupos de edad; lengua desde 5 años.",
+      "niveles": {
+        "nacional": "disponible",
+        "region": "disponible",
+        "entidad": "por-confirmar"
+      },
+      "filtros": [
+        {
+          "filtro": "hli",
+          "variable": "Hogar, 5 años o más",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "habla_espanol",
+          "variable": "Cuestionario de hogar",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "autoads",
+          "variable": "Por confirmar según edición",
+          "estado": "por-confirmar"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "Todos los grupos",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "edad",
+          "variable": "Todos los grupos",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "ingreso",
+          "variable": "Bienestar en quintiles, no deciles",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "tam_loc",
+          "variable": "Urbano o rural",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "salud",
+          "variable": "Antropometría, anemia, diabetes, uso de servicios",
+          "estado": "disponible"
+        }
+      ],
+      "description": "Única fuente con mediciones físicas: desnutrición infantil, anemia, diabetes y acceso a servicios de salud en población indígena.",
+      "nota": "Los filtros se unen por folio con los módulos de salud, nutrición y antropometría. Representativa por entidad solo en 2018.",
+      "pendientes": [
+        "Descargar microdatos y confirmar autoadscripción por edición.",
+        "Unir por folio hogar, integrantes y módulos de salud."
+      ],
+      "analisis": [],
+      "fuentesIds": [],
+      "tags": [
+        "salud",
+        "nutricion"
+      ]
+    },
+    {
+      "slug": "registros-salud",
+      "sigla": "Registros de salud",
+      "title": "Defunciones, nacimientos y egresos hospitalarios",
+      "sourceOrg": "INEGI y DGIS",
+      "sourceUrl": "https://www.inegi.org.mx/programas/edr/",
+      "survey": "OTRA",
+      "periodType": "ANNUAL",
+      "tipo": "Registro administrativo",
+      "ediciones": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ],
+      "edicionesProcesadas": [],
+      "estado": "identificada",
+      "estadoBitacora": "pendiente",
+      "universo": "Cada defunción, nacimiento o egreso registrado.",
+      "niveles": {
+        "nacional": "disponible",
+        "entidad": "disponible",
+        "municipio": "disponible",
+        "localidad": "disponible"
+      },
+      "filtros": [
+        {
+          "filtro": "hli",
+          "variable": "Defunciones, variable LENGUA",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "lengua",
+          "variable": "Defunciones, desde 2022",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "autoads",
+          "variable": "Nacimientos y egresos: variable por confirmar",
+          "estado": "por-confirmar"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "Sexo",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "edad",
+          "variable": "Edad al fallecer",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "Escolaridad",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "salud",
+          "variable": "Causa de muerte y derechohabiencia",
+          "estado": "disponible"
+        }
+      ],
+      "description": "Mortalidad por causa (materna, infantil, diabetes, homicidio) de población hablante, cada año y hasta municipio. Ninguna encuesta da ese detalle.",
+      "nota": "Conviene revisar el porcentaje de «no especificado» de la variable por entidad antes de calcular tasas. El denominador sale del Censo o de las proyecciones.",
+      "pendientes": [
+        "Medir el «no especificado» de LENGUA por entidad y año.",
+        "Elegir el denominador (Censo, EIC o proyecciones)."
+      ],
+      "analisis": [],
+      "fuentesIds": [],
+      "tags": [
+        "salud",
+        "mortalidad"
+      ]
+    },
+    {
+      "slug": "formato-911",
+      "sigla": "Formato 911",
+      "title": "Estadística educativa Formato 911",
+      "sourceOrg": "SEP",
+      "sourceUrl": "https://www.planeacion.sep.gob.mx/principalescifras/",
+      "survey": "OTRA",
+      "periodType": "ANNUAL",
+      "tipo": "Registro administrativo",
+      "ediciones": [],
+      "edicionesProcesadas": [],
+      "estado": "identificada",
+      "estadoBitacora": "pendiente",
+      "universo": "Escuelas de educación básica; alumnado reportado por la dirección.",
+      "niveles": {
+        "nacional": "disponible",
+        "entidad": "disponible",
+        "municipio": "disponible",
+        "localidad": "disponible",
+        "manzana": "disponible"
+      },
+      "filtros": [
+        {
+          "filtro": "hli",
+          "variable": "Alumnado HLI por grado y sexo",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "lengua",
+          "variable": "Lengua materna, sección propia",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "territorio_indigena",
+          "variable": "Escuelas indígenas, formatos 911.111 y 911.112",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "sexo",
+          "variable": "Por grado y sexo",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "edad",
+          "variable": "Por grado y edad",
+          "estado": "disponible"
+        },
+        {
+          "filtro": "escolaridad",
+          "variable": "Grado y promoción",
+          "estado": "disponible"
+        }
+      ],
+      "description": "Mide la oferta educativa: dónde están los alumnos hablantes, si asisten a escuela indígena o general, su promoción, becas y recursos del plantel.",
+      "nota": "Es un dato reportado por la dirección de cada escuela, no autodeclarado por el alumnado. Periodicidad por ciclo escolar; el nivel más fino es la escuela.",
+      "pendientes": [
+        "Elegir los ciclos escolares y descargar las bases.",
+        "Llave escuela-localidad para cruzar con el Censo."
+      ],
+      "analisis": [],
+      "fuentesIds": [],
+      "tags": [
+        "educacion"
+      ]
+    }
+  ]
+}

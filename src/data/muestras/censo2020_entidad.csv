@@ -1,0 +1,2014 @@
+fuente,edicion,nivel,cve,nombre,criterio,sexo,edad,num,den,ee,cota
+censo,2020,nacional,00,Todo el país,ambas,Hombres,15-29,837711.0,15384023.0,0.001218,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Hombres,15-29,624.0,182774.0,0.000938,muestra
+censo,2020,entidad,02,Baja California,ambas,Hombres,15-29,8685.0,500039.0,0.002282,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Hombres,15-29,1551.0,98766.0,0.002383,muestra
+censo,2020,entidad,04,Campeche,ambas,Hombres,15-29,7502.0,111059.0,0.006042,muestra
+censo,2020,entidad,05,Coahuila,ambas,Hombres,15-29,956.0,390524.0,0.000346,muestra
+censo,2020,entidad,06,Colima,ambas,Hombres,15-29,578.0,88309.0,0.001679,muestra
+censo,2020,entidad,07,Chiapas,ambas,Hombres,15-29,220250.0,688710.0,0.018024,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Hombres,15-29,14919.0,465972.0,0.001343,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Hombres,15-29,11691.0,1045960.0,0.000925,muestra
+censo,2020,entidad,10,Durango,ambas,Hombres,15-29,6558.0,228614.0,0.001708,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Hombres,15-29,1961.0,787344.0,0.000258,muestra
+censo,2020,entidad,12,Guerrero,ambas,Hombres,15-29,59523.0,410209.0,0.00396,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Hombres,15-29,37453.0,362955.0,0.008519,muestra
+censo,2020,entidad,14,Jalisco,ambas,Hombres,15-29,10812.0,1030896.0,0.001334,muestra
+censo,2020,entidad,15,México,ambas,Hombres,15-29,26800.0,2107315.0,0.00048,muestra
+censo,2020,entidad,16,Michoacán,ambas,Hombres,15-29,18966.0,570699.0,0.001799,muestra
+censo,2020,entidad,17,Morelos,ambas,Hombres,15-29,3305.0,237983.0,0.000995,muestra
+censo,2020,entidad,18,Nayarit,ambas,Hombres,15-29,9646.0,145299.0,0.004398,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Hombres,15-29,16867.0,742972.0,0.000932,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Hombres,15-29,122113.0,465296.0,0.004205,muestra
+censo,2020,entidad,21,Puebla,ambas,Hombres,15-29,63051.0,832016.0,0.003494,muestra
+censo,2020,entidad,22,Querétaro,ambas,Hombres,15-29,3170.0,305043.0,0.001412,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Hombres,15-29,24915.0,249369.0,0.01075,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Hombres,15-29,27233.0,346042.0,0.006038,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Hombres,15-29,4499.0,366809.0,0.001723,muestra
+censo,2020,entidad,26,Sonora,ambas,Hombres,15-29,5587.0,357916.0,0.001196,muestra
+censo,2020,entidad,27,Tabasco,ambas,Hombres,15-29,9461.0,280026.0,0.005252,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Hombres,15-29,3223.0,430377.0,0.000521,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Hombres,15-29,1945.0,169530.0,0.001199,muestra
+censo,2020,entidad,30,Veracruz,ambas,Hombres,15-29,62841.0,905652.0,0.002378,muestra
+censo,2020,entidad,31,Yucatán,ambas,Hombres,15-29,50456.0,293594.0,0.004299,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Hombres,15-29,570.0,185954.0,0.000267,muestra
+censo,2020,nacional,00,Todo el país,ambas,Hombres,3-14,662800.0,13266926.0,0.001316,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Hombres,3-14,11.0,161225.0,,muestra
+censo,2020,entidad,02,Baja California,ambas,Hombres,3-14,1805.0,382177.0,0.000339,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Hombres,3-14,371.0,84437.0,0.000875,muestra
+censo,2020,entidad,04,Campeche,ambas,Hombres,3-14,3070.0,99440.0,0.003901,muestra
+censo,2020,entidad,05,Coahuila,ambas,Hombres,3-14,18.0,336765.0,,muestra
+censo,2020,entidad,06,Colima,ambas,Hombres,3-14,242.0,71674.0,0.000605,muestra
+censo,2020,entidad,07,Chiapas,ambas,Hombres,3-14,240394.0,731817.0,0.015439,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Hombres,3-14,13528.0,402304.0,0.001331,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Hombres,3-14,2124.0,711279.0,0.000444,muestra
+censo,2020,entidad,10,Durango,ambas,Hombres,3-14,8235.0,214881.0,0.002364,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Hombres,3-14,642.0,677384.0,0.000111,muestra
+censo,2020,entidad,12,Guerrero,ambas,Hombres,3-14,59254.0,432296.0,0.003891,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Hombres,3-14,27310.0,333431.0,0.008276,muestra
+censo,2020,entidad,14,Jalisco,ambas,Hombres,3-14,5936.0,885075.0,0.000494,muestra
+censo,2020,entidad,15,México,ambas,Hombres,3-14,8218.0,1725421.0,0.000273,muestra
+censo,2020,entidad,16,Michoacán,ambas,Hombres,3-14,13781.0,523207.0,0.001684,muestra
+censo,2020,entidad,17,Morelos,ambas,Hombres,3-14,1667.0,197247.0,0.001339,muestra
+censo,2020,entidad,18,Nayarit,ambas,Hombres,3-14,10008.0,140944.0,0.004348,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Hombres,3-14,1167.0,574161.0,0.000205,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Hombres,3-14,105433.0,473618.0,0.004344,muestra
+censo,2020,entidad,21,Puebla,ambas,Hombres,3-14,45726.0,740624.0,0.004554,muestra
+censo,2020,entidad,22,Querétaro,ambas,Hombres,3-14,1032.0,242330.0,0.000933,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Hombres,3-14,7958.0,196165.0,0.006814,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Hombres,3-14,20345.0,301766.0,0.005847,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Hombres,3-14,1074.0,306154.0,0.000283,muestra
+censo,2020,entidad,26,Sonora,ambas,Hombres,3-14,2582.0,304136.0,0.000829,muestra
+censo,2020,entidad,27,Tabasco,ambas,Hombres,3-14,7400.0,266213.0,0.011181,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Hombres,3-14,448.0,361840.0,0.000422,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Hombres,3-14,947.0,148601.0,0.000965,muestra
+censo,2020,entidad,30,Veracruz,ambas,Hombres,3-14,50394.0,820223.0,0.00225,muestra
+censo,2020,entidad,31,Yucatán,ambas,Hombres,3-14,21246.0,231729.0,0.003497,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Hombres,3-14,434.0,188362.0,0.000806,muestra
+censo,2020,nacional,00,Todo el país,ambas,Hombres,30-59,1390176.0,22517553.0,0.000862,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Hombres,30-59,762.0,244313.0,4.5e-05,muestra
+censo,2020,entidad,02,Baja California,ambas,Hombres,30-59,13724.0,756372.0,0.001267,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Hombres,30-59,3855.0,162205.0,0.001656,muestra
+censo,2020,entidad,04,Campeche,ambas,Hombres,30-59,19693.0,172720.0,0.006433,muestra
+censo,2020,entidad,05,Coahuila,ambas,Hombres,30-59,804.0,579383.0,5.2e-05,muestra
+censo,2020,entidad,06,Colima,ambas,Hombres,30-59,1125.0,139135.0,0.000604,muestra
+censo,2020,entidad,07,Chiapas,ambas,Hombres,30-59,229566.0,853099.0,0.01385,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Hombres,30-59,20284.0,693065.0,0.00111,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Hombres,30-59,28946.0,1826468.0,0.000844,muestra
+censo,2020,entidad,10,Durango,ambas,Hombres,30-59,6213.0,306286.0,0.000988,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Hombres,30-59,2863.0,1042898.0,0.000124,muestra
+censo,2020,entidad,12,Guerrero,ambas,Hombres,30-59,69600.0,547802.0,0.003127,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Hombres,30-59,74944.0,532378.0,0.007602,muestra
+censo,2020,entidad,14,Jalisco,ambas,Hombres,30-59,12720.0,1490963.0,0.000468,muestra
+censo,2020,entidad,15,México,ambas,Hombres,30-59,97380.0,3130307.0,0.001153,muestra
+censo,2020,entidad,16,Michoacán,ambas,Hombres,30-59,26739.0,783395.0,0.001623,muestra
+censo,2020,entidad,17,Morelos,ambas,Hombres,30-59,8089.0,346280.0,0.001673,muestra
+censo,2020,entidad,18,Nayarit,ambas,Hombres,30-59,10723.0,214406.0,0.003156,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Hombres,30-59,20988.0,1128321.0,0.000653,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Hombres,30-59,220514.0,666499.0,0.005171,muestra
+censo,2020,entidad,21,Puebla,ambas,Hombres,30-59,116587.0,1080753.0,0.004086,muestra
+censo,2020,entidad,22,Querétaro,ambas,Hombres,30-59,5979.0,435515.0,0.001527,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Hombres,30-59,58332.0,374520.0,0.010902,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Hombres,30-59,46178.0,481167.0,0.008049,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Hombres,30-59,5668.0,535023.0,0.000726,muestra
+censo,2020,entidad,26,Sonora,ambas,Hombres,30-59,12477.0,554125.0,0.001107,muestra
+censo,2020,entidad,27,Tabasco,ambas,Hombres,30-59,19941.0,430779.0,0.007388,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Hombres,30-59,7439.0,660711.0,0.000526,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Hombres,30-59,5137.0,230610.0,0.001756,muestra
+censo,2020,entidad,30,Veracruz,ambas,Hombres,30-59,121229.0,1417093.0,0.002869,muestra
+censo,2020,entidad,31,Yucatán,ambas,Hombres,30-59,120874.0,428571.0,0.005405,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Hombres,30-59,803.0,272391.0,0.000235,muestra
+censo,2020,nacional,00,Todo el país,ambas,Hombres,60+,583469.0,7029453.0,0.000926,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Hombres,60+,27.0,65148.0,0.0,muestra
+censo,2020,entidad,02,Baja California,ambas,Hombres,60+,3876.0,170085.0,0.001113,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Hombres,60+,423.0,35854.0,0.000711,muestra
+censo,2020,entidad,04,Campeche,ambas,Hombres,60+,11527.0,49117.0,0.009526,muestra
+censo,2020,entidad,05,Coahuila,ambas,Hombres,60+,227.0,173166.0,1e-06,muestra
+censo,2020,entidad,06,Colima,ambas,Hombres,60+,129.0,42465.0,3.6e-05,muestra
+censo,2020,entidad,07,Chiapas,ambas,Hombres,60+,58259.0,248055.0,0.010441,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Hombres,60+,5127.0,193149.0,0.000798,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Hombres,60+,10866.0,653881.0,0.00057,muestra
+censo,2020,entidad,10,Durango,ambas,Hombres,60+,1544.0,96765.0,0.000518,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Hombres,60+,590.0,307448.0,7.4e-05,muestra
+censo,2020,entidad,12,Guerrero,ambas,Hombres,60+,28462.0,205720.0,0.00322,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Hombres,60+,38728.0,179965.0,0.008923,muestra
+censo,2020,entidad,14,Jalisco,ambas,Hombres,60+,2099.0,456005.0,0.000161,muestra
+censo,2020,entidad,15,México,ambas,Hombres,60+,39959.0,882387.0,0.001379,muestra
+censo,2020,entidad,16,Michoacán,ambas,Hombres,60+,10559.0,287320.0,0.001377,muestra
+censo,2020,entidad,17,Morelos,ambas,Hombres,60+,4999.0,124846.0,0.001948,muestra
+censo,2020,entidad,18,Nayarit,ambas,Hombres,60+,2794.0,75828.0,0.002933,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Hombres,60+,1336.0,309975.0,0.000124,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Hombres,60+,110163.0,256489.0,0.005228,muestra
+censo,2020,entidad,21,Puebla,ambas,Hombres,60+,52143.0,332288.0,0.004447,muestra
+censo,2020,entidad,22,Querétaro,ambas,Hombres,60+,1565.0,115809.0,0.001529,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Hombres,60+,16896.0,66610.0,0.02363,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Hombres,60+,25508.0,174453.0,0.012028,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Hombres,60+,2334.0,186287.0,0.001275,muestra
+censo,2020,entidad,26,Sonora,ambas,Hombres,60+,6937.0,170458.0,0.002557,muestra
+censo,2020,entidad,27,Tabasco,ambas,Hombres,60+,7103.0,127135.0,0.0056,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Hombres,60+,1453.0,199899.0,0.000182,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Hombres,60+,3323.0,68337.0,0.002306,muestra
+censo,2020,entidad,30,Veracruz,ambas,Hombres,60+,70660.0,541553.0,0.005663,muestra
+censo,2020,entidad,31,Yucatán,ambas,Hombres,60+,63715.0,138709.0,0.007716,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Hombres,60+,138.0,94247.0,8e-05,muestra
+censo,2020,nacional,00,Todo el país,ambas,Hombres,Todas,3474156.0,58197955.0,0.001033,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Hombres,Todas,1424.0,653460.0,0.000325,muestra
+censo,2020,entidad,02,Baja California,ambas,Hombres,Todas,28090.0,1808673.0,0.001244,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Hombres,Todas,6200.0,381262.0,0.001391,muestra
+censo,2020,entidad,04,Campeche,ambas,Hombres,Todas,41792.0,432336.0,0.005696,muestra
+censo,2020,entidad,05,Coahuila,ambas,Hombres,Todas,2005.0,1479838.0,0.000103,muestra
+censo,2020,entidad,06,Colima,ambas,Hombres,Todas,2074.0,341583.0,0.000612,muestra
+censo,2020,entidad,07,Chiapas,ambas,Hombres,Todas,748469.0,2521681.0,0.015532,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Hombres,Todas,53858.0,1754490.0,0.001143,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Hombres,Todas,53627.0,4237588.0,0.000684,muestra
+censo,2020,entidad,10,Durango,ambas,Hombres,Todas,22550.0,846546.0,0.001505,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Hombres,Todas,6056.0,2815074.0,0.000161,muestra
+censo,2020,entidad,12,Guerrero,ambas,Hombres,Todas,216839.0,1596027.0,0.003898,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Hombres,Todas,178435.0,1408729.0,0.007957,muestra
+censo,2020,entidad,14,Jalisco,ambas,Hombres,Todas,31567.0,3862939.0,0.000593,muestra
+censo,2020,entidad,15,México,ambas,Hombres,Todas,172357.0,7845430.0,0.000769,muestra
+censo,2020,entidad,16,Michoacán,ambas,Hombres,Todas,70045.0,2164621.0,0.001717,muestra
+censo,2020,entidad,17,Morelos,ambas,Hombres,Todas,18060.0,906356.0,0.001317,muestra
+censo,2020,entidad,18,Nayarit,ambas,Hombres,Todas,33171.0,576477.0,0.003772,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Hombres,Todas,40358.0,2755429.0,0.000566,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Hombres,Todas,558223.0,1861902.0,0.004546,muestra
+censo,2020,entidad,21,Puebla,ambas,Hombres,Todas,277507.0,2985681.0,0.003883,muestra
+censo,2020,entidad,22,Querétaro,ambas,Hombres,Todas,11746.0,1098697.0,0.00146,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Hombres,Todas,108101.0,886664.0,0.01099,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Hombres,Todas,119264.0,1303428.0,0.007138,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Hombres,Todas,13575.0,1394273.0,0.000877,muestra
+censo,2020,entidad,26,Sonora,ambas,Hombres,Todas,27583.0,1386635.0,0.001129,muestra
+censo,2020,entidad,27,Tabasco,ambas,Hombres,Todas,43905.0,1104153.0,0.007762,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Hombres,Todas,12563.0,1652827.0,0.000439,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Hombres,Todas,11352.0,617078.0,0.001411,muestra
+censo,2020,entidad,30,Veracruz,ambas,Hombres,Todas,305124.0,3684521.0,0.002931,muestra
+censo,2020,entidad,31,Yucatán,ambas,Hombres,Todas,256291.0,1092603.0,0.005047,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Hombres,Todas,1945.0,740954.0,0.00039,muestra
+censo,2020,nacional,00,Todo el país,ambas,Mujeres,15-29,880596.0,15709598.0,0.001173,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Mujeres,15-29,279.0,193077.0,1.7e-05,muestra
+censo,2020,entidad,02,Baja California,ambas,Mujeres,15-29,6178.0,478194.0,0.001258,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Mujeres,15-29,1197.0,98516.0,0.001436,muestra
+censo,2020,entidad,04,Campeche,ambas,Mujeres,15-29,7479.0,113321.0,0.005466,muestra
+censo,2020,entidad,05,Coahuila,ambas,Mujeres,15-29,474.0,383519.0,0.000139,muestra
+censo,2020,entidad,06,Colima,ambas,Mujeres,15-29,606.0,90227.0,0.000627,muestra
+censo,2020,entidad,07,Chiapas,ambas,Mujeres,15-29,233457.0,733075.0,0.016762,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Mujeres,15-29,16608.0,463011.0,0.001435,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Mujeres,15-29,12777.0,1053606.0,0.000949,muestra
+censo,2020,entidad,10,Durango,ambas,Mujeres,15-29,6909.0,230581.0,0.00152,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Mujeres,15-29,1646.0,812097.0,0.00018,muestra
+censo,2020,entidad,12,Guerrero,ambas,Mujeres,15-29,70279.0,449808.0,0.003684,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Mujeres,15-29,37323.0,378404.0,0.007487,muestra
+censo,2020,entidad,14,Jalisco,ambas,Mujeres,15-29,10790.0,1057273.0,0.000534,muestra
+censo,2020,entidad,15,México,ambas,Mujeres,15-29,27527.0,2137530.0,0.000486,muestra
+censo,2020,entidad,16,Michoacán,ambas,Mujeres,15-29,18668.0,593012.0,0.001652,muestra
+censo,2020,entidad,17,Morelos,ambas,Mujeres,15-29,3337.0,243374.0,0.001035,muestra
+censo,2020,entidad,18,Nayarit,ambas,Mujeres,15-29,10318.0,147586.0,0.004085,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Mujeres,15-29,15221.0,711102.0,0.000826,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Mujeres,15-29,138681.0,504182.0,0.004229,muestra
+censo,2020,entidad,21,Puebla,ambas,Mujeres,15-29,70608.0,858867.0,0.003711,muestra
+censo,2020,entidad,22,Querétaro,ambas,Mujeres,15-29,3035.0,305429.0,0.001518,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Mujeres,15-29,21570.0,245933.0,0.009616,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Mujeres,15-29,27939.0,358063.0,0.005981,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Mujeres,15-29,3296.0,376529.0,0.000653,muestra
+censo,2020,entidad,26,Sonora,ambas,Mujeres,15-29,5132.0,361356.0,0.001005,muestra
+censo,2020,entidad,27,Tabasco,ambas,Mujeres,15-29,10157.0,292891.0,0.006098,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Mujeres,15-29,2851.0,422643.0,0.000435,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Mujeres,15-29,2233.0,172166.0,0.001249,muestra
+censo,2020,entidad,30,Veracruz,ambas,Mujeres,15-29,68937.0,955146.0,0.002763,muestra
+censo,2020,entidad,31,Yucatán,ambas,Mujeres,15-29,44452.0,289673.0,0.004157,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Mujeres,15-29,632.0,199407.0,0.000313,muestra
+censo,2020,nacional,00,Todo el país,ambas,Mujeres,3-14,662770.0,12854116.0,0.001398,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Mujeres,3-14,103.0,155491.0,7.1e-05,muestra
+censo,2020,entidad,02,Baja California,ambas,Mujeres,3-14,1967.0,363010.0,0.000297,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Mujeres,3-14,122.0,79307.0,0.000101,muestra
+censo,2020,entidad,04,Campeche,ambas,Mujeres,3-14,3091.0,96681.0,0.003834,muestra
+censo,2020,entidad,05,Coahuila,ambas,Mujeres,3-14,19.0,325956.0,,muestra
+censo,2020,entidad,06,Colima,ambas,Mujeres,3-14,313.0,72136.0,0.000677,muestra
+censo,2020,entidad,07,Chiapas,ambas,Mujeres,3-14,239805.0,716983.0,0.016081,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Mujeres,3-14,13263.0,400056.0,0.001425,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Mujeres,3-14,2550.0,683414.0,0.000386,muestra
+censo,2020,entidad,10,Durango,ambas,Mujeres,3-14,8300.0,207562.0,0.002145,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Mujeres,3-14,613.0,669459.0,0.000117,muestra
+censo,2020,entidad,12,Guerrero,ambas,Mujeres,3-14,60012.0,411098.0,0.00381,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Mujeres,3-14,27859.0,323262.0,0.009166,muestra
+censo,2020,entidad,14,Jalisco,ambas,Mujeres,3-14,5999.0,854119.0,0.000638,muestra
+censo,2020,entidad,15,México,ambas,Mujeres,3-14,8234.0,1679306.0,0.000316,muestra
+censo,2020,entidad,16,Michoacán,ambas,Mujeres,3-14,13662.0,509942.0,0.001547,muestra
+censo,2020,entidad,17,Morelos,ambas,Mujeres,3-14,1596.0,189030.0,0.001835,muestra
+censo,2020,entidad,18,Nayarit,ambas,Mujeres,3-14,10330.0,132334.0,0.005071,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Mujeres,3-14,1093.0,546728.0,0.000171,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Mujeres,3-14,105629.0,461031.0,0.004394,muestra
+censo,2020,entidad,21,Puebla,ambas,Mujeres,3-14,45310.0,714203.0,0.004143,muestra
+censo,2020,entidad,22,Querétaro,ambas,Mujeres,3-14,1044.0,235096.0,0.001098,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Mujeres,3-14,7303.0,188314.0,0.006455,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Mujeres,3-14,19303.0,291210.0,0.00583,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Mujeres,3-14,1366.0,292820.0,0.000276,muestra
+censo,2020,entidad,26,Sonora,ambas,Mujeres,3-14,2703.0,293586.0,0.000812,muestra
+censo,2020,entidad,27,Tabasco,ambas,Mujeres,3-14,7743.0,263176.0,0.009302,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Mujeres,3-14,202.0,353159.0,7.9e-05,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Mujeres,3-14,988.0,140508.0,0.000644,muestra
+censo,2020,entidad,30,Veracruz,ambas,Mujeres,3-14,50627.0,799205.0,0.002619,muestra
+censo,2020,entidad,31,Yucatán,ambas,Mujeres,3-14,21104.0,222519.0,0.004101,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Mujeres,3-14,517.0,183415.0,0.000759,muestra
+censo,2020,nacional,00,Todo el país,ambas,Mujeres,30-59,1504178.0,24757356.0,0.000828,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Mujeres,30-59,155.0,269806.0,1.5e-05,muestra
+censo,2020,entidad,02,Baja California,ambas,Mujeres,30-59,12964.0,741253.0,0.00125,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Mujeres,30-59,2252.0,159029.0,0.001035,muestra
+censo,2020,entidad,04,Campeche,ambas,Mujeres,30-59,19289.0,186341.0,0.00553,muestra
+censo,2020,entidad,05,Coahuila,ambas,Mujeres,30-59,489.0,597786.0,1.4e-05,muestra
+censo,2020,entidad,06,Colima,ambas,Mujeres,30-59,852.0,147210.0,0.000438,muestra
+censo,2020,entidad,07,Chiapas,ambas,Mujeres,30-59,247340.0,955490.0,0.013286,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Mujeres,30-59,21592.0,718706.0,0.0009,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Mujeres,30-59,32056.0,2054560.0,0.000762,muestra
+censo,2020,entidad,10,Durango,ambas,Mujeres,30-59,6825.0,334356.0,0.001134,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Mujeres,30-59,2275.0,1175914.0,0.000148,muestra
+censo,2020,entidad,12,Guerrero,ambas,Mujeres,30-59,87415.0,633620.0,0.003488,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Mujeres,30-59,80541.0,621956.0,0.006814,muestra
+censo,2020,entidad,14,Jalisco,ambas,Mujeres,30-59,12900.0,1600473.0,0.000364,muestra
+censo,2020,entidad,15,México,ambas,Mujeres,30-59,106902.0,3496186.0,0.001145,muestra
+censo,2020,entidad,16,Michoacán,ambas,Mujeres,30-59,28200.0,882281.0,0.001562,muestra
+censo,2020,entidad,17,Morelos,ambas,Mujeres,30-59,8744.0,398144.0,0.001196,muestra
+censo,2020,entidad,18,Nayarit,ambas,Mujeres,30-59,11474.0,230425.0,0.003106,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Mujeres,30-59,19975.0,1130320.0,0.000639,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Mujeres,30-59,258630.0,780959.0,0.004758,muestra
+censo,2020,entidad,21,Puebla,ambas,Mujeres,30-59,132925.0,1254733.0,0.00383,muestra
+censo,2020,entidad,22,Querétaro,ambas,Mujeres,30-59,5562.0,478931.0,0.001664,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Mujeres,30-59,50709.0,375361.0,0.010857,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Mujeres,30-59,48838.0,537000.0,0.007531,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Mujeres,30-59,4634.0,574296.0,0.000518,muestra
+censo,2020,entidad,26,Sonora,ambas,Mujeres,30-59,10482.0,564797.0,0.001067,muestra
+censo,2020,entidad,27,Tabasco,ambas,Mujeres,30-59,19865.0,482025.0,0.005826,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Mujeres,30-59,6881.0,705906.0,0.000406,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Mujeres,30-59,5547.0,266673.0,0.001444,muestra
+censo,2020,entidad,30,Veracruz,ambas,Mujeres,30-59,138251.0,1640316.0,0.002743,muestra
+censo,2020,entidad,31,Yucatán,ambas,Mujeres,30-59,118814.0,459412.0,0.005579,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Mujeres,30-59,800.0,303091.0,0.000373,muestra
+censo,2020,nacional,00,Todo el país,ambas,Mujeres,60+,626963.0,8173873.0,0.000844,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Mujeres,60+,78.0,76638.0,,muestra
+censo,2020,entidad,02,Baja California,ambas,Mujeres,60+,2972.0,194890.0,0.001126,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Mujeres,60+,497.0,38647.0,0.000577,muestra
+censo,2020,entidad,04,Campeche,ambas,Mujeres,60+,10256.0,51989.0,0.008226,muestra
+censo,2020,entidad,05,Coahuila,ambas,Mujeres,60+,107.0,187880.0,6e-06,muestra
+censo,2020,entidad,06,Colima,ambas,Mujeres,60+,129.0,47005.0,7e-06,muestra
+censo,2020,entidad,07,Chiapas,ambas,Mujeres,60+,56556.0,255658.0,0.010522,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Mujeres,60+,5485.0,222247.0,0.000732,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Mujeres,60+,14253.0,862058.0,0.000557,muestra
+censo,2020,entidad,10,Durango,ambas,Mujeres,60+,1460.0,104450.0,0.000572,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Mujeres,60+,554.0,352721.0,9.7e-05,muestra
+censo,2020,entidad,12,Guerrero,ambas,Mujeres,60+,31929.0,235768.0,0.003325,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Mujeres,60+,41611.0,207253.0,0.009067,muestra
+censo,2020,entidad,14,Jalisco,ambas,Mujeres,60+,1640.0,544578.0,0.000123,muestra
+censo,2020,entidad,15,México,ambas,Mujeres,60+,52579.0,1054970.0,0.001869,muestra
+censo,2020,entidad,16,Michoacán,ambas,Mujeres,60+,11183.0,326499.0,0.001265,muestra
+censo,2020,entidad,17,Morelos,ambas,Mujeres,60+,4676.0,141593.0,0.002281,muestra
+censo,2020,entidad,18,Nayarit,ambas,Mujeres,60+,2685.0,80364.0,0.002465,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Mujeres,60+,1089.0,364499.0,2.1e-05,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Mujeres,60+,127469.0,298714.0,0.005127,muestra
+censo,2020,entidad,21,Puebla,ambas,Mujeres,60+,64150.0,408855.0,0.004284,muestra
+censo,2020,entidad,22,Querétaro,ambas,Mujeres,60+,2526.0,135347.0,0.002005,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Mujeres,60+,14395.0,69511.0,0.01551,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Mujeres,60+,23613.0,193116.0,0.009226,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Mujeres,60+,1680.0,208570.0,0.000604,muestra
+censo,2020,entidad,26,Sonora,ambas,Mujeres,60+,5348.0,192428.0,0.001822,muestra
+censo,2020,entidad,27,Tabasco,ambas,Mujeres,60+,6386.0,135903.0,0.006417,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Mujeres,60+,1588.0,229032.0,0.000248,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Mujeres,60+,3499.0,79045.0,0.002223,muestra
+censo,2020,entidad,30,Veracruz,ambas,Mujeres,60+,73619.0,620314.0,0.005319,muestra
+censo,2020,entidad,31,Yucatán,ambas,Mujeres,60+,62806.0,152951.0,0.008849,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Mujeres,60+,145.0,100380.0,0.000112,muestra
+censo,2020,nacional,00,Todo el país,ambas,Mujeres,Todas,3674507.0,61494943.0,0.001,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Mujeres,Todas,615.0,695012.0,9.2e-05,muestra
+censo,2020,entidad,02,Baja California,ambas,Mujeres,Todas,24081.0,1777347.0,0.000951,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Mujeres,Todas,4068.0,375499.0,0.000974,muestra
+censo,2020,entidad,04,Campeche,ambas,Mujeres,Todas,40115.0,448332.0,0.005166,muestra
+censo,2020,entidad,05,Coahuila,ambas,Mujeres,Todas,1089.0,1495141.0,4.8e-05,muestra
+censo,2020,entidad,06,Colima,ambas,Mujeres,Todas,1900.0,356578.0,0.000634,muestra
+censo,2020,entidad,07,Chiapas,ambas,Mujeres,Todas,777158.0,2661206.0,0.015133,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Mujeres,Todas,56948.0,1804020.0,0.001204,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Mujeres,Todas,61636.0,4653638.0,0.000707,muestra
+censo,2020,entidad,10,Durango,ambas,Mujeres,Todas,23494.0,876949.0,0.001439,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Mujeres,Todas,5088.0,3010191.0,0.000163,muestra
+censo,2020,entidad,12,Guerrero,ambas,Mujeres,Todas,249635.0,1730294.0,0.004062,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Mujeres,Todas,187334.0,1530875.0,0.007669,muestra
+censo,2020,entidad,14,Jalisco,ambas,Mujeres,Todas,31329.0,4056443.0,0.000418,muestra
+censo,2020,entidad,15,México,ambas,Mujeres,Todas,195242.0,8367992.0,0.000852,muestra
+censo,2020,entidad,16,Michoacán,ambas,Mujeres,Todas,71713.0,2311734.0,0.00158,muestra
+censo,2020,entidad,17,Morelos,ambas,Mujeres,Todas,18353.0,972141.0,0.001249,muestra
+censo,2020,entidad,18,Nayarit,ambas,Mujeres,Todas,34807.0,590709.0,0.003731,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Mujeres,Todas,37378.0,2752649.0,0.000498,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Mujeres,Todas,630409.0,2044886.0,0.004373,muestra
+censo,2020,entidad,21,Puebla,ambas,Mujeres,Todas,312993.0,3236658.0,0.003772,muestra
+censo,2020,entidad,22,Querétaro,ambas,Mujeres,Todas,12167.0,1154803.0,0.001632,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Mujeres,Todas,93977.0,879119.0,0.00987,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Mujeres,Todas,119693.0,1379389.0,0.006547,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Mujeres,Todas,10976.0,1452215.0,0.000517,muestra
+censo,2020,entidad,26,Sonora,ambas,Mujeres,Todas,23665.0,1412167.0,0.001068,muestra
+censo,2020,entidad,27,Tabasco,ambas,Mujeres,Todas,44151.0,1173995.0,0.006954,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Mujeres,Todas,11522.0,1710740.0,0.000308,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Mujeres,Todas,12267.0,658392.0,0.001275,muestra
+censo,2020,entidad,30,Veracruz,ambas,Mujeres,Todas,331434.0,4014981.0,0.003021,muestra
+censo,2020,entidad,31,Yucatán,ambas,Mujeres,Todas,247176.0,1124555.0,0.004822,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Mujeres,Todas,2094.0,786293.0,0.000468,muestra
+censo,2020,nacional,00,Todo el país,ambas,Total,15-29,1718307.0,31093621.0,0.00121,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Total,15-29,903.0,375851.0,0.000628,muestra
+censo,2020,entidad,02,Baja California,ambas,Total,15-29,14863.0,978233.0,0.001889,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Total,15-29,2748.0,197282.0,0.001887,muestra
+censo,2020,entidad,04,Campeche,ambas,Total,15-29,14981.0,224380.0,0.005916,muestra
+censo,2020,entidad,05,Coahuila,ambas,Total,15-29,1430.0,774043.0,0.000299,muestra
+censo,2020,entidad,06,Colima,ambas,Total,15-29,1184.0,178536.0,0.001058,muestra
+censo,2020,entidad,07,Chiapas,ambas,Total,15-29,453707.0,1421785.0,0.017601,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Total,15-29,31527.0,928983.0,0.001471,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Total,15-29,24468.0,2099566.0,0.000922,muestra
+censo,2020,entidad,10,Durango,ambas,Total,15-29,13467.0,459195.0,0.001611,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Total,15-29,3607.0,1599441.0,0.000229,muestra
+censo,2020,entidad,12,Guerrero,ambas,Total,15-29,129802.0,860017.0,0.004073,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Total,15-29,74776.0,741359.0,0.008161,muestra
+censo,2020,entidad,14,Jalisco,ambas,Total,15-29,21602.0,2088169.0,0.00092,muestra
+censo,2020,entidad,15,México,ambas,Total,15-29,54327.0,4244845.0,0.00051,muestra
+censo,2020,entidad,16,Michoacán,ambas,Total,15-29,37634.0,1163711.0,0.001717,muestra
+censo,2020,entidad,17,Morelos,ambas,Total,15-29,6642.0,481357.0,0.001024,muestra
+censo,2020,entidad,18,Nayarit,ambas,Total,15-29,19964.0,292885.0,0.00431,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Total,15-29,32088.0,1454074.0,0.000922,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Total,15-29,260794.0,969478.0,0.004378,muestra
+censo,2020,entidad,21,Puebla,ambas,Total,15-29,133659.0,1690883.0,0.003664,muestra
+censo,2020,entidad,22,Querétaro,ambas,Total,15-29,6205.0,610472.0,0.001525,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Total,15-29,46485.0,495302.0,0.010397,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Total,15-29,55172.0,704105.0,0.006144,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Total,15-29,7795.0,743338.0,0.001184,muestra
+censo,2020,entidad,26,Sonora,ambas,Total,15-29,10719.0,719272.0,0.001248,muestra
+censo,2020,entidad,27,Tabasco,ambas,Total,15-29,19618.0,572917.0,0.00598,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Total,15-29,6074.0,853020.0,0.000511,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Total,15-29,4178.0,341696.0,0.001258,muestra
+censo,2020,entidad,30,Veracruz,ambas,Total,15-29,131778.0,1860798.0,0.002692,muestra
+censo,2020,entidad,31,Yucatán,ambas,Total,15-29,94908.0,583267.0,0.004405,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Total,15-29,1202.0,385361.0,0.000308,muestra
+censo,2020,nacional,00,Todo el país,ambas,Total,3-14,1325570.0,26121042.0,0.001374,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Total,3-14,114.0,316716.0,2.2e-05,muestra
+censo,2020,entidad,02,Baja California,ambas,Total,3-14,3772.0,745187.0,0.000292,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Total,3-14,493.0,163744.0,0.00051,muestra
+censo,2020,entidad,04,Campeche,ambas,Total,3-14,6161.0,196121.0,0.003939,muestra
+censo,2020,entidad,05,Coahuila,ambas,Total,3-14,37.0,662721.0,,muestra
+censo,2020,entidad,06,Colima,ambas,Total,3-14,555.0,143810.0,0.000824,muestra
+censo,2020,entidad,07,Chiapas,ambas,Total,3-14,480199.0,1448800.0,0.016012,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Total,3-14,26791.0,802360.0,0.001376,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Total,3-14,4674.0,1394693.0,0.000471,muestra
+censo,2020,entidad,10,Durango,ambas,Total,3-14,16535.0,422443.0,0.002211,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Total,3-14,1255.0,1346843.0,0.000122,muestra
+censo,2020,entidad,12,Guerrero,ambas,Total,3-14,119266.0,843394.0,0.003952,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Total,3-14,55169.0,656693.0,0.008653,muestra
+censo,2020,entidad,14,Jalisco,ambas,Total,3-14,11935.0,1739194.0,0.000549,muestra
+censo,2020,entidad,15,México,ambas,Total,3-14,16452.0,3404727.0,0.000336,muestra
+censo,2020,entidad,16,Michoacán,ambas,Total,3-14,27443.0,1033149.0,0.001624,muestra
+censo,2020,entidad,17,Morelos,ambas,Total,3-14,3263.0,386277.0,0.001582,muestra
+censo,2020,entidad,18,Nayarit,ambas,Total,3-14,20338.0,273278.0,0.004716,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Total,3-14,2260.0,1120889.0,0.000172,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Total,3-14,211062.0,934649.0,0.004424,muestra
+censo,2020,entidad,21,Puebla,ambas,Total,3-14,91036.0,1454827.0,0.004389,muestra
+censo,2020,entidad,22,Querétaro,ambas,Total,3-14,2076.0,477426.0,0.001108,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Total,3-14,15261.0,384479.0,0.006307,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Total,3-14,39648.0,592976.0,0.005921,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Total,3-14,2440.0,598974.0,0.000258,muestra
+censo,2020,entidad,26,Sonora,ambas,Total,3-14,5285.0,597722.0,0.000834,muestra
+censo,2020,entidad,27,Tabasco,ambas,Total,3-14,15143.0,529389.0,0.010448,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Total,3-14,650.0,714999.0,0.000284,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Total,3-14,1935.0,289109.0,0.00079,muestra
+censo,2020,entidad,30,Veracruz,ambas,Total,3-14,101021.0,1619428.0,0.002456,muestra
+censo,2020,entidad,31,Yucatán,ambas,Total,3-14,42350.0,454248.0,0.003822,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Total,3-14,951.0,371777.0,0.000784,muestra
+censo,2020,nacional,00,Todo el país,ambas,Total,30-59,2894354.0,47274909.0,0.000855,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Total,30-59,917.0,514119.0,3.1e-05,muestra
+censo,2020,entidad,02,Baja California,ambas,Total,30-59,26688.0,1497625.0,0.001327,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Total,30-59,6107.0,321234.0,0.001446,muestra
+censo,2020,entidad,04,Campeche,ambas,Total,30-59,38982.0,359061.0,0.006141,muestra
+censo,2020,entidad,05,Coahuila,ambas,Total,30-59,1293.0,1177169.0,5e-05,muestra
+censo,2020,entidad,06,Colima,ambas,Total,30-59,1977.0,286345.0,0.000496,muestra
+censo,2020,entidad,07,Chiapas,ambas,Total,30-59,476906.0,1808589.0,0.013657,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Total,30-59,41876.0,1411771.0,0.001077,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Total,30-59,61002.0,3881028.0,0.000836,muestra
+censo,2020,entidad,10,Durango,ambas,Total,30-59,13038.0,640642.0,0.001067,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Total,30-59,5138.0,2218812.0,0.000135,muestra
+censo,2020,entidad,12,Guerrero,ambas,Total,30-59,157015.0,1181422.0,0.003555,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Total,30-59,155485.0,1154334.0,0.007226,muestra
+censo,2020,entidad,14,Jalisco,ambas,Total,30-59,25620.0,3091436.0,0.000472,muestra
+censo,2020,entidad,15,México,ambas,Total,30-59,204282.0,6626493.0,0.001178,muestra
+censo,2020,entidad,16,Michoacán,ambas,Total,30-59,54939.0,1665676.0,0.001617,muestra
+censo,2020,entidad,17,Morelos,ambas,Total,30-59,16833.0,744424.0,0.001448,muestra
+censo,2020,entidad,18,Nayarit,ambas,Total,30-59,22197.0,444831.0,0.0033,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Total,30-59,40963.0,2258641.0,0.000683,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Total,30-59,479144.0,1447458.0,0.004971,muestra
+censo,2020,entidad,21,Puebla,ambas,Total,30-59,249512.0,2335486.0,0.00401,muestra
+censo,2020,entidad,22,Querétaro,ambas,Total,30-59,11541.0,914446.0,0.001643,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Total,30-59,109041.0,749881.0,0.010826,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Total,30-59,95016.0,1018167.0,0.00789,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Total,30-59,10302.0,1109319.0,0.00063,muestra
+censo,2020,entidad,26,Sonora,ambas,Total,30-59,22959.0,1118922.0,0.001132,muestra
+censo,2020,entidad,27,Tabasco,ambas,Total,30-59,39806.0,912804.0,0.007076,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Total,30-59,14320.0,1366617.0,0.000498,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Total,30-59,10684.0,497283.0,0.001634,muestra
+censo,2020,entidad,30,Veracruz,ambas,Total,30-59,259480.0,3057409.0,0.002865,muestra
+censo,2020,entidad,31,Yucatán,ambas,Total,30-59,239688.0,887983.0,0.006382,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Total,30-59,1603.0,575482.0,0.000331,muestra
+censo,2020,nacional,00,Todo el país,ambas,Total,60+,1210432.0,15203326.0,0.000902,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Total,60+,105.0,141786.0,3.6e-05,muestra
+censo,2020,entidad,02,Baja California,ambas,Total,60+,6848.0,364975.0,0.000863,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Total,60+,920.0,74501.0,0.000867,muestra
+censo,2020,entidad,04,Campeche,ambas,Total,60+,21783.0,101106.0,0.008944,muestra
+censo,2020,entidad,05,Coahuila,ambas,Total,60+,334.0,361046.0,4e-06,muestra
+censo,2020,entidad,06,Colima,ambas,Total,60+,258.0,89470.0,0.000138,muestra
+censo,2020,entidad,07,Chiapas,ambas,Total,60+,114815.0,503713.0,0.010727,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Total,60+,10612.0,415396.0,0.000847,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Total,60+,25119.0,1515939.0,0.000608,muestra
+censo,2020,entidad,10,Durango,ambas,Total,60+,3004.0,201215.0,0.000629,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Total,60+,1144.0,660169.0,9.4e-05,muestra
+censo,2020,entidad,12,Guerrero,ambas,Total,60+,60391.0,441488.0,0.003473,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Total,60+,80339.0,387218.0,0.009236,muestra
+censo,2020,entidad,14,Jalisco,ambas,Total,60+,3739.0,1000583.0,0.000144,muestra
+censo,2020,entidad,15,México,ambas,Total,60+,92538.0,1937357.0,0.00172,muestra
+censo,2020,entidad,16,Michoacán,ambas,Total,60+,21742.0,613819.0,0.001311,muestra
+censo,2020,entidad,17,Morelos,ambas,Total,60+,9675.0,266439.0,0.002281,muestra
+censo,2020,entidad,18,Nayarit,ambas,Total,60+,5479.0,156192.0,0.002686,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Total,60+,2425.0,674474.0,0.000118,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Total,60+,237632.0,555203.0,0.005219,muestra
+censo,2020,entidad,21,Puebla,ambas,Total,60+,116293.0,741143.0,0.004407,muestra
+censo,2020,entidad,22,Querétaro,ambas,Total,60+,4091.0,251156.0,0.001883,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Total,60+,31291.0,136121.0,0.020851,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Total,60+,49121.0,367569.0,0.010727,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Total,60+,4014.0,394857.0,0.001018,muestra
+censo,2020,entidad,26,Sonora,ambas,Total,60+,12285.0,362886.0,0.002249,muestra
+censo,2020,entidad,27,Tabasco,ambas,Total,60+,13489.0,263038.0,0.006853,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Total,60+,3041.0,428931.0,0.000283,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Total,60+,6822.0,147382.0,0.00233,muestra
+censo,2020,entidad,30,Veracruz,ambas,Total,60+,144279.0,1161867.0,0.005572,muestra
+censo,2020,entidad,31,Yucatán,ambas,Total,60+,126521.0,291660.0,0.009261,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Total,60+,283.0,194627.0,0.000139,muestra
+censo,2020,nacional,00,Todo el país,ambas,Total,Todas,7148663.0,119692898.0,0.001022,muestra
+censo,2020,entidad,01,Aguascalientes,ambas,Total,Todas,2039.0,1348472.0,0.000249,muestra
+censo,2020,entidad,02,Baja California,ambas,Total,Todas,52171.0,3586020.0,0.001115,muestra
+censo,2020,entidad,03,Baja California Sur,ambas,Total,Todas,10268.0,756761.0,0.001146,muestra
+censo,2020,entidad,04,Campeche,ambas,Total,Todas,81907.0,880668.0,0.005556,muestra
+censo,2020,entidad,05,Coahuila,ambas,Total,Todas,3094.0,2974979.0,8.9e-05,muestra
+censo,2020,entidad,06,Colima,ambas,Total,Todas,3974.0,698161.0,0.000681,muestra
+censo,2020,entidad,07,Chiapas,ambas,Total,Todas,1525627.0,5182887.0,0.015413,muestra
+censo,2020,entidad,08,Chihuahua,ambas,Total,Todas,110806.0,3558510.0,0.001212,muestra
+censo,2020,entidad,09,Ciudad de México,ambas,Total,Todas,115263.0,8891226.0,0.0007,muestra
+censo,2020,entidad,10,Durango,ambas,Total,Todas,46044.0,1723495.0,0.001478,muestra
+censo,2020,entidad,11,Guanajuato,ambas,Total,Todas,11144.0,5825265.0,0.000164,muestra
+censo,2020,entidad,12,Guerrero,ambas,Total,Todas,466474.0,3326321.0,0.004139,muestra
+censo,2020,entidad,13,Hidalgo,ambas,Total,Todas,365769.0,2939604.0,0.007886,muestra
+censo,2020,entidad,14,Jalisco,ambas,Total,Todas,62896.0,7919382.0,0.000516,muestra
+censo,2020,entidad,15,México,ambas,Total,Todas,367599.0,16213422.0,0.000826,muestra
+censo,2020,entidad,16,Michoacán,ambas,Total,Todas,141758.0,4476355.0,0.001652,muestra
+censo,2020,entidad,17,Morelos,ambas,Total,Todas,36413.0,1878497.0,0.001286,muestra
+censo,2020,entidad,18,Nayarit,ambas,Total,Todas,67978.0,1167186.0,0.003815,muestra
+censo,2020,entidad,19,Nuevo León,ambas,Total,Todas,77736.0,5508078.0,0.000547,muestra
+censo,2020,entidad,20,Oaxaca,ambas,Total,Todas,1188632.0,3906788.0,0.00447,muestra
+censo,2020,entidad,21,Puebla,ambas,Total,Todas,590500.0,6222339.0,0.00386,muestra
+censo,2020,entidad,22,Querétaro,ambas,Total,Todas,23913.0,2253500.0,0.001574,muestra
+censo,2020,entidad,23,Quintana Roo,ambas,Total,Todas,202078.0,1765783.0,0.010466,muestra
+censo,2020,entidad,24,San Luis Potosí,ambas,Total,Todas,238957.0,2682817.0,0.006899,muestra
+censo,2020,entidad,25,Sinaloa,ambas,Total,Todas,24551.0,2846488.0,0.000695,muestra
+censo,2020,entidad,26,Sonora,ambas,Total,Todas,51248.0,2798802.0,0.001122,muestra
+censo,2020,entidad,27,Tabasco,ambas,Total,Todas,88056.0,2278148.0,0.007588,muestra
+censo,2020,entidad,28,Tamaulipas,ambas,Total,Todas,24085.0,3363567.0,0.000384,muestra
+censo,2020,entidad,29,Tlaxcala,ambas,Total,Todas,23619.0,1275470.0,0.001348,muestra
+censo,2020,entidad,30,Veracruz,ambas,Total,Todas,636558.0,7699502.0,0.003034,muestra
+censo,2020,entidad,31,Yucatán,ambas,Total,Todas,503467.0,2217158.0,0.00507,muestra
+censo,2020,entidad,32,Zacatecas,ambas,Total,Todas,4039.0,1527247.0,0.00044,muestra
+censo,2020,nacional,00,Todo el país,autoads,Hombres,15-29,2861743.0,15384023.0,0.001499,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Hombres,15-29,9261.0,182774.0,0.003996,muestra
+censo,2020,entidad,02,Baja California,autoads,Hombres,15-29,37074.0,500039.0,0.004187,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Hombres,15-29,12064.0,98766.0,0.005932,muestra
+censo,2020,entidad,04,Campeche,autoads,Hombres,15-29,50261.0,111059.0,0.011954,muestra
+censo,2020,entidad,05,Coahuila,autoads,Hombres,15-29,8306.0,390524.0,0.001204,muestra
+censo,2020,entidad,06,Colima,autoads,Hombres,15-29,10110.0,88309.0,0.005378,muestra
+censo,2020,entidad,07,Chiapas,autoads,Hombres,15-29,271515.0,688710.0,0.016525,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Hombres,15-29,45562.0,465972.0,0.003256,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Hombres,15-29,87301.0,1045960.0,0.002981,muestra
+censo,2020,entidad,10,Durango,autoads,Hombres,15-29,18598.0,228614.0,0.003368,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Hombres,15-29,48307.0,787344.0,0.002371,muestra
+censo,2020,entidad,12,Guerrero,autoads,Hombres,15-29,136358.0,410209.0,0.006278,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Hombres,15-29,126005.0,362955.0,0.008644,muestra
+censo,2020,entidad,14,Jalisco,autoads,Hombres,15-29,72927.0,1030896.0,0.00452,muestra
+censo,2020,entidad,15,México,autoads,Hombres,15-29,312749.0,2107315.0,0.003991,muestra
+censo,2020,entidad,16,Michoacán,autoads,Hombres,15-29,115894.0,570699.0,0.00394,muestra
+censo,2020,entidad,17,Morelos,autoads,Hombres,15-29,54207.0,237983.0,0.005838,muestra
+censo,2020,entidad,18,Nayarit,autoads,Hombres,15-29,23581.0,145299.0,0.007899,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Hombres,15-29,52107.0,742972.0,0.002011,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Hombres,15-29,311718.0,465296.0,0.004565,muestra
+censo,2020,entidad,21,Puebla,autoads,Hombres,15-29,262616.0,832016.0,0.006892,muestra
+censo,2020,entidad,22,Querétaro,autoads,Hombres,15-29,37881.0,305043.0,0.005999,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Hombres,15-29,80744.0,249369.0,0.01905,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Hombres,15-29,66017.0,346042.0,0.009514,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Hombres,15-29,32183.0,366809.0,0.004072,muestra
+censo,2020,entidad,26,Sonora,autoads,Hombres,15-29,45114.0,357916.0,0.006195,muestra
+censo,2020,entidad,27,Tabasco,autoads,Hombres,15-29,56763.0,280026.0,0.019586,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Hombres,15-29,25930.0,430377.0,0.003234,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Hombres,15-29,26260.0,169530.0,0.004369,muestra
+censo,2020,entidad,30,Veracruz,autoads,Hombres,15-29,226521.0,905652.0,0.004553,muestra
+censo,2020,entidad,31,Yucatán,autoads,Hombres,15-29,188970.0,293594.0,0.009319,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Hombres,15-29,8839.0,185954.0,0.001627,muestra
+censo,2020,nacional,00,Todo el país,autoads,Hombres,3-14,2593282.0,13266926.0,0.001627,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Hombres,3-14,8292.0,161225.0,0.003847,muestra
+censo,2020,entidad,02,Baja California,autoads,Hombres,3-14,24884.0,382177.0,0.00343,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Hombres,3-14,7891.0,84437.0,0.004813,muestra
+censo,2020,entidad,04,Campeche,autoads,Hombres,3-14,43448.0,99440.0,0.01236,muestra
+censo,2020,entidad,05,Coahuila,autoads,Hombres,3-14,5041.0,336765.0,0.001296,muestra
+censo,2020,entidad,06,Colima,autoads,Hombres,3-14,8116.0,71674.0,0.006196,muestra
+censo,2020,entidad,07,Chiapas,autoads,Hombres,3-14,306828.0,731817.0,0.01437,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Hombres,3-14,41096.0,402304.0,0.00344,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Hombres,3-14,49972.0,711279.0,0.002781,muestra
+censo,2020,entidad,10,Durango,autoads,Hombres,3-14,20164.0,214881.0,0.003762,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Hombres,3-14,41075.0,677384.0,0.002638,muestra
+censo,2020,entidad,12,Guerrero,autoads,Hombres,3-14,147744.0,432296.0,0.006759,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Hombres,3-14,123220.0,333431.0,0.010255,muestra
+censo,2020,entidad,14,Jalisco,autoads,Hombres,3-14,58108.0,885075.0,0.003763,muestra
+censo,2020,entidad,15,México,autoads,Hombres,3-14,260170.0,1725421.0,0.004424,muestra
+censo,2020,entidad,16,Michoacán,autoads,Hombres,3-14,105148.0,523207.0,0.003854,muestra
+censo,2020,entidad,17,Morelos,autoads,Hombres,3-14,45293.0,197247.0,0.005886,muestra
+censo,2020,entidad,18,Nayarit,autoads,Hombres,3-14,25107.0,140944.0,0.008529,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Hombres,3-14,30612.0,574161.0,0.002222,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Hombres,3-14,322635.0,473618.0,0.003748,muestra
+censo,2020,entidad,21,Puebla,autoads,Hombres,3-14,243799.0,740624.0,0.007579,muestra
+censo,2020,entidad,22,Querétaro,autoads,Hombres,3-14,30612.0,242330.0,0.00632,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Hombres,3-14,56447.0,196165.0,0.021089,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Hombres,3-14,61813.0,301766.0,0.00979,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Hombres,3-14,23584.0,306154.0,0.003572,muestra
+censo,2020,entidad,26,Sonora,autoads,Hombres,3-14,35049.0,304136.0,0.006581,muestra
+censo,2020,entidad,27,Tabasco,autoads,Hombres,3-14,52773.0,266213.0,0.021993,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Hombres,3-14,18071.0,361840.0,0.002387,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Hombres,3-14,21322.0,148601.0,0.00417,muestra
+censo,2020,entidad,30,Veracruz,autoads,Hombres,3-14,216918.0,820223.0,0.005107,muestra
+censo,2020,entidad,31,Yucatán,autoads,Hombres,3-14,150150.0,231729.0,0.011845,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Hombres,3-14,7900.0,188362.0,0.002018,muestra
+censo,2020,nacional,00,Todo el país,autoads,Hombres,30-59,4282043.0,22517553.0,0.001254,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Hombres,30-59,18111.0,244313.0,0.004453,muestra
+censo,2020,entidad,02,Baja California,autoads,Hombres,30-59,64266.0,756372.0,0.004155,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Hombres,30-59,22525.0,162205.0,0.005378,muestra
+censo,2020,entidad,04,Campeche,autoads,Hombres,30-59,83377.0,172720.0,0.012492,muestra
+censo,2020,entidad,05,Coahuila,autoads,Hombres,30-59,14126.0,579383.0,0.001488,muestra
+censo,2020,entidad,06,Colima,autoads,Hombres,30-59,20000.0,139135.0,0.006216,muestra
+censo,2020,entidad,07,Chiapas,autoads,Hombres,30-59,284235.0,853099.0,0.013024,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Hombres,30-59,73211.0,693065.0,0.004309,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Hombres,30-59,174920.0,1826468.0,0.002742,muestra
+censo,2020,entidad,10,Durango,autoads,Hombres,30-59,25547.0,306286.0,0.003616,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Hombres,30-59,69904.0,1042898.0,0.002282,muestra
+censo,2020,entidad,12,Guerrero,autoads,Hombres,30-59,170772.0,547802.0,0.006127,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Hombres,30-59,191269.0,532378.0,0.008355,muestra
+censo,2020,entidad,14,Jalisco,autoads,Hombres,30-59,107920.0,1490963.0,0.003216,muestra
+censo,2020,entidad,15,México,autoads,Hombres,30-59,499653.0,3130307.0,0.003699,muestra
+censo,2020,entidad,16,Michoacán,autoads,Hombres,30-59,167845.0,783395.0,0.003697,muestra
+censo,2020,entidad,17,Morelos,autoads,Hombres,30-59,86990.0,346280.0,0.005949,muestra
+censo,2020,entidad,18,Nayarit,autoads,Hombres,30-59,32233.0,214406.0,0.006935,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Hombres,30-59,81144.0,1128321.0,0.001991,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Hombres,30-59,458588.0,666499.0,0.004535,muestra
+censo,2020,entidad,21,Puebla,autoads,Hombres,30-59,359217.0,1080753.0,0.007416,muestra
+censo,2020,entidad,22,Querétaro,autoads,Hombres,30-59,57078.0,435515.0,0.006187,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Hombres,30-59,132693.0,374520.0,0.018192,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Hombres,30-59,95369.0,481167.0,0.00902,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Hombres,30-59,53920.0,535023.0,0.005362,muestra
+censo,2020,entidad,26,Sonora,autoads,Hombres,30-59,78417.0,554125.0,0.005499,muestra
+censo,2020,entidad,27,Tabasco,autoads,Hombres,30-59,95795.0,430779.0,0.016942,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Hombres,30-59,50032.0,660711.0,0.002909,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Hombres,30-59,40284.0,230610.0,0.004291,muestra
+censo,2020,entidad,30,Veracruz,autoads,Hombres,30-59,379324.0,1417093.0,0.00538,muestra
+censo,2020,entidad,31,Yucatán,autoads,Hombres,30-59,279237.0,428571.0,0.011732,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Hombres,30-59,14041.0,272391.0,0.001567,muestra
+censo,2020,nacional,00,Todo el país,autoads,Hombres,60+,1542832.0,7029453.0,0.001258,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Hombres,60+,4325.0,65148.0,0.003824,muestra
+censo,2020,entidad,02,Baja California,autoads,Hombres,60+,19241.0,170085.0,0.004161,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Hombres,60+,4484.0,35854.0,0.005807,muestra
+censo,2020,entidad,04,Campeche,autoads,Hombres,60+,27233.0,49117.0,0.014334,muestra
+censo,2020,entidad,05,Coahuila,autoads,Hombres,60+,4586.0,173166.0,0.001306,muestra
+censo,2020,entidad,06,Colima,autoads,Hombres,60+,7750.0,42465.0,0.006719,muestra
+censo,2020,entidad,07,Chiapas,autoads,Hombres,60+,74894.0,248055.0,0.010119,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Hombres,60+,22239.0,193149.0,0.003176,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Hombres,60+,80593.0,653881.0,0.003653,muestra
+censo,2020,entidad,10,Durango,autoads,Hombres,60+,10335.0,96765.0,0.00355,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Hombres,60+,23931.0,307448.0,0.002588,muestra
+censo,2020,entidad,12,Guerrero,autoads,Hombres,60+,65601.0,205720.0,0.005758,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Hombres,60+,77796.0,179965.0,0.008143,muestra
+censo,2020,entidad,14,Jalisco,autoads,Hombres,60+,37251.0,456005.0,0.001949,muestra
+censo,2020,entidad,15,México,autoads,Hombres,60+,160954.0,882387.0,0.003523,muestra
+censo,2020,entidad,16,Michoacán,autoads,Hombres,60+,62442.0,287320.0,0.003846,muestra
+censo,2020,entidad,17,Morelos,autoads,Hombres,60+,35293.0,124846.0,0.006573,muestra
+censo,2020,entidad,18,Nayarit,autoads,Hombres,60+,12053.0,75828.0,0.00735,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Hombres,60+,17577.0,309975.0,0.001993,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Hombres,60+,188527.0,256489.0,0.004231,muestra
+censo,2020,entidad,21,Puebla,autoads,Hombres,60+,123606.0,332288.0,0.007169,muestra
+censo,2020,entidad,22,Querétaro,autoads,Hombres,60+,17274.0,115809.0,0.008878,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Hombres,60+,27826.0,66610.0,0.022594,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Hombres,60+,45370.0,174453.0,0.011627,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Hombres,60+,24935.0,186287.0,0.00639,muestra
+censo,2020,entidad,26,Sonora,autoads,Hombres,60+,33922.0,170458.0,0.006932,muestra
+censo,2020,entidad,27,Tabasco,autoads,Hombres,60+,32739.0,127135.0,0.013995,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Hombres,60+,16635.0,199899.0,0.002513,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Hombres,60+,14190.0,68337.0,0.00451,muestra
+censo,2020,entidad,30,Veracruz,autoads,Hombres,60+,168963.0,541553.0,0.006462,muestra
+censo,2020,entidad,31,Yucatán,autoads,Hombres,60+,94768.0,138709.0,0.01095,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Hombres,60+,5499.0,94247.0,0.002049,muestra
+censo,2020,nacional,00,Todo el país,autoads,Hombres,Todas,11279900.0,58197955.0,0.001397,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Hombres,Todas,39989.0,653460.0,0.003866,muestra
+censo,2020,entidad,02,Baja California,autoads,Hombres,Todas,145465.0,1808673.0,0.004029,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Hombres,Todas,46964.0,381262.0,0.004935,muestra
+censo,2020,entidad,04,Campeche,autoads,Hombres,Todas,204319.0,432336.0,0.011593,muestra
+censo,2020,entidad,05,Coahuila,autoads,Hombres,Todas,32059.0,1479838.0,0.001394,muestra
+censo,2020,entidad,06,Colima,autoads,Hombres,Todas,45976.0,341583.0,0.006253,muestra
+censo,2020,entidad,07,Chiapas,autoads,Hombres,Todas,937472.0,2521681.0,0.014582,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Hombres,Todas,182108.0,1754490.0,0.003894,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Hombres,Todas,392786.0,4237588.0,0.002858,muestra
+censo,2020,entidad,10,Durango,autoads,Hombres,Todas,74644.0,846546.0,0.003752,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Hombres,Todas,183217.0,2815074.0,0.002492,muestra
+censo,2020,entidad,12,Guerrero,autoads,Hombres,Todas,520475.0,1596027.0,0.006325,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Hombres,Todas,518290.0,1408729.0,0.008742,muestra
+censo,2020,entidad,14,Jalisco,autoads,Hombres,Todas,276206.0,3862939.0,0.003478,muestra
+censo,2020,entidad,15,México,autoads,Hombres,Todas,1233526.0,7845430.0,0.003944,muestra
+censo,2020,entidad,16,Michoacán,autoads,Hombres,Todas,451329.0,2164621.0,0.003795,muestra
+censo,2020,entidad,17,Morelos,autoads,Hombres,Todas,221783.0,906356.0,0.005751,muestra
+censo,2020,entidad,18,Nayarit,autoads,Hombres,Todas,92974.0,576477.0,0.007561,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Hombres,Todas,181440.0,2755429.0,0.001956,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Hombres,Todas,1281468.0,1861902.0,0.004428,muestra
+censo,2020,entidad,21,Puebla,autoads,Hombres,Todas,989238.0,2985681.0,0.007107,muestra
+censo,2020,entidad,22,Querétaro,autoads,Hombres,Todas,142845.0,1098697.0,0.006379,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Hombres,Todas,297710.0,886664.0,0.019064,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Hombres,Todas,268569.0,1303428.0,0.009946,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Hombres,Todas,134622.0,1394273.0,0.004653,muestra
+censo,2020,entidad,26,Sonora,autoads,Hombres,Todas,192502.0,1386635.0,0.006145,muestra
+censo,2020,entidad,27,Tabasco,autoads,Hombres,Todas,238070.0,1104153.0,0.018771,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Hombres,Todas,110668.0,1652827.0,0.002827,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Hombres,Todas,102056.0,617078.0,0.004336,muestra
+censo,2020,entidad,30,Veracruz,autoads,Hombres,Todas,991726.0,3684521.0,0.005389,muestra
+censo,2020,entidad,31,Yucatán,autoads,Hombres,Todas,713125.0,1092603.0,0.010198,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Hombres,Todas,36279.0,740954.0,0.001789,muestra
+censo,2020,nacional,00,Todo el país,autoads,Mujeres,15-29,2971700.0,15709598.0,0.001466,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Mujeres,15-29,11680.0,193077.0,0.004457,muestra
+censo,2020,entidad,02,Baja California,autoads,Mujeres,15-29,34633.0,478194.0,0.003553,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Mujeres,15-29,10956.0,98516.0,0.005333,muestra
+censo,2020,entidad,04,Campeche,autoads,Mujeres,15-29,51388.0,113321.0,0.011999,muestra
+censo,2020,entidad,05,Coahuila,autoads,Mujeres,15-29,7670.0,383519.0,0.001444,muestra
+censo,2020,entidad,06,Colima,autoads,Mujeres,15-29,10115.0,90227.0,0.005132,muestra
+censo,2020,entidad,07,Chiapas,autoads,Mujeres,15-29,287022.0,733075.0,0.015356,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Mujeres,15-29,47154.0,463011.0,0.003816,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Mujeres,15-29,84419.0,1053606.0,0.002742,muestra
+censo,2020,entidad,10,Durango,autoads,Mujeres,15-29,19644.0,230581.0,0.003071,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Mujeres,15-29,46436.0,812097.0,0.002426,muestra
+censo,2020,entidad,12,Guerrero,autoads,Mujeres,15-29,155407.0,449808.0,0.005863,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Mujeres,15-29,130717.0,378404.0,0.008746,muestra
+censo,2020,entidad,14,Jalisco,autoads,Mujeres,15-29,71302.0,1057273.0,0.003414,muestra
+censo,2020,entidad,15,México,autoads,Mujeres,15-29,321510.0,2137530.0,0.004105,muestra
+censo,2020,entidad,16,Michoacán,autoads,Mujeres,15-29,119329.0,593012.0,0.004047,muestra
+censo,2020,entidad,17,Morelos,autoads,Mujeres,15-29,56315.0,243374.0,0.005209,muestra
+censo,2020,entidad,18,Nayarit,autoads,Mujeres,15-29,23883.0,147586.0,0.006865,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Mujeres,15-29,49471.0,711102.0,0.002198,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Mujeres,15-29,345902.0,504182.0,0.004468,muestra
+censo,2020,entidad,21,Puebla,autoads,Mujeres,15-29,277707.0,858867.0,0.006479,muestra
+censo,2020,entidad,22,Querétaro,autoads,Mujeres,15-29,39220.0,305429.0,0.005396,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Mujeres,15-29,78444.0,245933.0,0.019122,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Mujeres,15-29,68992.0,358063.0,0.010148,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Mujeres,15-29,30949.0,376529.0,0.003417,muestra
+censo,2020,entidad,26,Sonora,autoads,Mujeres,15-29,41990.0,361356.0,0.005891,muestra
+censo,2020,entidad,27,Tabasco,autoads,Mujeres,15-29,60315.0,292891.0,0.019585,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Mujeres,15-29,25393.0,422643.0,0.00254,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Mujeres,15-29,26312.0,172166.0,0.004222,muestra
+censo,2020,entidad,30,Veracruz,autoads,Mujeres,15-29,243626.0,955146.0,0.004475,muestra
+censo,2020,entidad,31,Yucatán,autoads,Mujeres,15-29,185035.0,289673.0,0.011269,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Mujeres,15-29,8764.0,199407.0,0.001788,muestra
+censo,2020,nacional,00,Todo el país,autoads,Mujeres,3-14,2538907.0,12854116.0,0.001683,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Mujeres,3-14,8277.0,155491.0,0.004414,muestra
+censo,2020,entidad,02,Baja California,autoads,Mujeres,3-14,22487.0,363010.0,0.003072,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Mujeres,3-14,7353.0,79307.0,0.004782,muestra
+censo,2020,entidad,04,Campeche,autoads,Mujeres,3-14,42009.0,96681.0,0.012168,muestra
+censo,2020,entidad,05,Coahuila,autoads,Mujeres,3-14,5025.0,325956.0,0.001138,muestra
+censo,2020,entidad,06,Colima,autoads,Mujeres,3-14,8066.0,72136.0,0.005226,muestra
+censo,2020,entidad,07,Chiapas,autoads,Mujeres,3-14,304789.0,716983.0,0.014914,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Mujeres,3-14,43078.0,400056.0,0.004538,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Mujeres,3-14,48706.0,683414.0,0.00283,muestra
+censo,2020,entidad,10,Durango,autoads,Mujeres,3-14,21213.0,207562.0,0.004422,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Mujeres,3-14,40382.0,669459.0,0.00236,muestra
+censo,2020,entidad,12,Guerrero,autoads,Mujeres,3-14,146712.0,411098.0,0.005967,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Mujeres,3-14,120993.0,323262.0,0.009655,muestra
+censo,2020,entidad,14,Jalisco,autoads,Mujeres,3-14,54999.0,854119.0,0.003383,muestra
+censo,2020,entidad,15,México,autoads,Mujeres,3-14,254804.0,1679306.0,0.004489,muestra
+censo,2020,entidad,16,Michoacán,autoads,Mujeres,3-14,104895.0,509942.0,0.003997,muestra
+censo,2020,entidad,17,Morelos,autoads,Mujeres,3-14,44214.0,189030.0,0.005974,muestra
+censo,2020,entidad,18,Nayarit,autoads,Mujeres,3-14,23624.0,132334.0,0.007828,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Mujeres,3-14,28135.0,546728.0,0.001752,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Mujeres,3-14,317323.0,461031.0,0.004368,muestra
+censo,2020,entidad,21,Puebla,autoads,Mujeres,3-14,237967.0,714203.0,0.007328,muestra
+censo,2020,entidad,22,Querétaro,autoads,Mujeres,3-14,31198.0,235096.0,0.006508,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Mujeres,3-14,55246.0,188314.0,0.023357,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Mujeres,3-14,58841.0,291210.0,0.009382,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Mujeres,3-14,21142.0,292820.0,0.003323,muestra
+censo,2020,entidad,26,Sonora,autoads,Mujeres,3-14,33236.0,293586.0,0.005938,muestra
+censo,2020,entidad,27,Tabasco,autoads,Mujeres,3-14,51746.0,263176.0,0.023812,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Mujeres,3-14,17873.0,353159.0,0.00282,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Mujeres,3-14,20527.0,140508.0,0.003948,muestra
+censo,2020,entidad,30,Veracruz,autoads,Mujeres,3-14,212924.0,799205.0,0.005318,muestra
+censo,2020,entidad,31,Yucatán,autoads,Mujeres,3-14,143191.0,222519.0,0.012447,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Mujeres,3-14,7932.0,183415.0,0.001779,muestra
+censo,2020,nacional,00,Todo el país,autoads,Mujeres,30-59,4752998.0,24757356.0,0.001233,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Mujeres,30-59,18405.0,269806.0,0.004182,muestra
+censo,2020,entidad,02,Baja California,autoads,Mujeres,30-59,62510.0,741253.0,0.003087,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Mujeres,30-59,20398.0,159029.0,0.005149,muestra
+censo,2020,entidad,04,Campeche,autoads,Mujeres,30-59,90194.0,186341.0,0.012281,muestra
+censo,2020,entidad,05,Coahuila,autoads,Mujeres,30-59,14235.0,597786.0,0.001549,muestra
+censo,2020,entidad,06,Colima,autoads,Mujeres,30-59,20519.0,147210.0,0.00528,muestra
+censo,2020,entidad,07,Chiapas,autoads,Mujeres,30-59,306022.0,955490.0,0.01257,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Mujeres,30-59,75864.0,718706.0,0.00379,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Mujeres,30-59,195488.0,2054560.0,0.002758,muestra
+censo,2020,entidad,10,Durango,autoads,Mujeres,30-59,28569.0,334356.0,0.002889,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Mujeres,30-59,76119.0,1175914.0,0.002373,muestra
+censo,2020,entidad,12,Guerrero,autoads,Mujeres,30-59,205127.0,633620.0,0.006904,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Mujeres,30-59,222844.0,621956.0,0.007695,muestra
+censo,2020,entidad,14,Jalisco,autoads,Mujeres,30-59,115883.0,1600473.0,0.003046,muestra
+censo,2020,entidad,15,México,autoads,Mujeres,30-59,561141.0,3496186.0,0.003792,muestra
+censo,2020,entidad,16,Michoacán,autoads,Mujeres,30-59,185678.0,882281.0,0.003752,muestra
+censo,2020,entidad,17,Morelos,autoads,Mujeres,30-59,100504.0,398144.0,0.00584,muestra
+censo,2020,entidad,18,Nayarit,autoads,Mujeres,30-59,33813.0,230425.0,0.006452,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Mujeres,30-59,77834.0,1130320.0,0.001913,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Mujeres,30-59,540923.0,780959.0,0.004211,muestra
+censo,2020,entidad,21,Puebla,autoads,Mujeres,30-59,415959.0,1254733.0,0.007595,muestra
+censo,2020,entidad,22,Querétaro,autoads,Mujeres,30-59,62574.0,478931.0,0.006339,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Mujeres,30-59,129715.0,375361.0,0.017192,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Mujeres,30-59,104693.0,537000.0,0.009219,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Mujeres,30-59,54347.0,574296.0,0.004555,muestra
+censo,2020,entidad,26,Sonora,autoads,Mujeres,30-59,74776.0,564797.0,0.005671,muestra
+censo,2020,entidad,27,Tabasco,autoads,Mujeres,30-59,105145.0,482025.0,0.015433,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Mujeres,30-59,52547.0,705906.0,0.002961,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Mujeres,30-59,45303.0,266673.0,0.003897,muestra
+censo,2020,entidad,30,Veracruz,autoads,Mujeres,30-59,439221.0,1640316.0,0.004746,muestra
+censo,2020,entidad,31,Yucatán,autoads,Mujeres,30-59,300542.0,459412.0,0.011742,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Mujeres,30-59,16106.0,303091.0,0.001904,muestra
+censo,2020,nacional,00,Todo el país,autoads,Mujeres,60+,1685584.0,8173873.0,0.001201,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Mujeres,60+,4849.0,76638.0,0.00476,muestra
+censo,2020,entidad,02,Baja California,autoads,Mujeres,60+,20584.0,194890.0,0.004559,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Mujeres,60+,4146.0,38647.0,0.004288,muestra
+censo,2020,entidad,04,Campeche,autoads,Mujeres,60+,28277.0,51989.0,0.015031,muestra
+censo,2020,entidad,05,Coahuila,autoads,Mujeres,60+,4428.0,187880.0,0.001053,muestra
+censo,2020,entidad,06,Colima,autoads,Mujeres,60+,7245.0,47005.0,0.006888,muestra
+censo,2020,entidad,07,Chiapas,autoads,Mujeres,60+,71381.0,255658.0,0.010202,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Mujeres,60+,24791.0,222247.0,0.003442,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Mujeres,60+,103926.0,862058.0,0.003462,muestra
+censo,2020,entidad,10,Durango,autoads,Mujeres,60+,8723.0,104450.0,0.002675,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Mujeres,60+,26015.0,352721.0,0.002737,muestra
+censo,2020,entidad,12,Guerrero,autoads,Mujeres,60+,74613.0,235768.0,0.007059,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Mujeres,60+,84542.0,207253.0,0.00873,muestra
+censo,2020,entidad,14,Jalisco,autoads,Mujeres,60+,39474.0,544578.0,0.002162,muestra
+censo,2020,entidad,15,México,autoads,Mujeres,60+,182448.0,1054970.0,0.003556,muestra
+censo,2020,entidad,16,Michoacán,autoads,Mujeres,60+,67772.0,326499.0,0.003692,muestra
+censo,2020,entidad,17,Morelos,autoads,Mujeres,60+,38289.0,141593.0,0.007868,muestra
+censo,2020,entidad,18,Nayarit,autoads,Mujeres,60+,11785.0,80364.0,0.005191,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Mujeres,60+,15910.0,364499.0,0.001644,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Mujeres,60+,217133.0,298714.0,0.00388,muestra
+censo,2020,entidad,21,Puebla,autoads,Mujeres,60+,146376.0,408855.0,0.007,muestra
+censo,2020,entidad,22,Querétaro,autoads,Mujeres,60+,20535.0,135347.0,0.008934,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Mujeres,60+,25608.0,69511.0,0.022715,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Mujeres,60+,44396.0,193116.0,0.009556,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Mujeres,60+,25155.0,208570.0,0.005336,muestra
+censo,2020,entidad,26,Sonora,autoads,Mujeres,60+,30039.0,192428.0,0.004957,muestra
+censo,2020,entidad,27,Tabasco,autoads,Mujeres,60+,31251.0,135903.0,0.011742,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Mujeres,60+,17729.0,229032.0,0.002563,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Mujeres,60+,15710.0,79045.0,0.004873,muestra
+censo,2020,entidad,30,Veracruz,autoads,Mujeres,60+,183768.0,620314.0,0.00583,muestra
+censo,2020,entidad,31,Yucatán,autoads,Mujeres,60+,103185.0,152951.0,0.012449,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Mujeres,60+,5501.0,100380.0,0.001741,muestra
+censo,2020,nacional,00,Todo el país,autoads,Mujeres,Todas,11949189.0,61494943.0,0.001361,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Mujeres,Todas,43211.0,695012.0,0.004375,muestra
+censo,2020,entidad,02,Baja California,autoads,Mujeres,Todas,140214.0,1777347.0,0.003345,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Mujeres,Todas,42853.0,375499.0,0.004774,muestra
+censo,2020,entidad,04,Campeche,autoads,Mujeres,Todas,211868.0,448332.0,0.011632,muestra
+censo,2020,entidad,05,Coahuila,autoads,Mujeres,Todas,31358.0,1495141.0,0.001427,muestra
+censo,2020,entidad,06,Colima,autoads,Mujeres,Todas,45945.0,356578.0,0.005568,muestra
+censo,2020,entidad,07,Chiapas,autoads,Mujeres,Todas,969214.0,2661206.0,0.014139,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Mujeres,Todas,190887.0,1804020.0,0.004092,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Mujeres,Todas,432539.0,4653638.0,0.002788,muestra
+censo,2020,entidad,10,Durango,autoads,Mujeres,Todas,78149.0,876949.0,0.003405,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Mujeres,Todas,188952.0,3010191.0,0.002537,muestra
+censo,2020,entidad,12,Guerrero,autoads,Mujeres,Todas,581859.0,1730294.0,0.007176,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Mujeres,Todas,559096.0,1530875.0,0.008372,muestra
+censo,2020,entidad,14,Jalisco,autoads,Mujeres,Todas,281658.0,4056443.0,0.00307,muestra
+censo,2020,entidad,15,México,autoads,Mujeres,Todas,1319903.0,8367992.0,0.003958,muestra
+censo,2020,entidad,16,Michoacán,autoads,Mujeres,Todas,477674.0,2311734.0,0.003884,muestra
+censo,2020,entidad,17,Morelos,autoads,Mujeres,Todas,239322.0,972141.0,0.005747,muestra
+censo,2020,entidad,18,Nayarit,autoads,Mujeres,Todas,93105.0,590709.0,0.006996,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Mujeres,Todas,171350.0,2752649.0,0.001863,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Mujeres,Todas,1421281.0,2044886.0,0.004121,muestra
+censo,2020,entidad,21,Puebla,autoads,Mujeres,Todas,1078009.0,3236658.0,0.006991,muestra
+censo,2020,entidad,22,Querétaro,autoads,Mujeres,Todas,153527.0,1154803.0,0.006639,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Mujeres,Todas,289013.0,879119.0,0.018806,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Mujeres,Todas,276922.0,1379389.0,0.009622,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Mujeres,Todas,131593.0,1452215.0,0.004184,muestra
+censo,2020,entidad,26,Sonora,autoads,Mujeres,Todas,180041.0,1412167.0,0.005691,muestra
+censo,2020,entidad,27,Tabasco,autoads,Mujeres,Todas,248457.0,1173995.0,0.018032,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Mujeres,Todas,113542.0,1710740.0,0.00279,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Mujeres,Todas,107852.0,658392.0,0.004089,muestra
+censo,2020,entidad,30,Veracruz,autoads,Mujeres,Todas,1079539.0,4014981.0,0.005024,muestra
+censo,2020,entidad,31,Yucatán,autoads,Mujeres,Todas,731953.0,1124555.0,0.010996,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Mujeres,Todas,38303.0,786293.0,0.001842,muestra
+censo,2020,nacional,00,Todo el país,autoads,Total,15-29,5833443.0,31093621.0,0.001506,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Total,15-29,20941.0,375851.0,0.004351,muestra
+censo,2020,entidad,02,Baja California,autoads,Total,15-29,71707.0,978233.0,0.004054,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Total,15-29,23020.0,197282.0,0.005451,muestra
+censo,2020,entidad,04,Campeche,autoads,Total,15-29,101649.0,224380.0,0.011869,muestra
+censo,2020,entidad,05,Coahuila,autoads,Total,15-29,15976.0,774043.0,0.001461,muestra
+censo,2020,entidad,06,Colima,autoads,Total,15-29,20225.0,178536.0,0.005318,muestra
+censo,2020,entidad,07,Chiapas,autoads,Total,15-29,558537.0,1421785.0,0.01614,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Total,15-29,92716.0,928983.0,0.003849,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Total,15-29,171720.0,2099566.0,0.002868,muestra
+censo,2020,entidad,10,Durango,autoads,Total,15-29,38242.0,459195.0,0.003252,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Total,15-29,94743.0,1599441.0,0.002412,muestra
+censo,2020,entidad,12,Guerrero,autoads,Total,15-29,291765.0,860017.0,0.006781,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Total,15-29,256722.0,741359.0,0.008636,muestra
+censo,2020,entidad,14,Jalisco,autoads,Total,15-29,144229.0,2088169.0,0.004045,muestra
+censo,2020,entidad,15,México,autoads,Total,15-29,634259.0,4244845.0,0.004109,muestra
+censo,2020,entidad,16,Michoacán,autoads,Total,15-29,235223.0,1163711.0,0.004047,muestra
+censo,2020,entidad,17,Morelos,autoads,Total,15-29,110522.0,481357.0,0.005528,muestra
+censo,2020,entidad,18,Nayarit,autoads,Total,15-29,47464.0,292885.0,0.007424,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Total,15-29,101578.0,1454074.0,0.00214,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Total,15-29,657620.0,969478.0,0.004453,muestra
+censo,2020,entidad,21,Puebla,autoads,Total,15-29,540323.0,1690883.0,0.006837,muestra
+censo,2020,entidad,22,Querétaro,autoads,Total,15-29,77101.0,610472.0,0.006104,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Total,15-29,159188.0,495302.0,0.018959,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Total,15-29,135009.0,704105.0,0.010056,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Total,15-29,63132.0,743338.0,0.00372,muestra
+censo,2020,entidad,26,Sonora,autoads,Total,15-29,87104.0,719272.0,0.006137,muestra
+censo,2020,entidad,27,Tabasco,autoads,Total,15-29,117078.0,572917.0,0.019828,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Total,15-29,51323.0,853020.0,0.002958,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Total,15-29,52572.0,341696.0,0.004309,muestra
+censo,2020,entidad,30,Veracruz,autoads,Total,15-29,470147.0,1860798.0,0.004647,muestra
+censo,2020,entidad,31,Yucatán,autoads,Total,15-29,374005.0,583267.0,0.009995,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Total,15-29,17603.0,385361.0,0.001704,muestra
+censo,2020,nacional,00,Todo el país,autoads,Total,3-14,5132189.0,26121042.0,0.001675,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Total,3-14,16569.0,316716.0,0.00404,muestra
+censo,2020,entidad,02,Baja California,autoads,Total,3-14,47371.0,745187.0,0.003312,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Total,3-14,15244.0,163744.0,0.004548,muestra
+censo,2020,entidad,04,Campeche,autoads,Total,3-14,85457.0,196121.0,0.012301,muestra
+censo,2020,entidad,05,Coahuila,autoads,Total,3-14,10066.0,662721.0,0.001256,muestra
+censo,2020,entidad,06,Colima,autoads,Total,3-14,16182.0,143810.0,0.00578,muestra
+censo,2020,entidad,07,Chiapas,autoads,Total,3-14,611617.0,1448800.0,0.015007,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Total,3-14,84174.0,802360.0,0.003944,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Total,3-14,98678.0,1394693.0,0.002831,muestra
+censo,2020,entidad,10,Durango,autoads,Total,3-14,41377.0,422443.0,0.004196,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Total,3-14,81457.0,1346843.0,0.002623,muestra
+censo,2020,entidad,12,Guerrero,autoads,Total,3-14,294456.0,843394.0,0.006722,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Total,3-14,244213.0,656693.0,0.00985,muestra
+censo,2020,entidad,14,Jalisco,autoads,Total,3-14,113107.0,1739194.0,0.003619,muestra
+censo,2020,entidad,15,México,autoads,Total,3-14,514974.0,3404727.0,0.004506,muestra
+censo,2020,entidad,16,Michoacán,autoads,Total,3-14,210043.0,1033149.0,0.003865,muestra
+censo,2020,entidad,17,Morelos,autoads,Total,3-14,89507.0,386277.0,0.005881,muestra
+censo,2020,entidad,18,Nayarit,autoads,Total,3-14,48731.0,273278.0,0.008756,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Total,3-14,58747.0,1120889.0,0.002025,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Total,3-14,639958.0,934649.0,0.004607,muestra
+censo,2020,entidad,21,Puebla,autoads,Total,3-14,481766.0,1454827.0,0.007438,muestra
+censo,2020,entidad,22,Querétaro,autoads,Total,3-14,61810.0,477426.0,0.00638,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Total,3-14,111693.0,384479.0,0.022643,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Total,3-14,120654.0,592976.0,0.009809,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Total,3-14,44726.0,598974.0,0.003475,muestra
+censo,2020,entidad,26,Sonora,autoads,Total,3-14,68285.0,597722.0,0.006257,muestra
+censo,2020,entidad,27,Tabasco,autoads,Total,3-14,104519.0,529389.0,0.022958,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Total,3-14,35944.0,714999.0,0.002523,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Total,3-14,41849.0,289109.0,0.004056,muestra
+censo,2020,entidad,30,Veracruz,autoads,Total,3-14,429842.0,1619428.0,0.005294,muestra
+censo,2020,entidad,31,Yucatán,autoads,Total,3-14,293341.0,454248.0,0.012062,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Total,3-14,15832.0,371777.0,0.001924,muestra
+censo,2020,nacional,00,Todo el país,autoads,Total,30-59,9035041.0,47274909.0,0.001257,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Total,30-59,36516.0,514119.0,0.00431,muestra
+censo,2020,entidad,02,Baja California,autoads,Total,30-59,126776.0,1497625.0,0.004092,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Total,30-59,42923.0,321234.0,0.005252,muestra
+censo,2020,entidad,04,Campeche,autoads,Total,30-59,173571.0,359061.0,0.01219,muestra
+censo,2020,entidad,05,Coahuila,autoads,Total,30-59,28361.0,1177169.0,0.001652,muestra
+censo,2020,entidad,06,Colima,autoads,Total,30-59,40519.0,286345.0,0.006126,muestra
+censo,2020,entidad,07,Chiapas,autoads,Total,30-59,590257.0,1808589.0,0.012919,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Total,30-59,149075.0,1411771.0,0.004197,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Total,30-59,370408.0,3881028.0,0.002791,muestra
+censo,2020,entidad,10,Durango,autoads,Total,30-59,54116.0,640642.0,0.003361,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Total,30-59,146023.0,2218812.0,0.002374,muestra
+censo,2020,entidad,12,Guerrero,autoads,Total,30-59,375899.0,1181422.0,0.007066,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Total,30-59,414113.0,1154334.0,0.007946,muestra
+censo,2020,entidad,14,Jalisco,autoads,Total,30-59,223803.0,3091436.0,0.003183,muestra
+censo,2020,entidad,15,México,autoads,Total,30-59,1060794.0,6626493.0,0.00378,muestra
+censo,2020,entidad,16,Michoacán,autoads,Total,30-59,353523.0,1665676.0,0.003773,muestra
+censo,2020,entidad,17,Morelos,autoads,Total,30-59,187494.0,744424.0,0.005821,muestra
+censo,2020,entidad,18,Nayarit,autoads,Total,30-59,66046.0,444831.0,0.006739,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Total,30-59,158978.0,2258641.0,0.002011,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Total,30-59,999511.0,1447458.0,0.004338,muestra
+censo,2020,entidad,21,Puebla,autoads,Total,30-59,775176.0,2335486.0,0.007517,muestra
+censo,2020,entidad,22,Querétaro,autoads,Total,30-59,119652.0,914446.0,0.006377,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Total,30-59,262408.0,749881.0,0.01763,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Total,30-59,200062.0,1018167.0,0.009188,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Total,30-59,108267.0,1109319.0,0.005078,muestra
+censo,2020,entidad,26,Sonora,autoads,Total,30-59,153193.0,1118922.0,0.005668,muestra
+censo,2020,entidad,27,Tabasco,autoads,Total,30-59,200940.0,912804.0,0.016217,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Total,30-59,102579.0,1366617.0,0.003023,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Total,30-59,85587.0,497283.0,0.004182,muestra
+censo,2020,entidad,30,Veracruz,autoads,Total,30-59,818545.0,3057409.0,0.00515,muestra
+censo,2020,entidad,31,Yucatán,autoads,Total,30-59,579779.0,887983.0,0.01158,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Total,30-59,30147.0,575482.0,0.001842,muestra
+censo,2020,nacional,00,Todo el país,autoads,Total,60+,3228416.0,15203326.0,0.001263,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Total,60+,9174.0,141786.0,0.004914,muestra
+censo,2020,entidad,02,Baja California,autoads,Total,60+,39825.0,364975.0,0.004326,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Total,60+,8630.0,74501.0,0.005275,muestra
+censo,2020,entidad,04,Campeche,autoads,Total,60+,55510.0,101106.0,0.014418,muestra
+censo,2020,entidad,05,Coahuila,autoads,Total,60+,9014.0,361046.0,0.001332,muestra
+censo,2020,entidad,06,Colima,autoads,Total,60+,14995.0,89470.0,0.007456,muestra
+censo,2020,entidad,07,Chiapas,autoads,Total,60+,146275.0,503713.0,0.010387,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Total,60+,47030.0,415396.0,0.003708,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Total,60+,184519.0,1515939.0,0.003616,muestra
+censo,2020,entidad,10,Durango,autoads,Total,60+,19058.0,201215.0,0.003301,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Total,60+,49946.0,660169.0,0.002648,muestra
+censo,2020,entidad,12,Guerrero,autoads,Total,60+,140214.0,441488.0,0.006889,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Total,60+,162338.0,387218.0,0.008567,muestra
+censo,2020,entidad,14,Jalisco,autoads,Total,60+,76725.0,1000583.0,0.002237,muestra
+censo,2020,entidad,15,México,autoads,Total,60+,343402.0,1937357.0,0.003646,muestra
+censo,2020,entidad,16,Michoacán,autoads,Total,60+,130214.0,613819.0,0.003907,muestra
+censo,2020,entidad,17,Morelos,autoads,Total,60+,73582.0,266439.0,0.007279,muestra
+censo,2020,entidad,18,Nayarit,autoads,Total,60+,23838.0,156192.0,0.00721,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Total,60+,33487.0,674474.0,0.001954,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Total,60+,405660.0,555203.0,0.004046,muestra
+censo,2020,entidad,21,Puebla,autoads,Total,60+,269982.0,741143.0,0.007436,muestra
+censo,2020,entidad,22,Querétaro,autoads,Total,60+,37809.0,251156.0,0.009068,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Total,60+,53434.0,136121.0,0.022825,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Total,60+,89766.0,367569.0,0.010677,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Total,60+,50090.0,394857.0,0.006125,muestra
+censo,2020,entidad,26,Sonora,autoads,Total,60+,63961.0,362886.0,0.006051,muestra
+censo,2020,entidad,27,Tabasco,autoads,Total,60+,63990.0,263038.0,0.013565,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Total,60+,34364.0,428931.0,0.002684,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Total,60+,29900.0,147382.0,0.004662,muestra
+censo,2020,entidad,30,Veracruz,autoads,Total,60+,352731.0,1161867.0,0.006241,muestra
+censo,2020,entidad,31,Yucatán,autoads,Total,60+,197953.0,291660.0,0.012382,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Total,60+,11000.0,194627.0,0.002048,muestra
+censo,2020,nacional,00,Todo el país,autoads,Total,Todas,23229089.0,119692898.0,0.001392,muestra
+censo,2020,entidad,01,Aguascalientes,autoads,Total,Todas,83200.0,1348472.0,0.004168,muestra
+censo,2020,entidad,02,Baja California,autoads,Total,Todas,285679.0,3586020.0,0.003947,muestra
+censo,2020,entidad,03,Baja California Sur,autoads,Total,Todas,89817.0,756761.0,0.004865,muestra
+censo,2020,entidad,04,Campeche,autoads,Total,Todas,416187.0,880668.0,0.011549,muestra
+censo,2020,entidad,05,Coahuila,autoads,Total,Todas,63417.0,2974979.0,0.001494,muestra
+censo,2020,entidad,06,Colima,autoads,Total,Todas,91921.0,698161.0,0.006079,muestra
+censo,2020,entidad,07,Chiapas,autoads,Total,Todas,1906686.0,5182887.0,0.014402,muestra
+censo,2020,entidad,08,Chihuahua,autoads,Total,Todas,372995.0,3558510.0,0.004134,muestra
+censo,2020,entidad,09,Ciudad de México,autoads,Total,Todas,825325.0,8891226.0,0.002846,muestra
+censo,2020,entidad,10,Durango,autoads,Total,Todas,152793.0,1723495.0,0.003848,muestra
+censo,2020,entidad,11,Guanajuato,autoads,Total,Todas,372169.0,5825265.0,0.002638,muestra
+censo,2020,entidad,12,Guerrero,autoads,Total,Todas,1102334.0,3326321.0,0.007221,muestra
+censo,2020,entidad,13,Hidalgo,autoads,Total,Todas,1077386.0,2939604.0,0.008557,muestra
+censo,2020,entidad,14,Jalisco,autoads,Total,Todas,557864.0,7919382.0,0.00329,muestra
+censo,2020,entidad,15,México,autoads,Total,Todas,2553429.0,16213422.0,0.003978,muestra
+censo,2020,entidad,16,Michoacán,autoads,Total,Todas,929003.0,4476355.0,0.003871,muestra
+censo,2020,entidad,17,Morelos,autoads,Total,Todas,461105.0,1878497.0,0.005767,muestra
+censo,2020,entidad,18,Nayarit,autoads,Total,Todas,186079.0,1167186.0,0.007338,muestra
+censo,2020,entidad,19,Nuevo León,autoads,Total,Todas,352790.0,5508078.0,0.001966,muestra
+censo,2020,entidad,20,Oaxaca,autoads,Total,Todas,2702749.0,3906788.0,0.004259,muestra
+censo,2020,entidad,21,Puebla,autoads,Total,Todas,2067247.0,6222339.0,0.007053,muestra
+censo,2020,entidad,22,Querétaro,autoads,Total,Todas,296372.0,2253500.0,0.006541,muestra
+censo,2020,entidad,23,Quintana Roo,autoads,Total,Todas,586723.0,1765783.0,0.01889,muestra
+censo,2020,entidad,24,San Luis Potosí,autoads,Total,Todas,545491.0,2682817.0,0.009865,muestra
+censo,2020,entidad,25,Sinaloa,autoads,Total,Todas,266215.0,2846488.0,0.004454,muestra
+censo,2020,entidad,26,Sonora,autoads,Total,Todas,372543.0,2798802.0,0.00597,muestra
+censo,2020,entidad,27,Tabasco,autoads,Total,Todas,486527.0,2278148.0,0.018595,muestra
+censo,2020,entidad,28,Tamaulipas,autoads,Total,Todas,224210.0,3363567.0,0.002868,muestra
+censo,2020,entidad,29,Tlaxcala,autoads,Total,Todas,209908.0,1275470.0,0.004234,muestra
+censo,2020,entidad,30,Veracruz,autoads,Total,Todas,2071265.0,7699502.0,0.005272,muestra
+censo,2020,entidad,31,Yucatán,autoads,Total,Todas,1445078.0,2217158.0,0.010515,muestra
+censo,2020,entidad,32,Zacatecas,autoads,Total,Todas,74582.0,1527247.0,0.0019,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Hombres,15-29,875696.0,15384023.0,0.001228,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Hombres,15-29,695.0,182774.0,0.000966,muestra
+censo,2020,entidad,02,Baja California,hablantes,Hombres,15-29,9934.0,500039.0,0.002422,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Hombres,15-29,1741.0,98766.0,0.002545,muestra
+censo,2020,entidad,04,Campeche,hablantes,Hombres,15-29,7747.0,111059.0,0.006103,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Hombres,15-29,1275.0,390524.0,0.000382,muestra
+censo,2020,entidad,06,Colima,hablantes,Hombres,15-29,650.0,88309.0,0.001704,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Hombres,15-29,225395.0,688710.0,0.017985,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Hombres,15-29,16216.0,465972.0,0.001425,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Hombres,15-29,13901.0,1045960.0,0.001057,muestra
+censo,2020,entidad,10,Durango,hablantes,Hombres,15-29,6745.0,228614.0,0.001725,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Hombres,15-29,2268.0,787344.0,0.000259,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Hombres,15-29,60642.0,410209.0,0.004022,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Hombres,15-29,38621.0,362955.0,0.008727,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Hombres,15-29,11707.0,1030896.0,0.001415,muestra
+censo,2020,entidad,15,México,hablantes,Hombres,15-29,30366.0,2107315.0,0.000496,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Hombres,15-29,19613.0,570699.0,0.0018,muestra
+censo,2020,entidad,17,Morelos,hablantes,Hombres,15-29,3653.0,237983.0,0.00102,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Hombres,15-29,9909.0,145299.0,0.004411,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Hombres,15-29,19764.0,742972.0,0.001062,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Hombres,15-29,124573.0,465296.0,0.004264,muestra
+censo,2020,entidad,21,Puebla,hablantes,Hombres,15-29,66098.0,832016.0,0.003687,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Hombres,15-29,3585.0,305043.0,0.00142,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Hombres,15-29,27160.0,249369.0,0.011088,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Hombres,15-29,27811.0,346042.0,0.006067,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Hombres,15-29,4971.0,366809.0,0.001739,muestra
+censo,2020,entidad,26,Sonora,hablantes,Hombres,15-29,6028.0,357916.0,0.001215,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Hombres,15-29,9946.0,280026.0,0.005337,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Hombres,15-29,3837.0,430377.0,0.000617,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Hombres,15-29,2239.0,169530.0,0.001332,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Hombres,15-29,64980.0,905652.0,0.002536,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Hombres,15-29,52962.0,293594.0,0.00448,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Hombres,15-29,664.0,185954.0,0.000285,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Hombres,3-14,681216.0,13266926.0,0.001331,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Hombres,3-14,11.0,161225.0,,muestra
+censo,2020,entidad,02,Baja California,hablantes,Hombres,3-14,2094.0,382177.0,0.000336,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Hombres,3-14,439.0,84437.0,0.000911,muestra
+censo,2020,entidad,04,Campeche,hablantes,Hombres,3-14,3153.0,99440.0,0.00404,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Hombres,3-14,74.0,336765.0,,muestra
+censo,2020,entidad,06,Colima,hablantes,Hombres,3-14,287.0,71674.0,0.000618,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Hombres,3-14,245045.0,731817.0,0.01552,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Hombres,3-14,13971.0,402304.0,0.001354,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Hombres,3-14,2389.0,711279.0,0.00044,muestra
+censo,2020,entidad,10,Durango,hablantes,Hombres,3-14,8286.0,214881.0,0.00239,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Hombres,3-14,912.0,677384.0,0.000111,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Hombres,3-14,60582.0,432296.0,0.003973,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Hombres,3-14,28015.0,333431.0,0.008388,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Hombres,3-14,6241.0,885075.0,0.000504,muestra
+censo,2020,entidad,15,México,hablantes,Hombres,3-14,8965.0,1725421.0,0.000277,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Hombres,3-14,14255.0,523207.0,0.001713,muestra
+censo,2020,entidad,17,Morelos,hablantes,Hombres,3-14,1856.0,197247.0,0.001366,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Hombres,3-14,10135.0,140944.0,0.004363,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Hombres,3-14,1466.0,574161.0,0.000208,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Hombres,3-14,107444.0,473618.0,0.004426,muestra
+censo,2020,entidad,21,Puebla,hablantes,Hombres,3-14,47623.0,740624.0,0.00484,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Hombres,3-14,1143.0,242330.0,0.000933,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Hombres,3-14,8487.0,196165.0,0.007101,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Hombres,3-14,20984.0,301766.0,0.005919,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Hombres,3-14,1157.0,306154.0,0.000316,muestra
+censo,2020,entidad,26,Sonora,hablantes,Hombres,3-14,2616.0,304136.0,0.000839,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Hombres,3-14,7753.0,266213.0,0.01115,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Hombres,3-14,482.0,361840.0,0.000422,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Hombres,3-14,1082.0,148601.0,0.001015,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Hombres,3-14,51856.0,820223.0,0.002319,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Hombres,3-14,21935.0,231729.0,0.003755,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Hombres,3-14,478.0,188362.0,0.000869,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Hombres,30-59,1486803.0,22517553.0,0.000881,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Hombres,30-59,853.0,244313.0,5.3e-05,muestra
+censo,2020,entidad,02,Baja California,hablantes,Hombres,30-59,15864.0,756372.0,0.001303,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Hombres,30-59,4394.0,162205.0,0.001773,muestra
+censo,2020,entidad,04,Campeche,hablantes,Hombres,30-59,20872.0,172720.0,0.006637,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Hombres,30-59,1444.0,579383.0,5.4e-05,muestra
+censo,2020,entidad,06,Colima,hablantes,Hombres,30-59,1272.0,139135.0,0.000627,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Hombres,30-59,236740.0,853099.0,0.0139,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Hombres,30-59,22275.0,693065.0,0.001129,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Hombres,30-59,36439.0,1826468.0,0.000926,muestra
+censo,2020,entidad,10,Durango,hablantes,Hombres,30-59,6615.0,306286.0,0.00103,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Hombres,30-59,3692.0,1042898.0,0.00013,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Hombres,30-59,71229.0,547802.0,0.003253,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Hombres,30-59,77425.0,532378.0,0.007678,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Hombres,30-59,15445.0,1490963.0,0.000475,muestra
+censo,2020,entidad,15,México,hablantes,Hombres,30-59,111257.0,3130307.0,0.001229,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Hombres,30-59,27859.0,783395.0,0.001657,muestra
+censo,2020,entidad,17,Morelos,hablantes,Hombres,30-59,9247.0,346280.0,0.001708,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Hombres,30-59,11249.0,214406.0,0.00317,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Hombres,30-59,25192.0,1128321.0,0.000733,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Hombres,30-59,226431.0,666499.0,0.005196,muestra
+censo,2020,entidad,21,Puebla,hablantes,Hombres,30-59,124080.0,1080753.0,0.004259,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Hombres,30-59,7073.0,435515.0,0.001536,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Hombres,30-59,67942.0,374520.0,0.010759,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Hombres,30-59,47447.0,481167.0,0.008161,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Hombres,30-59,6673.0,535023.0,0.000754,muestra
+censo,2020,entidad,26,Sonora,hablantes,Hombres,30-59,13601.0,554125.0,0.001128,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Hombres,30-59,21069.0,430779.0,0.00742,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Hombres,30-59,9796.0,660711.0,0.000615,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Hombres,30-59,6298.0,230610.0,0.001889,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Hombres,30-59,127327.0,1417093.0,0.002957,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Hombres,30-59,128587.0,428571.0,0.005609,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Hombres,30-59,1116.0,272391.0,0.00027,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Hombres,60+,626722.0,7029453.0,0.000945,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Hombres,60+,185.0,65148.0,1.5e-05,muestra
+censo,2020,entidad,02,Baja California,hablantes,Hombres,60+,4411.0,170085.0,0.001197,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Hombres,60+,647.0,35854.0,0.000871,muestra
+censo,2020,entidad,04,Campeche,hablantes,Hombres,60+,12071.0,49117.0,0.009763,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Hombres,60+,444.0,173166.0,1.1e-05,muestra
+censo,2020,entidad,06,Colima,hablantes,Hombres,60+,195.0,42465.0,4.3e-05,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Hombres,60+,61211.0,248055.0,0.010351,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Hombres,60+,5795.0,193149.0,0.000833,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Hombres,60+,14944.0,653881.0,0.000782,muestra
+censo,2020,entidad,10,Durango,hablantes,Hombres,60+,1663.0,96765.0,0.000531,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Hombres,60+,872.0,307448.0,8e-05,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Hombres,60+,29290.0,205720.0,0.003315,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Hombres,60+,40100.0,179965.0,0.008905,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Hombres,60+,2768.0,456005.0,0.000164,muestra
+censo,2020,entidad,15,México,hablantes,Hombres,60+,45434.0,882387.0,0.001498,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Hombres,60+,11081.0,287320.0,0.001406,muestra
+censo,2020,entidad,17,Morelos,hablantes,Hombres,60+,5454.0,124846.0,0.001975,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Hombres,60+,3152.0,75828.0,0.003035,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Hombres,60+,1909.0,309975.0,0.000201,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Hombres,60+,113146.0,256489.0,0.005297,muestra
+censo,2020,entidad,21,Puebla,hablantes,Hombres,60+,56114.0,332288.0,0.004638,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Hombres,60+,1884.0,115809.0,0.00159,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Hombres,60+,19430.0,66610.0,0.025096,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Hombres,60+,25913.0,174453.0,0.012045,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Hombres,60+,2585.0,186287.0,0.001287,muestra
+censo,2020,entidad,26,Sonora,hablantes,Hombres,60+,7530.0,170458.0,0.002588,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Hombres,60+,7561.0,127135.0,0.005714,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Hombres,60+,2061.0,199899.0,0.000289,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Hombres,60+,4219.0,68337.0,0.002697,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Hombres,60+,74712.0,541553.0,0.005705,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Hombres,60+,69722.0,138709.0,0.009801,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Hombres,60+,219.0,94247.0,8.3e-05,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Hombres,Todas,3581198.0,58422017.0,,censo
+censo,2020,entidad,01,Aguascalientes,hablantes,Hombres,Todas,1496.0,659674.0,,censo
+censo,2020,entidad,02,Baja California,hablantes,Hombres,Todas,26390.0,1820546.0,,censo
+censo,2020,entidad,03,Baja California Sur,hablantes,Hombres,Todas,7650.0,385824.0,,censo
+censo,2020,entidad,04,Campeche,hablantes,Hombres,Todas,46720.0,431754.0,,censo
+censo,2020,entidad,05,Coahuila,hablantes,Hombres,Todas,3325.0,1479322.0,,censo
+censo,2020,entidad,06,Colima,hablantes,Hombres,Todas,2888.0,344516.0,,censo
+censo,2020,entidad,07,Chiapas,hablantes,Hombres,Todas,714600.0,2523883.0,,censo
+censo,2020,entidad,08,Chihuahua,hablantes,Hombres,Todas,54019.0,1766525.0,,censo
+censo,2020,entidad,09,Ciudad de México,hablantes,Hombres,Todas,58231.0,4264713.0,,censo
+censo,2020,entidad,10,Durango,hablantes,Hombres,Todas,23442.0,854701.0,,censo
+censo,2020,entidad,11,Guanajuato,hablantes,Hombres,Todas,7676.0,2831229.0,,censo
+censo,2020,entidad,12,Guerrero,hablantes,Hombres,Todas,240975.0,1593455.0,,censo
+censo,2020,entidad,13,Hidalgo,hablantes,Hombres,Todas,175833.0,1411823.0,,censo
+censo,2020,entidad,14,Jalisco,hablantes,Hombres,Todas,34729.0,3878879.0,,censo
+censo,2020,entidad,15,México,hablantes,Hombres,Todas,197472.0,7880901.0,,censo
+censo,2020,entidad,16,Michoacán,hablantes,Hombres,Todas,75851.0,2177422.0,,censo
+censo,2020,entidad,17,Morelos,hablantes,Hombres,Todas,18601.0,908404.0,,censo
+censo,2020,entidad,18,Nayarit,hablantes,Hombres,Todas,33882.0,581462.0,,censo
+censo,2020,entidad,19,Nuevo León,hablantes,Hombres,Todas,40259.0,2751732.0,,censo
+censo,2020,entidad,20,Oaxaca,hablantes,Hombres,Todas,575144.0,1866436.0,,censo
+censo,2020,entidad,21,Puebla,hablantes,Hombres,Todas,289873.0,2986166.0,,censo
+censo,2020,entidad,22,Querétaro,hablantes,Hombres,Todas,15454.0,1099069.0,,censo
+censo,2020,entidad,23,Quintana Roo,hablantes,Hombres,Todas,108338.0,883265.0,,censo
+censo,2020,entidad,24,San Luis Potosí,hablantes,Hombres,Todas,114905.0,1304662.0,,censo
+censo,2020,entidad,25,Sinaloa,hablantes,Hombres,Todas,19242.0,1422829.0,,censo
+censo,2020,entidad,26,Sonora,hablantes,Hombres,Todas,34638.0,1407778.0,,censo
+censo,2020,entidad,27,Tabasco,hablantes,Hombres,Todas,45011.0,1113314.0,,censo
+censo,2020,entidad,28,Tamaulipas,hablantes,Hombres,Todas,11442.0,1654807.0,,censo
+censo,2020,entidad,29,Tlaxcala,hablantes,Hombres,Todas,13419.0,607302.0,,censo
+censo,2020,entidad,30,Veracruz,hablantes,Hombres,Todas,319831.0,3697023.0,,censo
+censo,2020,entidad,31,Yucatán,hablantes,Hombres,Todas,267122.0,1087073.0,,censo
+censo,2020,entidad,32,Zacatecas,hablantes,Hombres,Todas,2740.0,745528.0,,censo
+censo,2020,nacional,00,Todo el país,hablantes,Mujeres,15-29,917725.0,15709598.0,0.001188,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Mujeres,15-29,555.0,193077.0,8.2e-05,muestra
+censo,2020,entidad,02,Baja California,hablantes,Mujeres,15-29,6764.0,478194.0,0.001276,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Mujeres,15-29,1443.0,98516.0,0.001737,muestra
+censo,2020,entidad,04,Campeche,hablantes,Mujeres,15-29,7754.0,113321.0,0.005501,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Mujeres,15-29,714.0,383519.0,0.000139,muestra
+censo,2020,entidad,06,Colima,hablantes,Mujeres,15-29,637.0,90227.0,0.000652,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Mujeres,15-29,239448.0,733075.0,0.01683,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Mujeres,15-29,18044.0,463011.0,0.001454,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Mujeres,15-29,14814.0,1053606.0,0.00102,muestra
+censo,2020,entidad,10,Durango,hablantes,Mujeres,15-29,7036.0,230581.0,0.001531,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Mujeres,15-29,2020.0,812097.0,0.000188,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Mujeres,15-29,71755.0,449808.0,0.003808,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Mujeres,15-29,38424.0,378404.0,0.007537,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Mujeres,15-29,11950.0,1057273.0,0.000628,muestra
+censo,2020,entidad,15,México,hablantes,Mujeres,15-29,30929.0,2137530.0,0.00051,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Mujeres,15-29,19246.0,593012.0,0.001647,muestra
+censo,2020,entidad,17,Morelos,hablantes,Mujeres,15-29,3702.0,243374.0,0.001062,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Mujeres,15-29,10485.0,147586.0,0.0041,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Mujeres,15-29,17605.0,711102.0,0.000924,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Mujeres,15-29,141462.0,504182.0,0.004284,muestra
+censo,2020,entidad,21,Puebla,hablantes,Mujeres,15-29,73843.0,858867.0,0.003886,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Mujeres,15-29,3371.0,305429.0,0.001606,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Mujeres,15-29,23541.0,245933.0,0.00972,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Mujeres,15-29,28220.0,358063.0,0.006008,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Mujeres,15-29,3635.0,376529.0,0.000644,muestra
+censo,2020,entidad,26,Sonora,hablantes,Mujeres,15-29,5393.0,361356.0,0.001006,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Mujeres,15-29,10720.0,292891.0,0.00616,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Mujeres,15-29,3336.0,422643.0,0.000534,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Mujeres,15-29,2489.0,172166.0,0.001317,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Mujeres,15-29,71655.0,955146.0,0.002905,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Mujeres,15-29,46043.0,289673.0,0.004263,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Mujeres,15-29,692.0,199407.0,0.000315,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Mujeres,3-14,681589.0,12854116.0,0.001411,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Mujeres,3-14,164.0,155491.0,7.3e-05,muestra
+censo,2020,entidad,02,Baja California,hablantes,Mujeres,3-14,2521.0,363010.0,0.000521,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Mujeres,3-14,237.0,79307.0,0.000111,muestra
+censo,2020,entidad,04,Campeche,hablantes,Mujeres,3-14,3179.0,96681.0,0.003938,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Mujeres,3-14,23.0,325956.0,,muestra
+censo,2020,entidad,06,Colima,hablantes,Mujeres,3-14,381.0,72136.0,0.000903,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Mujeres,3-14,244594.0,716983.0,0.016102,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Mujeres,3-14,13652.0,400056.0,0.001436,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Mujeres,3-14,3108.0,683414.0,0.000418,muestra
+censo,2020,entidad,10,Durango,hablantes,Mujeres,3-14,8351.0,207562.0,0.002177,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Mujeres,3-14,1070.0,669459.0,0.000125,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Mujeres,3-14,61119.0,411098.0,0.003873,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Mujeres,3-14,28597.0,323262.0,0.009291,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Mujeres,3-14,6330.0,854119.0,0.000645,muestra
+censo,2020,entidad,15,México,hablantes,Mujeres,3-14,9327.0,1679306.0,0.00032,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Mujeres,3-14,14113.0,509942.0,0.001589,muestra
+censo,2020,entidad,17,Morelos,hablantes,Mujeres,3-14,1741.0,189030.0,0.001854,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Mujeres,3-14,10429.0,132334.0,0.005066,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Mujeres,3-14,1493.0,546728.0,0.000192,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Mujeres,3-14,107385.0,461031.0,0.004533,muestra
+censo,2020,entidad,21,Puebla,hablantes,Mujeres,3-14,46978.0,714203.0,0.004412,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Mujeres,3-14,1154.0,235096.0,0.001103,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Mujeres,3-14,7620.0,188314.0,0.006435,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Mujeres,3-14,19773.0,291210.0,0.005909,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Mujeres,3-14,1553.0,292820.0,0.000357,muestra
+censo,2020,entidad,26,Sonora,hablantes,Mujeres,3-14,2821.0,293586.0,0.000822,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Mujeres,3-14,7828.0,263176.0,0.009296,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Mujeres,3-14,286.0,353159.0,7.9e-05,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Mujeres,3-14,1080.0,140508.0,0.000691,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Mujeres,3-14,52086.0,799205.0,0.002612,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Mujeres,3-14,22025.0,222519.0,0.004201,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Mujeres,3-14,571.0,183415.0,0.000759,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Mujeres,30-59,1588073.0,24757356.0,0.000841,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Mujeres,30-59,239.0,269806.0,3.7e-05,muestra
+censo,2020,entidad,02,Baja California,hablantes,Mujeres,30-59,14763.0,741253.0,0.001282,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Mujeres,30-59,2702.0,159029.0,0.001106,muestra
+censo,2020,entidad,04,Campeche,hablantes,Mujeres,30-59,20103.0,186341.0,0.005648,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Mujeres,30-59,905.0,597786.0,7.1e-05,muestra
+censo,2020,entidad,06,Colima,hablantes,Mujeres,30-59,1021.0,147210.0,0.000438,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Mujeres,30-59,254967.0,955490.0,0.013281,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Mujeres,30-59,23083.0,718706.0,0.000956,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Mujeres,30-59,38795.0,2054560.0,0.000846,muestra
+censo,2020,entidad,10,Durango,hablantes,Mujeres,30-59,7083.0,334356.0,0.001135,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Mujeres,30-59,2512.0,1175914.0,0.000147,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Mujeres,30-59,89422.0,633620.0,0.003564,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Mujeres,30-59,83271.0,621956.0,0.006929,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Mujeres,30-59,14732.0,1600473.0,0.000368,muestra
+censo,2020,entidad,15,México,hablantes,Mujeres,30-59,118274.0,3496186.0,0.00119,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Mujeres,30-59,29246.0,882281.0,0.001554,muestra
+censo,2020,entidad,17,Morelos,hablantes,Mujeres,30-59,9539.0,398144.0,0.001284,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Mujeres,30-59,11741.0,230425.0,0.003122,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Mujeres,30-59,23274.0,1130320.0,0.000724,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Mujeres,30-59,265283.0,780959.0,0.004815,muestra
+censo,2020,entidad,21,Puebla,hablantes,Mujeres,30-59,139445.0,1254733.0,0.003971,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Mujeres,30-59,6039.0,478931.0,0.001667,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Mujeres,30-59,57248.0,375361.0,0.011195,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Mujeres,30-59,50098.0,537000.0,0.007572,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Mujeres,30-59,5138.0,574296.0,0.000526,muestra
+censo,2020,entidad,26,Sonora,hablantes,Mujeres,30-59,11051.0,564797.0,0.001076,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Mujeres,30-59,20666.0,482025.0,0.005818,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Mujeres,30-59,9189.0,705906.0,0.000544,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Mujeres,30-59,6766.0,266673.0,0.001593,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Mujeres,30-59,144527.0,1640316.0,0.002833,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Mujeres,30-59,126042.0,459412.0,0.005954,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Mujeres,30-59,909.0,303091.0,0.00038,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Mujeres,60+,664672.0,8173873.0,0.00086,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Mujeres,60+,83.0,76638.0,,muestra
+censo,2020,entidad,02,Baja California,hablantes,Mujeres,60+,3221.0,194890.0,0.001138,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Mujeres,60+,565.0,38647.0,0.000745,muestra
+censo,2020,entidad,04,Campeche,hablantes,Mujeres,60+,10700.0,51989.0,0.008401,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Mujeres,60+,176.0,187880.0,6e-06,muestra
+censo,2020,entidad,06,Colima,hablantes,Mujeres,60+,134.0,47005.0,7e-06,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Mujeres,60+,59161.0,255658.0,0.010423,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Mujeres,60+,5833.0,222247.0,0.000746,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Mujeres,60+,17811.0,862058.0,0.000669,muestra
+censo,2020,entidad,10,Durango,hablantes,Mujeres,60+,1616.0,104450.0,0.000616,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Mujeres,60+,605.0,352721.0,0.000104,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Mujeres,60+,32764.0,235768.0,0.003376,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Mujeres,60+,43025.0,207253.0,0.009159,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Mujeres,60+,2237.0,544578.0,0.000132,muestra
+censo,2020,entidad,15,México,hablantes,Mujeres,60+,57049.0,1054970.0,0.00192,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Mujeres,60+,11475.0,326499.0,0.001294,muestra
+censo,2020,entidad,17,Morelos,hablantes,Mujeres,60+,5220.0,141593.0,0.002356,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Mujeres,60+,2741.0,80364.0,0.002507,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Mujeres,60+,1542.0,364499.0,3.9e-05,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Mujeres,60+,130710.0,298714.0,0.005291,muestra
+censo,2020,entidad,21,Puebla,hablantes,Mujeres,60+,68182.0,408855.0,0.004576,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Mujeres,60+,2617.0,135347.0,0.002018,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Mujeres,60+,16882.0,69511.0,0.016313,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Mujeres,60+,24092.0,193116.0,0.00932,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Mujeres,60+,1705.0,208570.0,0.000606,muestra
+censo,2020,entidad,26,Sonora,hablantes,Mujeres,60+,5617.0,192428.0,0.001849,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Mujeres,60+,6647.0,135903.0,0.006369,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Mujeres,60+,2157.0,229032.0,0.000278,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Mujeres,60+,4470.0,79045.0,0.002607,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Mujeres,60+,77415.0,620314.0,0.005312,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Mujeres,60+,68046.0,152951.0,0.010596,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Mujeres,60+,174.0,100380.0,0.000114,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Mujeres,Todas,3783447.0,61554567.0,,censo
+censo,2020,entidad,01,Aguascalientes,hablantes,Mujeres,Todas,1043.0,692561.0,,censo
+censo,2020,entidad,02,Baja California,hablantes,Mujeres,Todas,22740.0,1790298.0,,censo
+censo,2020,entidad,03,Baja California Sur,hablantes,Mujeres,Todas,5931.0,372818.0,,censo
+censo,2020,entidad,04,Campeche,hablantes,Mujeres,Todas,45081.0,446774.0,,censo
+censo,2020,entidad,05,Coahuila,hablantes,Mujeres,Todas,2202.0,1500922.0,,censo
+censo,2020,entidad,06,Colima,hablantes,Mujeres,Todas,2322.0,355305.0,,censo
+censo,2020,entidad,07,Chiapas,hablantes,Mujeres,Todas,745048.0,2658046.0,,censo
+censo,2020,entidad,08,Chihuahua,hablantes,Mujeres,Todas,56479.0,1803755.0,,censo
+censo,2020,entidad,09,Ciudad de México,hablantes,Mujeres,Todas,66922.0,4668454.0,,censo
+censo,2020,entidad,10,Durango,hablantes,Mujeres,Todas,23800.0,878981.0,,censo
+censo,2020,entidad,11,Guanajuato,hablantes,Mujeres,Todas,6372.0,3009728.0,,censo
+censo,2020,entidad,12,Guerrero,hablantes,Mujeres,Todas,274512.0,1735307.0,,censo
+censo,2020,entidad,13,Hidalgo,hablantes,Mujeres,Todas,186796.0,1533074.0,,censo
+censo,2020,entidad,14,Jalisco,hablantes,Mujeres,Todas,32234.0,4034076.0,,censo
+censo,2020,entidad,15,México,hablantes,Mujeres,Todas,220131.0,8379157.0,,censo
+censo,2020,entidad,16,Michoacán,hablantes,Mujeres,Todas,79092.0,2316094.0,,censo
+censo,2020,entidad,17,Morelos,hablantes,Mujeres,Todas,19509.0,979359.0,,censo
+censo,2020,entidad,18,Nayarit,hablantes,Mujeres,Todas,35187.0,593277.0,,censo
+censo,2020,entidad,19,Nuevo León,hablantes,Mujeres,Todas,37686.0,2756412.0,,censo
+censo,2020,entidad,20,Oaxaca,hablantes,Mujeres,Todas,646411.0,2050864.0,,censo
+censo,2020,entidad,21,Puebla,hablantes,Mujeres,Todas,325749.0,3252416.0,,censo
+censo,2020,entidad,22,Querétaro,hablantes,Mujeres,Todas,15929.0,1154345.0,,censo
+censo,2020,entidad,23,Quintana Roo,hablantes,Mujeres,Todas,96611.0,869305.0,,censo
+censo,2020,entidad,24,San Luis Potosí,hablantes,Mujeres,Todas,116308.0,1383017.0,,censo
+censo,2020,entidad,25,Sinaloa,hablantes,Mujeres,Todas,16297.0,1462486.0,,censo
+censo,2020,entidad,26,Sonora,hablantes,Mujeres,Todas,28170.0,1410043.0,,censo
+censo,2020,entidad,27,Tabasco,hablantes,Mujeres,Todas,46014.0,1170069.0,,censo
+censo,2020,entidad,28,Tamaulipas,hablantes,Mujeres,Todas,11209.0,1712316.0,,censo
+censo,2020,entidad,29,Tlaxcala,hablantes,Mujeres,Todas,13755.0,650791.0,,censo
+censo,2020,entidad,30,Veracruz,hablantes,Mujeres,Todas,343672.0,4019340.0,,censo
+censo,2020,entidad,31,Yucatán,hablantes,Mujeres,Todas,257970.0,1128858.0,,censo
+censo,2020,entidad,32,Zacatecas,hablantes,Mujeres,Todas,2265.0,786319.0,,censo
+censo,2020,nacional,00,Todo el país,hablantes,Total,15-29,1793421.0,31093621.0,0.001223,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Total,15-29,1250.0,375851.0,0.00064,muestra
+censo,2020,entidad,02,Baja California,hablantes,Total,15-29,16698.0,978233.0,0.001965,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Total,15-29,3184.0,197282.0,0.002207,muestra
+censo,2020,entidad,04,Campeche,hablantes,Total,15-29,15501.0,224380.0,0.005971,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Total,15-29,1989.0,774043.0,0.000317,muestra
+censo,2020,entidad,06,Colima,hablantes,Total,15-29,1287.0,178536.0,0.001065,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Total,15-29,464843.0,1421785.0,0.017612,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Total,15-29,34260.0,928983.0,0.001461,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Total,15-29,28715.0,2099566.0,0.001013,muestra
+censo,2020,entidad,10,Durango,hablantes,Total,15-29,13781.0,459195.0,0.001634,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Total,15-29,4288.0,1599441.0,0.000235,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Total,15-29,132397.0,860017.0,0.004184,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Total,15-29,77045.0,741359.0,0.008282,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Total,15-29,23657.0,2088169.0,0.000975,muestra
+censo,2020,entidad,15,México,hablantes,Total,15-29,61295.0,4244845.0,0.000532,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Total,15-29,38859.0,1163711.0,0.001718,muestra
+censo,2020,entidad,17,Morelos,hablantes,Total,15-29,7355.0,481357.0,0.00105,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Total,15-29,20394.0,292885.0,0.00434,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Total,15-29,37369.0,1454074.0,0.001046,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Total,15-29,266035.0,969478.0,0.004443,muestra
+censo,2020,entidad,21,Puebla,hablantes,Total,15-29,139941.0,1690883.0,0.003864,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Total,15-29,6956.0,610472.0,0.001559,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Total,15-29,50701.0,495302.0,0.010616,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Total,15-29,56031.0,704105.0,0.006169,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Total,15-29,8606.0,743338.0,0.001194,muestra
+censo,2020,entidad,26,Sonora,hablantes,Total,15-29,11421.0,719272.0,0.001261,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Total,15-29,20666.0,572917.0,0.006086,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Total,15-29,7173.0,853020.0,0.000569,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Total,15-29,4728.0,341696.0,0.001362,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Total,15-29,136635.0,1860798.0,0.00277,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Total,15-29,99005.0,583267.0,0.00458,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Total,15-29,1356.0,385361.0,0.000331,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Total,3-14,1362805.0,26121042.0,0.001389,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Total,3-14,175.0,316716.0,2.4e-05,muestra
+censo,2020,entidad,02,Baja California,hablantes,Total,3-14,4615.0,745187.0,0.000429,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Total,3-14,676.0,163744.0,0.000706,muestra
+censo,2020,entidad,04,Campeche,hablantes,Total,3-14,6332.0,196121.0,0.004073,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Total,3-14,97.0,662721.0,6e-06,muestra
+censo,2020,entidad,06,Colima,hablantes,Total,3-14,668.0,143810.0,0.000837,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Total,3-14,489639.0,1448800.0,0.016069,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Total,3-14,27623.0,802360.0,0.001457,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Total,3-14,5497.0,1394693.0,0.000488,muestra
+censo,2020,entidad,10,Durango,hablantes,Total,3-14,16637.0,422443.0,0.00224,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Total,3-14,1982.0,1346843.0,0.000123,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Total,3-14,121701.0,843394.0,0.004034,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Total,3-14,56612.0,656693.0,0.008791,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Total,3-14,12571.0,1739194.0,0.000557,muestra
+censo,2020,entidad,15,México,hablantes,Total,3-14,18292.0,3404727.0,0.000343,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Total,3-14,28368.0,1033149.0,0.001661,muestra
+censo,2020,entidad,17,Morelos,hablantes,Total,3-14,3597.0,386277.0,0.001603,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Total,3-14,20564.0,273278.0,0.004718,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Total,3-14,2959.0,1120889.0,0.000184,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Total,3-14,214829.0,934649.0,0.004537,muestra
+censo,2020,entidad,21,Puebla,hablantes,Total,3-14,94601.0,1454827.0,0.004668,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Total,3-14,2297.0,477426.0,0.001133,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Total,3-14,16107.0,384479.0,0.006497,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Total,3-14,40757.0,592976.0,0.006,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Total,3-14,2710.0,598974.0,0.000299,muestra
+censo,2020,entidad,26,Sonora,hablantes,Total,3-14,5437.0,597722.0,0.000866,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Total,3-14,15581.0,529389.0,0.010443,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Total,3-14,768.0,714999.0,0.000287,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Total,3-14,2162.0,289109.0,0.000844,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Total,3-14,103942.0,1619428.0,0.002504,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Total,3-14,43960.0,454248.0,0.003945,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Total,3-14,1049.0,371777.0,0.000816,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Total,30-59,3074876.0,47274909.0,0.000871,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Total,30-59,1092.0,514119.0,4.7e-05,muestra
+censo,2020,entidad,02,Baja California,hablantes,Total,30-59,30627.0,1497625.0,0.00135,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Total,30-59,7096.0,321234.0,0.001542,muestra
+censo,2020,entidad,04,Campeche,hablantes,Total,30-59,40975.0,359061.0,0.006297,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Total,30-59,2349.0,1177169.0,9.1e-05,muestra
+censo,2020,entidad,06,Colima,hablantes,Total,30-59,2293.0,286345.0,0.000523,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Total,30-59,491707.0,1808589.0,0.013687,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Total,30-59,45358.0,1411771.0,0.001153,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Total,30-59,75234.0,3881028.0,0.000909,muestra
+censo,2020,entidad,10,Durango,hablantes,Total,30-59,13698.0,640642.0,0.001091,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Total,30-59,6204.0,2218812.0,0.000137,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Total,30-59,160651.0,1181422.0,0.003683,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Total,30-59,160696.0,1154334.0,0.007373,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Total,30-59,30177.0,3091436.0,0.000493,muestra
+censo,2020,entidad,15,México,hablantes,Total,30-59,229531.0,6626493.0,0.001231,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Total,30-59,57105.0,1665676.0,0.001645,muestra
+censo,2020,entidad,17,Morelos,hablantes,Total,30-59,18786.0,744424.0,0.001491,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Total,30-59,22990.0,444831.0,0.003324,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Total,30-59,48466.0,2258641.0,0.000759,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Total,30-59,491714.0,1447458.0,0.005012,muestra
+censo,2020,entidad,21,Puebla,hablantes,Total,30-59,263525.0,2335486.0,0.004178,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Total,30-59,13112.0,914446.0,0.00165,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Total,30-59,125190.0,749881.0,0.010894,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Total,30-59,97545.0,1018167.0,0.00798,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Total,30-59,11811.0,1109319.0,0.000657,muestra
+censo,2020,entidad,26,Sonora,hablantes,Total,30-59,24652.0,1118922.0,0.001143,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Total,30-59,41735.0,912804.0,0.007061,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Total,30-59,18985.0,1366617.0,0.000602,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Total,30-59,13064.0,497283.0,0.001771,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Total,30-59,271854.0,3057409.0,0.002965,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Total,30-59,254629.0,887983.0,0.006784,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Total,30-59,2025.0,575482.0,0.000349,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Total,60+,1291394.0,15203326.0,0.00092,muestra
+censo,2020,entidad,01,Aguascalientes,hablantes,Total,60+,268.0,141786.0,7.3e-05,muestra
+censo,2020,entidad,02,Baja California,hablantes,Total,60+,7632.0,364975.0,0.000895,muestra
+censo,2020,entidad,03,Baja California Sur,hablantes,Total,60+,1212.0,74501.0,0.00099,muestra
+censo,2020,entidad,04,Campeche,hablantes,Total,60+,22771.0,101106.0,0.009078,muestra
+censo,2020,entidad,05,Coahuila,hablantes,Total,60+,620.0,361046.0,2.8e-05,muestra
+censo,2020,entidad,06,Colima,hablantes,Total,60+,329.0,89470.0,0.000152,muestra
+censo,2020,entidad,07,Chiapas,hablantes,Total,60+,120372.0,503713.0,0.010642,muestra
+censo,2020,entidad,08,Chihuahua,hablantes,Total,60+,11628.0,415396.0,0.000941,muestra
+censo,2020,entidad,09,Ciudad de México,hablantes,Total,60+,32755.0,1515939.0,0.000749,muestra
+censo,2020,entidad,10,Durango,hablantes,Total,60+,3279.0,201215.0,0.00066,muestra
+censo,2020,entidad,11,Guanajuato,hablantes,Total,60+,1477.0,660169.0,0.000102,muestra
+censo,2020,entidad,12,Guerrero,hablantes,Total,60+,62054.0,441488.0,0.003571,muestra
+censo,2020,entidad,13,Hidalgo,hablantes,Total,60+,83125.0,387218.0,0.009293,muestra
+censo,2020,entidad,14,Jalisco,hablantes,Total,60+,5005.0,1000583.0,0.000168,muestra
+censo,2020,entidad,15,México,hablantes,Total,60+,102483.0,1937357.0,0.0018,muestra
+censo,2020,entidad,16,Michoacán,hablantes,Total,60+,22556.0,613819.0,0.001339,muestra
+censo,2020,entidad,17,Morelos,hablantes,Total,60+,10674.0,266439.0,0.002345,muestra
+censo,2020,entidad,18,Nayarit,hablantes,Total,60+,5893.0,156192.0,0.002731,muestra
+censo,2020,entidad,19,Nuevo León,hablantes,Total,60+,3451.0,674474.0,0.000175,muestra
+censo,2020,entidad,20,Oaxaca,hablantes,Total,60+,243856.0,555203.0,0.005358,muestra
+censo,2020,entidad,21,Puebla,hablantes,Total,60+,124296.0,741143.0,0.00464,muestra
+censo,2020,entidad,22,Querétaro,hablantes,Total,60+,4501.0,251156.0,0.001915,muestra
+censo,2020,entidad,23,Quintana Roo,hablantes,Total,60+,36312.0,136121.0,0.022186,muestra
+censo,2020,entidad,24,San Luis Potosí,hablantes,Total,60+,50005.0,367569.0,0.010788,muestra
+censo,2020,entidad,25,Sinaloa,hablantes,Total,60+,4290.0,394857.0,0.001025,muestra
+censo,2020,entidad,26,Sonora,hablantes,Total,60+,13147.0,362886.0,0.00227,muestra
+censo,2020,entidad,27,Tabasco,hablantes,Total,60+,14208.0,263038.0,0.006831,muestra
+censo,2020,entidad,28,Tamaulipas,hablantes,Total,60+,4218.0,428931.0,0.000317,muestra
+censo,2020,entidad,29,Tlaxcala,hablantes,Total,60+,8689.0,147382.0,0.002716,muestra
+censo,2020,entidad,30,Veracruz,hablantes,Total,60+,152127.0,1161867.0,0.005596,muestra
+censo,2020,entidad,31,Yucatán,hablantes,Total,60+,137768.0,291660.0,0.010781,muestra
+censo,2020,entidad,32,Zacatecas,hablantes,Total,60+,393.0,194627.0,0.00015,muestra
+censo,2020,nacional,00,Todo el país,hablantes,Total,Todas,7364645.0,119976584.0,,censo
+censo,2020,entidad,01,Aguascalientes,hablantes,Total,Todas,2539.0,1352235.0,,censo
+censo,2020,entidad,02,Baja California,hablantes,Total,Todas,49130.0,3610844.0,,censo
+censo,2020,entidad,03,Baja California Sur,hablantes,Total,Todas,13581.0,758642.0,,censo
+censo,2020,entidad,04,Campeche,hablantes,Total,Todas,91801.0,878528.0,,censo
+censo,2020,entidad,05,Coahuila,hablantes,Total,Todas,5527.0,2980244.0,,censo
+censo,2020,entidad,06,Colima,hablantes,Total,Todas,5210.0,699821.0,,censo
+censo,2020,entidad,07,Chiapas,hablantes,Total,Todas,1459648.0,5181929.0,,censo
+censo,2020,entidad,08,Chihuahua,hablantes,Total,Todas,110498.0,3570280.0,,censo
+censo,2020,entidad,09,Ciudad de México,hablantes,Total,Todas,125153.0,8933167.0,,censo
+censo,2020,entidad,10,Durango,hablantes,Total,Todas,47242.0,1733682.0,,censo
+censo,2020,entidad,11,Guanajuato,hablantes,Total,Todas,14048.0,5840957.0,,censo
+censo,2020,entidad,12,Guerrero,hablantes,Total,Todas,515487.0,3328762.0,,censo
+censo,2020,entidad,13,Hidalgo,hablantes,Total,Todas,362629.0,2944897.0,,censo
+censo,2020,entidad,14,Jalisco,hablantes,Total,Todas,66963.0,7912955.0,,censo
+censo,2020,entidad,15,México,hablantes,Total,Todas,417603.0,16260058.0,,censo
+censo,2020,entidad,16,Michoacán,hablantes,Total,Todas,154943.0,4493516.0,,censo
+censo,2020,entidad,17,Morelos,hablantes,Total,Todas,38110.0,1887763.0,,censo
+censo,2020,entidad,18,Nayarit,hablantes,Total,Todas,69069.0,1174739.0,,censo
+censo,2020,entidad,19,Nuevo León,hablantes,Total,Todas,77945.0,5508144.0,,censo
+censo,2020,entidad,20,Oaxaca,hablantes,Total,Todas,1221555.0,3917300.0,,censo
+censo,2020,entidad,21,Puebla,hablantes,Total,Todas,615622.0,6238582.0,,censo
+censo,2020,entidad,22,Querétaro,hablantes,Total,Todas,31383.0,2253414.0,,censo
+censo,2020,entidad,23,Quintana Roo,hablantes,Total,Todas,204949.0,1752570.0,,censo
+censo,2020,entidad,24,San Luis Potosí,hablantes,Total,Todas,231213.0,2687679.0,,censo
+censo,2020,entidad,25,Sinaloa,hablantes,Total,Todas,35539.0,2885315.0,,censo
+censo,2020,entidad,26,Sonora,hablantes,Total,Todas,62808.0,2817821.0,,censo
+censo,2020,entidad,27,Tabasco,hablantes,Total,Todas,91025.0,2283383.0,,censo
+censo,2020,entidad,28,Tamaulipas,hablantes,Total,Todas,22651.0,3367123.0,,censo
+censo,2020,entidad,29,Tlaxcala,hablantes,Total,Todas,27174.0,1258093.0,,censo
+censo,2020,entidad,30,Veracruz,hablantes,Total,Todas,663503.0,7716363.0,,censo
+censo,2020,entidad,31,Yucatán,hablantes,Total,Todas,525092.0,2215931.0,,censo
+censo,2020,entidad,32,Zacatecas,hablantes,Total,Todas,5005.0,1531847.0,,censo
+censo,2020,nacional,00,Todo el país,hogares,Total,Todas,11800247.0,126014024.0,,censo
+censo,2020,entidad,01,Aguascalientes,hogares,Total,Todas,5552.0,1425607.0,,censo
+censo,2020,entidad,02,Baja California,hogares,Total,Todas,102613.0,3769020.0,,censo
+censo,2020,entidad,03,Baja California Sur,hogares,Total,Todas,29401.0,798447.0,,censo
+censo,2020,entidad,04,Campeche,hogares,Total,Todas,182867.0,928363.0,,censo
+censo,2020,entidad,05,Coahuila,hogares,Total,Todas,11516.0,3146771.0,,censo
+censo,2020,entidad,06,Colima,hogares,Total,Todas,9770.0,731391.0,,censo
+censo,2020,entidad,07,Chiapas,hogares,Total,Todas,1835102.0,5543828.0,,censo
+censo,2020,entidad,08,Chihuahua,hogares,Total,Todas,157671.0,3741869.0,,censo
+censo,2020,entidad,09,Ciudad de México,hogares,Total,Todas,289139.0,9209944.0,,censo
+censo,2020,entidad,10,Durango,hogares,Total,Todas,58286.0,1832650.0,,censo
+censo,2020,entidad,11,Guanajuato,hogares,Total,Todas,25976.0,6166934.0,,censo
+censo,2020,entidad,12,Guerrero,hogares,Total,Todas,691724.0,3540685.0,,censo
+censo,2020,entidad,13,Hidalgo,hogares,Total,Todas,584693.0,3082841.0,,censo
+censo,2020,entidad,14,Jalisco,hogares,Total,Todas,104858.0,8348151.0,,censo
+censo,2020,entidad,15,México,hogares,Total,Todas,1026540.0,16992418.0,,censo
+censo,2020,entidad,16,Michoacán,hogares,Total,Todas,230063.0,4748846.0,,censo
+censo,2020,entidad,17,Morelos,hogares,Total,Todas,82634.0,1971520.0,,censo
+censo,2020,entidad,18,Nayarit,hogares,Total,Todas,89853.0,1235456.0,,censo
+censo,2020,entidad,19,Nuevo León,hogares,Total,Todas,159873.0,5784442.0,,censo
+censo,2020,entidad,20,Oaxaca,hogares,Total,Todas,1780303.0,4132148.0,,censo
+censo,2020,entidad,21,Puebla,hogares,Total,Todas,1043116.0,6583278.0,,censo
+censo,2020,entidad,22,Querétaro,hogares,Total,Todas,62207.0,2368467.0,,censo
+censo,2020,entidad,23,Quintana Roo,hogares,Total,Todas,423166.0,1857985.0,,censo
+censo,2020,entidad,24,San Luis Potosí,hogares,Total,Todas,337480.0,2822255.0,,censo
+censo,2020,entidad,25,Sinaloa,hogares,Total,Todas,56784.0,3026943.0,,censo
+censo,2020,entidad,26,Sonora,hogares,Total,Todas,126644.0,2944840.0,,censo
+censo,2020,entidad,27,Tabasco,hogares,Total,Todas,155175.0,2402598.0,,censo
+censo,2020,entidad,28,Tamaulipas,hogares,Total,Todas,58844.0,3527735.0,,censo
+censo,2020,entidad,29,Tlaxcala,hogares,Total,Todas,67824.0,1342977.0,,censo
+censo,2020,entidad,30,Veracruz,hogares,Total,Todas,1019017.0,8062579.0,,censo
+censo,2020,entidad,31,Yucatán,hogares,Total,Todas,983257.0,2320898.0,,censo
+censo,2020,entidad,32,Zacatecas,hogares,Total,Todas,8299.0,1622138.0,,censo
+censo,2020,nacional,00,Todo el país,todas,Hombres,15-29,2899728.0,15384023.0,0.001509,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Hombres,15-29,9332.0,182774.0,0.004046,muestra
+censo,2020,entidad,02,Baja California,todas,Hombres,15-29,38323.0,500039.0,0.004219,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Hombres,15-29,12254.0,98766.0,0.005924,muestra
+censo,2020,entidad,04,Campeche,todas,Hombres,15-29,50506.0,111059.0,0.011989,muestra
+censo,2020,entidad,05,Coahuila,todas,Hombres,15-29,8625.0,390524.0,0.001194,muestra
+censo,2020,entidad,06,Colima,todas,Hombres,15-29,10182.0,88309.0,0.005396,muestra
+censo,2020,entidad,07,Chiapas,todas,Hombres,15-29,276660.0,688710.0,0.016485,muestra
+censo,2020,entidad,08,Chihuahua,todas,Hombres,15-29,46859.0,465972.0,0.003389,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Hombres,15-29,89511.0,1045960.0,0.00307,muestra
+censo,2020,entidad,10,Durango,todas,Hombres,15-29,18785.0,228614.0,0.003384,muestra
+censo,2020,entidad,11,Guanajuato,todas,Hombres,15-29,48614.0,787344.0,0.002359,muestra
+censo,2020,entidad,12,Guerrero,todas,Hombres,15-29,137477.0,410209.0,0.006311,muestra
+censo,2020,entidad,13,Hidalgo,todas,Hombres,15-29,127173.0,362955.0,0.00881,muestra
+censo,2020,entidad,14,Jalisco,todas,Hombres,15-29,73822.0,1030896.0,0.004548,muestra
+censo,2020,entidad,15,México,todas,Hombres,15-29,316315.0,2107315.0,0.004001,muestra
+censo,2020,entidad,16,Michoacán,todas,Hombres,15-29,116541.0,570699.0,0.003944,muestra
+censo,2020,entidad,17,Morelos,todas,Hombres,15-29,54555.0,237983.0,0.005859,muestra
+censo,2020,entidad,18,Nayarit,todas,Hombres,15-29,23844.0,145299.0,0.007973,muestra
+censo,2020,entidad,19,Nuevo León,todas,Hombres,15-29,55004.0,742972.0,0.002125,muestra
+censo,2020,entidad,20,Oaxaca,todas,Hombres,15-29,314178.0,465296.0,0.004599,muestra
+censo,2020,entidad,21,Puebla,todas,Hombres,15-29,265663.0,832016.0,0.006967,muestra
+censo,2020,entidad,22,Querétaro,todas,Hombres,15-29,38296.0,305043.0,0.006023,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Hombres,15-29,82989.0,249369.0,0.019489,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Hombres,15-29,66595.0,346042.0,0.009509,muestra
+censo,2020,entidad,25,Sinaloa,todas,Hombres,15-29,32655.0,366809.0,0.004087,muestra
+censo,2020,entidad,26,Sonora,todas,Hombres,15-29,45555.0,357916.0,0.006205,muestra
+censo,2020,entidad,27,Tabasco,todas,Hombres,15-29,57248.0,280026.0,0.019694,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Hombres,15-29,26544.0,430377.0,0.003305,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Hombres,15-29,26554.0,169530.0,0.004431,muestra
+censo,2020,entidad,30,Veracruz,todas,Hombres,15-29,228660.0,905652.0,0.004583,muestra
+censo,2020,entidad,31,Yucatán,todas,Hombres,15-29,191476.0,293594.0,0.009315,muestra
+censo,2020,entidad,32,Zacatecas,todas,Hombres,15-29,8933.0,185954.0,0.001634,muestra
+censo,2020,nacional,00,Todo el país,todas,Hombres,3-14,2611698.0,13266926.0,0.001639,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Hombres,3-14,8292.0,161225.0,0.003847,muestra
+censo,2020,entidad,02,Baja California,todas,Hombres,3-14,25173.0,382177.0,0.003444,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Hombres,3-14,7959.0,84437.0,0.004799,muestra
+censo,2020,entidad,04,Campeche,todas,Hombres,3-14,43531.0,99440.0,0.012376,muestra
+censo,2020,entidad,05,Coahuila,todas,Hombres,3-14,5097.0,336765.0,0.001299,muestra
+censo,2020,entidad,06,Colima,todas,Hombres,3-14,8161.0,71674.0,0.006191,muestra
+censo,2020,entidad,07,Chiapas,todas,Hombres,3-14,311479.0,731817.0,0.014426,muestra
+censo,2020,entidad,08,Chihuahua,todas,Hombres,3-14,41539.0,402304.0,0.003496,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Hombres,3-14,50237.0,711279.0,0.002787,muestra
+censo,2020,entidad,10,Durango,todas,Hombres,3-14,20215.0,214881.0,0.003788,muestra
+censo,2020,entidad,11,Guanajuato,todas,Hombres,3-14,41345.0,677384.0,0.002644,muestra
+censo,2020,entidad,12,Guerrero,todas,Hombres,3-14,149072.0,432296.0,0.006808,muestra
+censo,2020,entidad,13,Hidalgo,todas,Hombres,3-14,123925.0,333431.0,0.010321,muestra
+censo,2020,entidad,14,Jalisco,todas,Hombres,3-14,58413.0,885075.0,0.003762,muestra
+censo,2020,entidad,15,México,todas,Hombres,3-14,260917.0,1725421.0,0.004427,muestra
+censo,2020,entidad,16,Michoacán,todas,Hombres,3-14,105622.0,523207.0,0.00387,muestra
+censo,2020,entidad,17,Morelos,todas,Hombres,3-14,45482.0,197247.0,0.005953,muestra
+censo,2020,entidad,18,Nayarit,todas,Hombres,3-14,25234.0,140944.0,0.008528,muestra
+censo,2020,entidad,19,Nuevo León,todas,Hombres,3-14,30911.0,574161.0,0.002227,muestra
+censo,2020,entidad,20,Oaxaca,todas,Hombres,3-14,324646.0,473618.0,0.003792,muestra
+censo,2020,entidad,21,Puebla,todas,Hombres,3-14,245696.0,740624.0,0.00773,muestra
+censo,2020,entidad,22,Querétaro,todas,Hombres,3-14,30723.0,242330.0,0.006321,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Hombres,3-14,56976.0,196165.0,0.021354,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Hombres,3-14,62452.0,301766.0,0.009941,muestra
+censo,2020,entidad,25,Sinaloa,todas,Hombres,3-14,23667.0,306154.0,0.003564,muestra
+censo,2020,entidad,26,Sonora,todas,Hombres,3-14,35083.0,304136.0,0.006581,muestra
+censo,2020,entidad,27,Tabasco,todas,Hombres,3-14,53126.0,266213.0,0.022006,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Hombres,3-14,18105.0,361840.0,0.002387,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Hombres,3-14,21457.0,148601.0,0.004191,muestra
+censo,2020,entidad,30,Veracruz,todas,Hombres,3-14,218380.0,820223.0,0.00514,muestra
+censo,2020,entidad,31,Yucatán,todas,Hombres,3-14,150839.0,231729.0,0.011905,muestra
+censo,2020,entidad,32,Zacatecas,todas,Hombres,3-14,7944.0,188362.0,0.002038,muestra
+censo,2020,nacional,00,Todo el país,todas,Hombres,30-59,4378670.0,22517553.0,0.001274,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Hombres,30-59,18202.0,244313.0,0.00445,muestra
+censo,2020,entidad,02,Baja California,todas,Hombres,30-59,66406.0,756372.0,0.004141,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Hombres,30-59,23064.0,162205.0,0.005478,muestra
+censo,2020,entidad,04,Campeche,todas,Hombres,30-59,84556.0,172720.0,0.012446,muestra
+censo,2020,entidad,05,Coahuila,todas,Hombres,30-59,14766.0,579383.0,0.001499,muestra
+censo,2020,entidad,06,Colima,todas,Hombres,30-59,20147.0,139135.0,0.006275,muestra
+censo,2020,entidad,07,Chiapas,todas,Hombres,30-59,291409.0,853099.0,0.013073,muestra
+censo,2020,entidad,08,Chihuahua,todas,Hombres,30-59,75202.0,693065.0,0.004359,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Hombres,30-59,182413.0,1826468.0,0.002883,muestra
+censo,2020,entidad,10,Durango,todas,Hombres,30-59,25949.0,306286.0,0.003628,muestra
+censo,2020,entidad,11,Guanajuato,todas,Hombres,30-59,70733.0,1042898.0,0.002318,muestra
+censo,2020,entidad,12,Guerrero,todas,Hombres,30-59,172401.0,547802.0,0.006134,muestra
+censo,2020,entidad,13,Hidalgo,todas,Hombres,30-59,193750.0,532378.0,0.00847,muestra
+censo,2020,entidad,14,Jalisco,todas,Hombres,30-59,110645.0,1490963.0,0.003211,muestra
+censo,2020,entidad,15,México,todas,Hombres,30-59,513530.0,3130307.0,0.003747,muestra
+censo,2020,entidad,16,Michoacán,todas,Hombres,30-59,168965.0,783395.0,0.003684,muestra
+censo,2020,entidad,17,Morelos,todas,Hombres,30-59,88148.0,346280.0,0.006003,muestra
+censo,2020,entidad,18,Nayarit,todas,Hombres,30-59,32759.0,214406.0,0.006995,muestra
+censo,2020,entidad,19,Nuevo León,todas,Hombres,30-59,85348.0,1128321.0,0.002074,muestra
+censo,2020,entidad,20,Oaxaca,todas,Hombres,30-59,464505.0,666499.0,0.004529,muestra
+censo,2020,entidad,21,Puebla,todas,Hombres,30-59,366710.0,1080753.0,0.007525,muestra
+censo,2020,entidad,22,Querétaro,todas,Hombres,30-59,58172.0,435515.0,0.006144,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Hombres,30-59,142303.0,374520.0,0.017872,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Hombres,30-59,96638.0,481167.0,0.009129,muestra
+censo,2020,entidad,25,Sinaloa,todas,Hombres,30-59,54925.0,535023.0,0.005357,muestra
+censo,2020,entidad,26,Sonora,todas,Hombres,30-59,79541.0,554125.0,0.005516,muestra
+censo,2020,entidad,27,Tabasco,todas,Hombres,30-59,96923.0,430779.0,0.016898,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Hombres,30-59,52389.0,660711.0,0.002969,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Hombres,30-59,41445.0,230610.0,0.004427,muestra
+censo,2020,entidad,30,Veracruz,todas,Hombres,30-59,385422.0,1417093.0,0.005441,muestra
+censo,2020,entidad,31,Yucatán,todas,Hombres,30-59,286950.0,428571.0,0.01194,muestra
+censo,2020,entidad,32,Zacatecas,todas,Hombres,30-59,14354.0,272391.0,0.001575,muestra
+censo,2020,nacional,00,Todo el país,todas,Hombres,60+,1586085.0,7029453.0,0.001284,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Hombres,60+,4483.0,65148.0,0.004211,muestra
+censo,2020,entidad,02,Baja California,todas,Hombres,60+,19776.0,170085.0,0.004169,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Hombres,60+,4708.0,35854.0,0.006083,muestra
+censo,2020,entidad,04,Campeche,todas,Hombres,60+,27777.0,49117.0,0.014488,muestra
+censo,2020,entidad,05,Coahuila,todas,Hombres,60+,4803.0,173166.0,0.001311,muestra
+censo,2020,entidad,06,Colima,todas,Hombres,60+,7816.0,42465.0,0.00673,muestra
+censo,2020,entidad,07,Chiapas,todas,Hombres,60+,77846.0,248055.0,0.010024,muestra
+censo,2020,entidad,08,Chihuahua,todas,Hombres,60+,22907.0,193149.0,0.003287,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Hombres,60+,84671.0,653881.0,0.003871,muestra
+censo,2020,entidad,10,Durango,todas,Hombres,60+,10454.0,96765.0,0.003548,muestra
+censo,2020,entidad,11,Guanajuato,todas,Hombres,60+,24213.0,307448.0,0.002584,muestra
+censo,2020,entidad,12,Guerrero,todas,Hombres,60+,66429.0,205720.0,0.005832,muestra
+censo,2020,entidad,13,Hidalgo,todas,Hombres,60+,79168.0,179965.0,0.008152,muestra
+censo,2020,entidad,14,Jalisco,todas,Hombres,60+,37920.0,456005.0,0.001988,muestra
+censo,2020,entidad,15,México,todas,Hombres,60+,166429.0,882387.0,0.003546,muestra
+censo,2020,entidad,16,Michoacán,todas,Hombres,60+,62964.0,287320.0,0.003865,muestra
+censo,2020,entidad,17,Morelos,todas,Hombres,60+,35748.0,124846.0,0.006657,muestra
+censo,2020,entidad,18,Nayarit,todas,Hombres,60+,12411.0,75828.0,0.007675,muestra
+censo,2020,entidad,19,Nuevo León,todas,Hombres,60+,18150.0,309975.0,0.002008,muestra
+censo,2020,entidad,20,Oaxaca,todas,Hombres,60+,191510.0,256489.0,0.004235,muestra
+censo,2020,entidad,21,Puebla,todas,Hombres,60+,127577.0,332288.0,0.007668,muestra
+censo,2020,entidad,22,Querétaro,todas,Hombres,60+,17593.0,115809.0,0.008974,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Hombres,60+,30360.0,66610.0,0.024281,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Hombres,60+,45775.0,174453.0,0.011645,muestra
+censo,2020,entidad,25,Sinaloa,todas,Hombres,60+,25186.0,186287.0,0.006394,muestra
+censo,2020,entidad,26,Sonora,todas,Hombres,60+,34515.0,170458.0,0.006967,muestra
+censo,2020,entidad,27,Tabasco,todas,Hombres,60+,33197.0,127135.0,0.014027,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Hombres,60+,17243.0,199899.0,0.002575,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Hombres,60+,15086.0,68337.0,0.004778,muestra
+censo,2020,entidad,30,Veracruz,todas,Hombres,60+,173015.0,541553.0,0.006549,muestra
+censo,2020,entidad,31,Yucatán,todas,Hombres,60+,100775.0,138709.0,0.012027,muestra
+censo,2020,entidad,32,Zacatecas,todas,Hombres,60+,5580.0,94247.0,0.002081,muestra
+censo,2020,nacional,00,Todo el país,todas,Hombres,Todas,11476181.0,58197955.0,0.001409,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Hombres,Todas,40309.0,653460.0,0.003894,muestra
+censo,2020,entidad,02,Baja California,todas,Hombres,Todas,149678.0,1808673.0,0.004021,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Hombres,Todas,47985.0,381262.0,0.005025,muestra
+censo,2020,entidad,04,Campeche,todas,Hombres,Todas,206370.0,432336.0,0.011599,muestra
+censo,2020,entidad,05,Coahuila,todas,Hombres,Todas,33291.0,1479838.0,0.001408,muestra
+censo,2020,entidad,06,Colima,todas,Hombres,Todas,46306.0,341583.0,0.006296,muestra
+censo,2020,entidad,07,Chiapas,todas,Hombres,Todas,957394.0,2521681.0,0.014582,muestra
+censo,2020,entidad,08,Chihuahua,todas,Hombres,Todas,186507.0,1754490.0,0.004073,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Hombres,Todas,406832.0,4237588.0,0.002963,muestra
+censo,2020,entidad,10,Durango,todas,Hombres,Todas,75403.0,846546.0,0.003773,muestra
+censo,2020,entidad,11,Guanajuato,todas,Hombres,Todas,184905.0,2815074.0,0.002493,muestra
+censo,2020,entidad,12,Guerrero,todas,Hombres,Todas,525379.0,1596027.0,0.006369,muestra
+censo,2020,entidad,13,Hidalgo,todas,Hombres,Todas,524016.0,1408729.0,0.008855,muestra
+censo,2020,entidad,14,Jalisco,todas,Hombres,Todas,280800.0,3862939.0,0.00348,muestra
+censo,2020,entidad,15,México,todas,Hombres,Todas,1257191.0,7845430.0,0.00395,muestra
+censo,2020,entidad,16,Michoacán,todas,Hombres,Todas,454092.0,2164621.0,0.003803,muestra
+censo,2020,entidad,17,Morelos,todas,Hombres,Todas,223933.0,906356.0,0.005807,muestra
+censo,2020,entidad,18,Nayarit,todas,Hombres,Todas,94248.0,576477.0,0.007634,muestra
+censo,2020,entidad,19,Nuevo León,todas,Hombres,Todas,189413.0,2755429.0,0.001991,muestra
+censo,2020,entidad,20,Oaxaca,todas,Hombres,Todas,1294839.0,1861902.0,0.004445,muestra
+censo,2020,entidad,21,Puebla,todas,Hombres,Todas,1005646.0,2985681.0,0.007199,muestra
+censo,2020,entidad,22,Querétaro,todas,Hombres,Todas,144784.0,1098697.0,0.006419,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Hombres,Todas,312628.0,886664.0,0.019217,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Hombres,Todas,271460.0,1303428.0,0.010023,muestra
+censo,2020,entidad,25,Sinaloa,todas,Hombres,Todas,136433.0,1394273.0,0.004657,muestra
+censo,2020,entidad,26,Sonora,todas,Hombres,Todas,194694.0,1386635.0,0.006166,muestra
+censo,2020,entidad,27,Tabasco,todas,Hombres,Todas,240494.0,1104153.0,0.018788,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Hombres,Todas,114281.0,1652827.0,0.002889,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Hombres,Todas,104542.0,617078.0,0.004438,muestra
+censo,2020,entidad,30,Veracruz,todas,Hombres,Todas,1005477.0,3684521.0,0.005426,muestra
+censo,2020,entidad,31,Yucatán,todas,Hombres,Todas,730040.0,1092603.0,0.010292,muestra
+censo,2020,entidad,32,Zacatecas,todas,Hombres,Todas,36811.0,740954.0,0.001796,muestra
+censo,2020,nacional,00,Todo el país,todas,Mujeres,15-29,3008829.0,15709598.0,0.001478,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Mujeres,15-29,11956.0,193077.0,0.004504,muestra
+censo,2020,entidad,02,Baja California,todas,Mujeres,15-29,35219.0,478194.0,0.003543,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Mujeres,15-29,11202.0,98516.0,0.005486,muestra
+censo,2020,entidad,04,Campeche,todas,Mujeres,15-29,51663.0,113321.0,0.011974,muestra
+censo,2020,entidad,05,Coahuila,todas,Mujeres,15-29,7910.0,383519.0,0.001451,muestra
+censo,2020,entidad,06,Colima,todas,Mujeres,15-29,10146.0,90227.0,0.005133,muestra
+censo,2020,entidad,07,Chiapas,todas,Mujeres,15-29,293013.0,733075.0,0.015413,muestra
+censo,2020,entidad,08,Chihuahua,todas,Mujeres,15-29,48590.0,463011.0,0.003951,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Mujeres,15-29,86456.0,1053606.0,0.002759,muestra
+censo,2020,entidad,10,Durango,todas,Mujeres,15-29,19771.0,230581.0,0.003094,muestra
+censo,2020,entidad,11,Guanajuato,todas,Mujeres,15-29,46810.0,812097.0,0.002449,muestra
+censo,2020,entidad,12,Guerrero,todas,Mujeres,15-29,156883.0,449808.0,0.005962,muestra
+censo,2020,entidad,13,Hidalgo,todas,Mujeres,15-29,131818.0,378404.0,0.008793,muestra
+censo,2020,entidad,14,Jalisco,todas,Mujeres,15-29,72462.0,1057273.0,0.0034,muestra
+censo,2020,entidad,15,México,todas,Mujeres,15-29,324912.0,2137530.0,0.004133,muestra
+censo,2020,entidad,16,Michoacán,todas,Mujeres,15-29,119907.0,593012.0,0.004081,muestra
+censo,2020,entidad,17,Morelos,todas,Mujeres,15-29,56680.0,243374.0,0.005189,muestra
+censo,2020,entidad,18,Nayarit,todas,Mujeres,15-29,24050.0,147586.0,0.006889,muestra
+censo,2020,entidad,19,Nuevo León,todas,Mujeres,15-29,51855.0,711102.0,0.002258,muestra
+censo,2020,entidad,20,Oaxaca,todas,Mujeres,15-29,348683.0,504182.0,0.004491,muestra
+censo,2020,entidad,21,Puebla,todas,Mujeres,15-29,280942.0,858867.0,0.006446,muestra
+censo,2020,entidad,22,Querétaro,todas,Mujeres,15-29,39556.0,305429.0,0.005426,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Mujeres,15-29,80415.0,245933.0,0.019613,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Mujeres,15-29,69273.0,358063.0,0.010153,muestra
+censo,2020,entidad,25,Sinaloa,todas,Mujeres,15-29,31288.0,376529.0,0.003439,muestra
+censo,2020,entidad,26,Sonora,todas,Mujeres,15-29,42251.0,361356.0,0.005892,muestra
+censo,2020,entidad,27,Tabasco,todas,Mujeres,15-29,60878.0,292891.0,0.019585,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Mujeres,15-29,25878.0,422643.0,0.002591,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Mujeres,15-29,26568.0,172166.0,0.004271,muestra
+censo,2020,entidad,30,Veracruz,todas,Mujeres,15-29,246344.0,955146.0,0.004563,muestra
+censo,2020,entidad,31,Yucatán,todas,Mujeres,15-29,186626.0,289673.0,0.011286,muestra
+censo,2020,entidad,32,Zacatecas,todas,Mujeres,15-29,8824.0,199407.0,0.001801,muestra
+censo,2020,nacional,00,Todo el país,todas,Mujeres,3-14,2557726.0,12854116.0,0.001694,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Mujeres,3-14,8338.0,155491.0,0.004473,muestra
+censo,2020,entidad,02,Baja California,todas,Mujeres,3-14,23041.0,363010.0,0.003103,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Mujeres,3-14,7468.0,79307.0,0.004954,muestra
+censo,2020,entidad,04,Campeche,todas,Mujeres,3-14,42097.0,96681.0,0.012228,muestra
+censo,2020,entidad,05,Coahuila,todas,Mujeres,3-14,5029.0,325956.0,0.001138,muestra
+censo,2020,entidad,06,Colima,todas,Mujeres,3-14,8134.0,72136.0,0.005236,muestra
+censo,2020,entidad,07,Chiapas,todas,Mujeres,3-14,309578.0,716983.0,0.014937,muestra
+censo,2020,entidad,08,Chihuahua,todas,Mujeres,3-14,43467.0,400056.0,0.004552,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Mujeres,3-14,49264.0,683414.0,0.002856,muestra
+censo,2020,entidad,10,Durango,todas,Mujeres,3-14,21264.0,207562.0,0.004446,muestra
+censo,2020,entidad,11,Guanajuato,todas,Mujeres,3-14,40839.0,669459.0,0.002417,muestra
+censo,2020,entidad,12,Guerrero,todas,Mujeres,3-14,147819.0,411098.0,0.006039,muestra
+censo,2020,entidad,13,Hidalgo,todas,Mujeres,3-14,121731.0,323262.0,0.009847,muestra
+censo,2020,entidad,14,Jalisco,todas,Mujeres,3-14,55330.0,854119.0,0.003381,muestra
+censo,2020,entidad,15,México,todas,Mujeres,3-14,255897.0,1679306.0,0.004491,muestra
+censo,2020,entidad,16,Michoacán,todas,Mujeres,3-14,105346.0,509942.0,0.004012,muestra
+censo,2020,entidad,17,Morelos,todas,Mujeres,3-14,44359.0,189030.0,0.005979,muestra
+censo,2020,entidad,18,Nayarit,todas,Mujeres,3-14,23723.0,132334.0,0.007849,muestra
+censo,2020,entidad,19,Nuevo León,todas,Mujeres,3-14,28535.0,546728.0,0.001754,muestra
+censo,2020,entidad,20,Oaxaca,todas,Mujeres,3-14,319079.0,461031.0,0.004443,muestra
+censo,2020,entidad,21,Puebla,todas,Mujeres,3-14,239635.0,714203.0,0.007402,muestra
+censo,2020,entidad,22,Querétaro,todas,Mujeres,3-14,31308.0,235096.0,0.006509,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Mujeres,3-14,55563.0,188314.0,0.023379,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Mujeres,3-14,59311.0,291210.0,0.009441,muestra
+censo,2020,entidad,25,Sinaloa,todas,Mujeres,3-14,21329.0,292820.0,0.003333,muestra
+censo,2020,entidad,26,Sonora,todas,Mujeres,3-14,33354.0,293586.0,0.005934,muestra
+censo,2020,entidad,27,Tabasco,todas,Mujeres,3-14,51831.0,263176.0,0.023818,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Mujeres,3-14,17957.0,353159.0,0.002831,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Mujeres,3-14,20619.0,140508.0,0.003949,muestra
+censo,2020,entidad,30,Veracruz,todas,Mujeres,3-14,214383.0,799205.0,0.005351,muestra
+censo,2020,entidad,31,Yucatán,todas,Mujeres,3-14,144112.0,222519.0,0.012567,muestra
+censo,2020,entidad,32,Zacatecas,todas,Mujeres,3-14,7986.0,183415.0,0.00178,muestra
+censo,2020,nacional,00,Todo el país,todas,Mujeres,30-59,4836893.0,24757356.0,0.001247,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Mujeres,30-59,18489.0,269806.0,0.004193,muestra
+censo,2020,entidad,02,Baja California,todas,Mujeres,30-59,64309.0,741253.0,0.003731,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Mujeres,30-59,20848.0,159029.0,0.005155,muestra
+censo,2020,entidad,04,Campeche,todas,Mujeres,30-59,91008.0,186341.0,0.012396,muestra
+censo,2020,entidad,05,Coahuila,todas,Mujeres,30-59,14651.0,597786.0,0.001558,muestra
+censo,2020,entidad,06,Colima,todas,Mujeres,30-59,20688.0,147210.0,0.005553,muestra
+censo,2020,entidad,07,Chiapas,todas,Mujeres,30-59,313649.0,955490.0,0.012569,muestra
+censo,2020,entidad,08,Chihuahua,todas,Mujeres,30-59,77355.0,718706.0,0.00384,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Mujeres,30-59,202227.0,2054560.0,0.002871,muestra
+censo,2020,entidad,10,Durango,todas,Mujeres,30-59,28827.0,334356.0,0.002897,muestra
+censo,2020,entidad,11,Guanajuato,todas,Mujeres,30-59,76356.0,1175914.0,0.002368,muestra
+censo,2020,entidad,12,Guerrero,todas,Mujeres,30-59,207134.0,633620.0,0.006971,muestra
+censo,2020,entidad,13,Hidalgo,todas,Mujeres,30-59,225574.0,621956.0,0.007633,muestra
+censo,2020,entidad,14,Jalisco,todas,Mujeres,30-59,117715.0,1600473.0,0.003049,muestra
+censo,2020,entidad,15,México,todas,Mujeres,30-59,572513.0,3496186.0,0.003828,muestra
+censo,2020,entidad,16,Michoacán,todas,Mujeres,30-59,186724.0,882281.0,0.003756,muestra
+censo,2020,entidad,17,Morelos,todas,Mujeres,30-59,101299.0,398144.0,0.005814,muestra
+censo,2020,entidad,18,Nayarit,todas,Mujeres,30-59,34080.0,230425.0,0.00648,muestra
+censo,2020,entidad,19,Nuevo León,todas,Mujeres,30-59,81133.0,1130320.0,0.001972,muestra
+censo,2020,entidad,20,Oaxaca,todas,Mujeres,30-59,547576.0,780959.0,0.004226,muestra
+censo,2020,entidad,21,Puebla,todas,Mujeres,30-59,422479.0,1254733.0,0.007691,muestra
+censo,2020,entidad,22,Querétaro,todas,Mujeres,30-59,63051.0,478931.0,0.006421,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Mujeres,30-59,136254.0,375361.0,0.017523,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Mujeres,30-59,105953.0,537000.0,0.009272,muestra
+censo,2020,entidad,25,Sinaloa,todas,Mujeres,30-59,54851.0,574296.0,0.004557,muestra
+censo,2020,entidad,26,Sonora,todas,Mujeres,30-59,75345.0,564797.0,0.005675,muestra
+censo,2020,entidad,27,Tabasco,todas,Mujeres,30-59,105946.0,482025.0,0.015437,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Mujeres,30-59,54855.0,705906.0,0.003062,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Mujeres,30-59,46522.0,266673.0,0.004065,muestra
+censo,2020,entidad,30,Veracruz,todas,Mujeres,30-59,445497.0,1640316.0,0.004787,muestra
+censo,2020,entidad,31,Yucatán,todas,Mujeres,30-59,307770.0,459412.0,0.01196,muestra
+censo,2020,entidad,32,Zacatecas,todas,Mujeres,30-59,16215.0,303091.0,0.001924,muestra
+censo,2020,nacional,00,Todo el país,todas,Mujeres,60+,1723293.0,8173873.0,0.001223,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Mujeres,60+,4854.0,76638.0,0.004761,muestra
+censo,2020,entidad,02,Baja California,todas,Mujeres,60+,20833.0,194890.0,0.004641,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Mujeres,60+,4214.0,38647.0,0.004335,muestra
+censo,2020,entidad,04,Campeche,todas,Mujeres,60+,28721.0,51989.0,0.015296,muestra
+censo,2020,entidad,05,Coahuila,todas,Mujeres,60+,4497.0,187880.0,0.001053,muestra
+censo,2020,entidad,06,Colima,todas,Mujeres,60+,7250.0,47005.0,0.006889,muestra
+censo,2020,entidad,07,Chiapas,todas,Mujeres,60+,73986.0,255658.0,0.010098,muestra
+censo,2020,entidad,08,Chihuahua,todas,Mujeres,60+,25139.0,222247.0,0.003602,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Mujeres,60+,107484.0,862058.0,0.003504,muestra
+censo,2020,entidad,10,Durango,todas,Mujeres,60+,8879.0,104450.0,0.002716,muestra
+censo,2020,entidad,11,Guanajuato,todas,Mujeres,60+,26066.0,352721.0,0.00274,muestra
+censo,2020,entidad,12,Guerrero,todas,Mujeres,60+,75448.0,235768.0,0.007135,muestra
+censo,2020,entidad,13,Hidalgo,todas,Mujeres,60+,85956.0,207253.0,0.008877,muestra
+censo,2020,entidad,14,Jalisco,todas,Mujeres,60+,40071.0,544578.0,0.002197,muestra
+censo,2020,entidad,15,México,todas,Mujeres,60+,186918.0,1054970.0,0.003615,muestra
+censo,2020,entidad,16,Michoacán,todas,Mujeres,60+,68064.0,326499.0,0.003707,muestra
+censo,2020,entidad,17,Morelos,todas,Mujeres,60+,38833.0,141593.0,0.007899,muestra
+censo,2020,entidad,18,Nayarit,todas,Mujeres,60+,11841.0,80364.0,0.005198,muestra
+censo,2020,entidad,19,Nuevo León,todas,Mujeres,60+,16363.0,364499.0,0.001664,muestra
+censo,2020,entidad,20,Oaxaca,todas,Mujeres,60+,220374.0,298714.0,0.003941,muestra
+censo,2020,entidad,21,Puebla,todas,Mujeres,60+,150408.0,408855.0,0.007506,muestra
+censo,2020,entidad,22,Querétaro,todas,Mujeres,60+,20626.0,135347.0,0.00897,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Mujeres,60+,28095.0,69511.0,0.02492,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Mujeres,60+,44875.0,193116.0,0.009638,muestra
+censo,2020,entidad,25,Sinaloa,todas,Mujeres,60+,25180.0,208570.0,0.005335,muestra
+censo,2020,entidad,26,Sonora,todas,Mujeres,60+,30308.0,192428.0,0.004963,muestra
+censo,2020,entidad,27,Tabasco,todas,Mujeres,60+,31512.0,135903.0,0.012439,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Mujeres,60+,18298.0,229032.0,0.002705,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Mujeres,60+,16681.0,79045.0,0.00508,muestra
+censo,2020,entidad,30,Veracruz,todas,Mujeres,60+,187564.0,620314.0,0.00584,muestra
+censo,2020,entidad,31,Yucatán,todas,Mujeres,60+,108425.0,152951.0,0.012876,muestra
+censo,2020,entidad,32,Zacatecas,todas,Mujeres,60+,5530.0,100380.0,0.001744,muestra
+censo,2020,nacional,00,Todo el país,todas,Mujeres,Todas,12126741.0,61494943.0,0.001375,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Mujeres,Todas,43637.0,695012.0,0.004368,muestra
+censo,2020,entidad,02,Baja California,todas,Mujeres,Todas,143402.0,1777347.0,0.003731,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Mujeres,Todas,43732.0,375499.0,0.004786,muestra
+censo,2020,entidad,04,Campeche,todas,Mujeres,Todas,213489.0,448332.0,0.011691,muestra
+censo,2020,entidad,05,Coahuila,todas,Mujeres,Todas,32087.0,1495141.0,0.001439,muestra
+censo,2020,entidad,06,Colima,todas,Mujeres,Todas,46218.0,356578.0,0.005775,muestra
+censo,2020,entidad,07,Chiapas,todas,Mujeres,Todas,990226.0,2661206.0,0.014144,muestra
+censo,2020,entidad,08,Chihuahua,todas,Mujeres,Todas,194551.0,1804020.0,0.004147,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Mujeres,Todas,445431.0,4653638.0,0.002861,muestra
+censo,2020,entidad,10,Durango,todas,Mujeres,Todas,78741.0,876949.0,0.003422,muestra
+censo,2020,entidad,11,Guanajuato,todas,Mujeres,Todas,190071.0,3010191.0,0.002541,muestra
+censo,2020,entidad,12,Guerrero,todas,Mujeres,Todas,587284.0,1730294.0,0.007264,muestra
+censo,2020,entidad,13,Hidalgo,todas,Mujeres,Todas,565079.0,1530875.0,0.008423,muestra
+censo,2020,entidad,14,Jalisco,todas,Mujeres,Todas,285578.0,4056443.0,0.003071,muestra
+censo,2020,entidad,15,México,todas,Mujeres,Todas,1340240.0,8367992.0,0.004006,muestra
+censo,2020,entidad,16,Michoacán,todas,Mujeres,Todas,480041.0,2311734.0,0.003909,muestra
+censo,2020,entidad,17,Morelos,todas,Mujeres,Todas,241171.0,972141.0,0.00572,muestra
+censo,2020,entidad,18,Nayarit,todas,Mujeres,Todas,93694.0,590709.0,0.007015,muestra
+censo,2020,entidad,19,Nuevo León,todas,Mujeres,Todas,177886.0,2752649.0,0.001902,muestra
+censo,2020,entidad,20,Oaxaca,todas,Mujeres,Todas,1435712.0,2044886.0,0.00415,muestra
+censo,2020,entidad,21,Puebla,todas,Mujeres,Todas,1093464.0,3236658.0,0.007061,muestra
+censo,2020,entidad,22,Querétaro,todas,Mujeres,Todas,154541.0,1154803.0,0.006701,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Mujeres,Todas,300327.0,879119.0,0.019072,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Mujeres,Todas,279412.0,1379389.0,0.009652,muestra
+censo,2020,entidad,25,Sinaloa,todas,Mujeres,Todas,132648.0,1452215.0,0.004196,muestra
+censo,2020,entidad,26,Sonora,todas,Mujeres,Todas,181258.0,1412167.0,0.005691,muestra
+censo,2020,entidad,27,Tabasco,todas,Mujeres,Todas,250167.0,1173995.0,0.018032,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Mujeres,Todas,116988.0,1710740.0,0.002864,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Mujeres,Todas,110390.0,658392.0,0.004229,muestra
+censo,2020,entidad,30,Veracruz,todas,Mujeres,Todas,1093788.0,4014981.0,0.005068,muestra
+censo,2020,entidad,31,Yucatán,todas,Mujeres,Todas,746933.0,1124555.0,0.011152,muestra
+censo,2020,entidad,32,Zacatecas,todas,Mujeres,Todas,38555.0,786293.0,0.001847,muestra
+censo,2020,nacional,00,Todo el país,todas,Total,15-29,5908557.0,31093621.0,0.001517,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Total,15-29,21288.0,375851.0,0.00437,muestra
+censo,2020,entidad,02,Baja California,todas,Total,15-29,73542.0,978233.0,0.004065,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Total,15-29,23456.0,197282.0,0.005585,muestra
+censo,2020,entidad,04,Campeche,todas,Total,15-29,102169.0,224380.0,0.011865,muestra
+censo,2020,entidad,05,Coahuila,todas,Total,15-29,16535.0,774043.0,0.001458,muestra
+censo,2020,entidad,06,Colima,todas,Total,15-29,20328.0,178536.0,0.00532,muestra
+censo,2020,entidad,07,Chiapas,todas,Total,15-29,569673.0,1421785.0,0.016151,muestra
+censo,2020,entidad,08,Chihuahua,todas,Total,15-29,95449.0,928983.0,0.003899,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Total,15-29,175967.0,2099566.0,0.002918,muestra
+censo,2020,entidad,10,Durango,todas,Total,15-29,38556.0,459195.0,0.003276,muestra
+censo,2020,entidad,11,Guanajuato,todas,Total,15-29,95424.0,1599441.0,0.002408,muestra
+censo,2020,entidad,12,Guerrero,todas,Total,15-29,294360.0,860017.0,0.006866,muestra
+censo,2020,entidad,13,Hidalgo,todas,Total,15-29,258991.0,741359.0,0.008727,muestra
+censo,2020,entidad,14,Jalisco,todas,Total,15-29,146284.0,2088169.0,0.004048,muestra
+censo,2020,entidad,15,México,todas,Total,15-29,641227.0,4244845.0,0.00414,muestra
+censo,2020,entidad,16,Michoacán,todas,Total,15-29,236448.0,1163711.0,0.00407,muestra
+censo,2020,entidad,17,Morelos,todas,Total,15-29,111235.0,481357.0,0.005542,muestra
+censo,2020,entidad,18,Nayarit,todas,Total,15-29,47894.0,292885.0,0.007518,muestra
+censo,2020,entidad,19,Nuevo León,todas,Total,15-29,106859.0,1454074.0,0.002209,muestra
+censo,2020,entidad,20,Oaxaca,todas,Total,15-29,662861.0,969478.0,0.004485,muestra
+censo,2020,entidad,21,Puebla,todas,Total,15-29,546605.0,1690883.0,0.006865,muestra
+censo,2020,entidad,22,Querétaro,todas,Total,15-29,77852.0,610472.0,0.006164,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Total,15-29,163404.0,495302.0,0.019465,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Total,15-29,135868.0,704105.0,0.010059,muestra
+censo,2020,entidad,25,Sinaloa,todas,Total,15-29,63943.0,743338.0,0.003737,muestra
+censo,2020,entidad,26,Sonora,todas,Total,15-29,87806.0,719272.0,0.006142,muestra
+censo,2020,entidad,27,Tabasco,todas,Total,15-29,118126.0,572917.0,0.019894,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Total,15-29,52422.0,853020.0,0.003025,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Total,15-29,53122.0,341696.0,0.004377,muestra
+censo,2020,entidad,30,Veracruz,todas,Total,15-29,475004.0,1860798.0,0.004684,muestra
+censo,2020,entidad,31,Yucatán,todas,Total,15-29,378102.0,583267.0,0.009986,muestra
+censo,2020,entidad,32,Zacatecas,todas,Total,15-29,17757.0,385361.0,0.001715,muestra
+censo,2020,nacional,00,Todo el país,todas,Total,3-14,5169424.0,26121042.0,0.001687,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Total,3-14,16630.0,316716.0,0.004014,muestra
+censo,2020,entidad,02,Baja California,todas,Total,3-14,48214.0,745187.0,0.003344,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Total,3-14,15427.0,163744.0,0.00453,muestra
+censo,2020,entidad,04,Campeche,todas,Total,3-14,85628.0,196121.0,0.012375,muestra
+censo,2020,entidad,05,Coahuila,todas,Total,3-14,10126.0,662721.0,0.001259,muestra
+censo,2020,entidad,06,Colima,todas,Total,3-14,16295.0,143810.0,0.005788,muestra
+censo,2020,entidad,07,Chiapas,todas,Total,3-14,621057.0,1448800.0,0.015053,muestra
+censo,2020,entidad,08,Chihuahua,todas,Total,3-14,85006.0,802360.0,0.003998,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Total,3-14,99501.0,1394693.0,0.002852,muestra
+censo,2020,entidad,10,Durango,todas,Total,3-14,41479.0,422443.0,0.004221,muestra
+censo,2020,entidad,11,Guanajuato,todas,Total,3-14,82184.0,1346843.0,0.00263,muestra
+censo,2020,entidad,12,Guerrero,todas,Total,3-14,296891.0,843394.0,0.006801,muestra
+censo,2020,entidad,13,Hidalgo,todas,Total,3-14,245656.0,656693.0,0.010102,muestra
+censo,2020,entidad,14,Jalisco,todas,Total,3-14,113743.0,1739194.0,0.003618,muestra
+censo,2020,entidad,15,México,todas,Total,3-14,516814.0,3404727.0,0.00451,muestra
+censo,2020,entidad,16,Michoacán,todas,Total,3-14,210968.0,1033149.0,0.003879,muestra
+censo,2020,entidad,17,Morelos,todas,Total,3-14,89841.0,386277.0,0.005931,muestra
+censo,2020,entidad,18,Nayarit,todas,Total,3-14,48957.0,273278.0,0.008773,muestra
+censo,2020,entidad,19,Nuevo León,todas,Total,3-14,59446.0,1120889.0,0.002025,muestra
+censo,2020,entidad,20,Oaxaca,todas,Total,3-14,643725.0,934649.0,0.00466,muestra
+censo,2020,entidad,21,Puebla,todas,Total,3-14,485331.0,1454827.0,0.007552,muestra
+censo,2020,entidad,22,Querétaro,todas,Total,3-14,62031.0,477426.0,0.006382,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Total,3-14,112539.0,384479.0,0.022776,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Total,3-14,121763.0,592976.0,0.009913,muestra
+censo,2020,entidad,25,Sinaloa,todas,Total,3-14,44996.0,598974.0,0.003478,muestra
+censo,2020,entidad,26,Sonora,todas,Total,3-14,68437.0,597722.0,0.006255,muestra
+censo,2020,entidad,27,Tabasco,todas,Total,3-14,104957.0,529389.0,0.022975,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Total,3-14,36062.0,714999.0,0.002533,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Total,3-14,42076.0,289109.0,0.004071,muestra
+censo,2020,entidad,30,Veracruz,todas,Total,3-14,432763.0,1619428.0,0.00533,muestra
+censo,2020,entidad,31,Yucatán,todas,Total,3-14,294951.0,454248.0,0.012141,muestra
+censo,2020,entidad,32,Zacatecas,todas,Total,3-14,15930.0,371777.0,0.001938,muestra
+censo,2020,nacional,00,Todo el país,todas,Total,30-59,9215563.0,47274909.0,0.001276,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Total,30-59,36691.0,514119.0,0.004299,muestra
+censo,2020,entidad,02,Baja California,todas,Total,30-59,130715.0,1497625.0,0.004081,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Total,30-59,43912.0,321234.0,0.005323,muestra
+censo,2020,entidad,04,Campeche,todas,Total,30-59,175564.0,359061.0,0.012233,muestra
+censo,2020,entidad,05,Coahuila,todas,Total,30-59,29417.0,1177169.0,0.001673,muestra
+censo,2020,entidad,06,Colima,todas,Total,30-59,40835.0,286345.0,0.006171,muestra
+censo,2020,entidad,07,Chiapas,todas,Total,30-59,605058.0,1808589.0,0.012947,muestra
+censo,2020,entidad,08,Chihuahua,todas,Total,30-59,152557.0,1411771.0,0.004212,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Total,30-59,384640.0,3881028.0,0.002903,muestra
+censo,2020,entidad,10,Durango,todas,Total,30-59,54776.0,640642.0,0.003378,muestra
+censo,2020,entidad,11,Guanajuato,todas,Total,30-59,147089.0,2218812.0,0.002397,muestra
+censo,2020,entidad,12,Guerrero,todas,Total,30-59,379535.0,1181422.0,0.007115,muestra
+censo,2020,entidad,13,Hidalgo,todas,Total,30-59,419324.0,1154334.0,0.008016,muestra
+censo,2020,entidad,14,Jalisco,todas,Total,30-59,228360.0,3091436.0,0.003194,muestra
+censo,2020,entidad,15,México,todas,Total,30-59,1086043.0,6626493.0,0.00383,muestra
+censo,2020,entidad,16,Michoacán,todas,Total,30-59,355689.0,1665676.0,0.003774,muestra
+censo,2020,entidad,17,Morelos,todas,Total,30-59,189447.0,744424.0,0.005832,muestra
+censo,2020,entidad,18,Nayarit,todas,Total,30-59,66839.0,444831.0,0.006796,muestra
+censo,2020,entidad,19,Nuevo León,todas,Total,30-59,166481.0,2258641.0,0.002091,muestra
+censo,2020,entidad,20,Oaxaca,todas,Total,30-59,1012081.0,1447458.0,0.004339,muestra
+censo,2020,entidad,21,Puebla,todas,Total,30-59,789189.0,2335486.0,0.007624,muestra
+censo,2020,entidad,22,Querétaro,todas,Total,30-59,121223.0,914446.0,0.0064,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Total,30-59,278557.0,749881.0,0.017677,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Total,30-59,202591.0,1018167.0,0.009254,muestra
+censo,2020,entidad,25,Sinaloa,todas,Total,30-59,109776.0,1109319.0,0.005088,muestra
+censo,2020,entidad,26,Sonora,todas,Total,30-59,154886.0,1118922.0,0.005686,muestra
+censo,2020,entidad,27,Tabasco,todas,Total,30-59,202869.0,912804.0,0.01618,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Total,30-59,107244.0,1366617.0,0.003106,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Total,30-59,87967.0,497283.0,0.004288,muestra
+censo,2020,entidad,30,Veracruz,todas,Total,30-59,830919.0,3057409.0,0.005224,muestra
+censo,2020,entidad,31,Yucatán,todas,Total,30-59,594720.0,887983.0,0.011816,muestra
+censo,2020,entidad,32,Zacatecas,todas,Total,30-59,30569.0,575482.0,0.001859,muestra
+censo,2020,nacional,00,Todo el país,todas,Total,60+,3309378.0,15203326.0,0.001287,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Total,60+,9337.0,141786.0,0.00517,muestra
+censo,2020,entidad,02,Baja California,todas,Total,60+,40609.0,364975.0,0.004414,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Total,60+,8922.0,74501.0,0.005357,muestra
+censo,2020,entidad,04,Campeche,todas,Total,60+,56498.0,101106.0,0.014543,muestra
+censo,2020,entidad,05,Coahuila,todas,Total,60+,9300.0,361046.0,0.001344,muestra
+censo,2020,entidad,06,Colima,todas,Total,60+,15066.0,89470.0,0.007477,muestra
+censo,2020,entidad,07,Chiapas,todas,Total,60+,151832.0,503713.0,0.010296,muestra
+censo,2020,entidad,08,Chihuahua,todas,Total,60+,48046.0,415396.0,0.003947,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Total,60+,192155.0,1515939.0,0.003718,muestra
+censo,2020,entidad,10,Durango,todas,Total,60+,19333.0,201215.0,0.003328,muestra
+censo,2020,entidad,11,Guanajuato,todas,Total,60+,50279.0,660169.0,0.002648,muestra
+censo,2020,entidad,12,Guerrero,todas,Total,60+,141877.0,441488.0,0.006969,muestra
+censo,2020,entidad,13,Hidalgo,todas,Total,60+,165124.0,387218.0,0.008688,muestra
+censo,2020,entidad,14,Jalisco,todas,Total,60+,77991.0,1000583.0,0.002262,muestra
+censo,2020,entidad,15,México,todas,Total,60+,353347.0,1937357.0,0.003715,muestra
+censo,2020,entidad,16,Michoacán,todas,Total,60+,131028.0,613819.0,0.003927,muestra
+censo,2020,entidad,17,Morelos,todas,Total,60+,74581.0,266439.0,0.007352,muestra
+censo,2020,entidad,18,Nayarit,todas,Total,60+,24252.0,156192.0,0.007409,muestra
+censo,2020,entidad,19,Nuevo León,todas,Total,60+,34513.0,674474.0,0.001972,muestra
+censo,2020,entidad,20,Oaxaca,todas,Total,60+,411884.0,555203.0,0.004112,muestra
+censo,2020,entidad,21,Puebla,todas,Total,60+,277985.0,741143.0,0.007938,muestra
+censo,2020,entidad,22,Querétaro,todas,Total,60+,38219.0,251156.0,0.009125,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Total,60+,58455.0,136121.0,0.024704,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Total,60+,90650.0,367569.0,0.010737,muestra
+censo,2020,entidad,25,Sinaloa,todas,Total,60+,50366.0,394857.0,0.006128,muestra
+censo,2020,entidad,26,Sonora,todas,Total,60+,64823.0,362886.0,0.006071,muestra
+censo,2020,entidad,27,Tabasco,todas,Total,60+,64709.0,263038.0,0.014167,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Total,60+,35541.0,428931.0,0.002743,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Total,60+,31767.0,147382.0,0.004927,muestra
+censo,2020,entidad,30,Veracruz,todas,Total,60+,360579.0,1161867.0,0.006276,muestra
+censo,2020,entidad,31,Yucatán,todas,Total,60+,209200.0,291660.0,0.012513,muestra
+censo,2020,entidad,32,Zacatecas,todas,Total,60+,11110.0,194627.0,0.002065,muestra
+censo,2020,nacional,00,Todo el país,todas,Total,Todas,23602922.0,119692898.0,0.001404,muestra
+censo,2020,entidad,01,Aguascalientes,todas,Total,Todas,83946.0,1348472.0,0.004188,muestra
+censo,2020,entidad,02,Baja California,todas,Total,Todas,293080.0,3586020.0,0.003961,muestra
+censo,2020,entidad,03,Baja California Sur,todas,Total,Todas,91717.0,756761.0,0.004941,muestra
+censo,2020,entidad,04,Campeche,todas,Total,Todas,419859.0,880668.0,0.01159,muestra
+censo,2020,entidad,05,Coahuila,todas,Total,Todas,65378.0,2974979.0,0.001513,muestra
+censo,2020,entidad,06,Colima,todas,Total,Todas,92524.0,698161.0,0.006112,muestra
+censo,2020,entidad,07,Chiapas,todas,Total,Todas,1947620.0,5182887.0,0.014413,muestra
+censo,2020,entidad,08,Chihuahua,todas,Total,Todas,381058.0,3558510.0,0.004149,muestra
+censo,2020,entidad,09,Ciudad de México,todas,Total,Todas,852263.0,8891226.0,0.002926,muestra
+censo,2020,entidad,10,Durango,todas,Total,Todas,154144.0,1723495.0,0.003877,muestra
+censo,2020,entidad,11,Guanajuato,todas,Total,Todas,374976.0,5825265.0,0.002639,muestra
+censo,2020,entidad,12,Guerrero,todas,Total,Todas,1112663.0,3326321.0,0.007305,muestra
+censo,2020,entidad,13,Hidalgo,todas,Total,Todas,1089095.0,2939604.0,0.008641,muestra
+censo,2020,entidad,14,Jalisco,todas,Total,Todas,566378.0,7919382.0,0.003296,muestra
+censo,2020,entidad,15,México,todas,Total,Todas,2597431.0,16213422.0,0.003991,muestra
+censo,2020,entidad,16,Michoacán,todas,Total,Todas,934133.0,4476355.0,0.003882,muestra
+censo,2020,entidad,17,Morelos,todas,Total,Todas,465104.0,1878497.0,0.005766,muestra
+censo,2020,entidad,18,Nayarit,todas,Total,Todas,187942.0,1167186.0,0.007414,muestra
+censo,2020,entidad,19,Nuevo León,todas,Total,Todas,367299.0,5508078.0,0.002008,muestra
+censo,2020,entidad,20,Oaxaca,todas,Total,Todas,2730551.0,3906788.0,0.004282,muestra
+censo,2020,entidad,21,Puebla,todas,Total,Todas,2099110.0,6222339.0,0.007137,muestra
+censo,2020,entidad,22,Querétaro,todas,Total,Todas,299325.0,2253500.0,0.006601,muestra
+censo,2020,entidad,23,Quintana Roo,todas,Total,Todas,612955.0,1765783.0,0.019074,muestra
+censo,2020,entidad,24,San Luis Potosí,todas,Total,Todas,550872.0,2682817.0,0.009916,muestra
+censo,2020,entidad,25,Sinaloa,todas,Total,Todas,269081.0,2846488.0,0.004465,muestra
+censo,2020,entidad,26,Sonora,todas,Total,Todas,375952.0,2798802.0,0.005992,muestra
+censo,2020,entidad,27,Tabasco,todas,Total,Todas,490661.0,2278148.0,0.018586,muestra
+censo,2020,entidad,28,Tamaulipas,todas,Total,Todas,231269.0,3363567.0,0.002932,muestra
+censo,2020,entidad,29,Tlaxcala,todas,Total,Todas,214932.0,1275470.0,0.004319,muestra
+censo,2020,entidad,30,Veracruz,todas,Total,Todas,2099265.0,7699502.0,0.005322,muestra
+censo,2020,entidad,31,Yucatán,todas,Total,Todas,1476973.0,2217158.0,0.01064,muestra
+censo,2020,entidad,32,Zacatecas,todas,Total,Todas,75366.0,1527247.0,0.001905,muestra

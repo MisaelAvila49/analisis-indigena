@@ -1,0 +1,87 @@
+fuente,edicion,cve,nombre,corte,municipios,num
+inpi,2020,01,Aguascalientes,"Menos de 40 % y menos de 5,000 indígenas",11,5910.0
+inpi,2020,02,Baja California,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",6,106000.0
+inpi,2020,03,Baja California Sur,"Menos de 40 % y menos de 5,000 indígenas",2,2160.0
+inpi,2020,03,Baja California Sur,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",3,28108.0
+inpi,2020,04,Campeche,40 % y más de población indígena,4,97306.0
+inpi,2020,04,Campeche,"Menos de 40 % y menos de 5,000 indígenas",2,1491.0
+inpi,2020,04,Campeche,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",6,85747.0
+inpi,2020,05,Coahuila de Zaragoza,"Menos de 40 % y menos de 5,000 indígenas",33,12245.0
+inpi,2020,05,Coahuila de Zaragoza,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",1,261.0
+inpi,2020,05,Coahuila de Zaragoza,Sin población indígena,4,0.0
+inpi,2020,06,Colima,"Menos de 40 % y menos de 5,000 indígenas",10,10048.0
+inpi,2020,07,Chiapas,40 % y más de población indígena,46,1596668.0
+inpi,2020,07,Chiapas,"Menos de 40 % y menos de 5,000 indígenas",58,69224.0
+inpi,2020,07,Chiapas,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",20,183546.0
+inpi,2020,08,Chihuahua,40 % y más de población indígena,7,89847.0
+inpi,2020,08,Chihuahua,"Menos de 40 % y menos de 5,000 indígenas",53,31019.0
+inpi,2020,08,Chihuahua,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",7,41039.0
+inpi,2020,09,Ciudad de México,"Menos de 40 % y menos de 5,000 indígenas",1,4550.0
+inpi,2020,09,Ciudad de México,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",15,298366.0
+inpi,2020,10,Durango,40 % y más de población indígena,1,42610.0
+inpi,2020,10,Durango,"Menos de 40 % y menos de 5,000 indígenas",33,9116.0
+inpi,2020,10,Durango,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",1,8559.0
+inpi,2020,10,Durango,Sin población indígena,4,0.0
+inpi,2020,11,Guanajuato,"Menos de 40 % y menos de 5,000 indígenas",44,16603.0
+inpi,2020,11,Guanajuato,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",2,12009.0
+inpi,2020,12,Guerrero,40 % y más de población indígena,24,503210.0
+inpi,2020,12,Guerrero,"Menos de 40 % y menos de 5,000 indígenas",46,42250.0
+inpi,2020,12,Guerrero,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",11,157370.0
+inpi,2020,13,Hidalgo,40 % y más de población indígena,22,448388.0
+inpi,2020,13,Hidalgo,"Menos de 40 % y menos de 5,000 indígenas",52,38247.0
+inpi,2020,13,Hidalgo,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",10,103193.0
+inpi,2020,14,Jalisco,40 % y más de población indígena,2,22307.0
+inpi,2020,14,Jalisco,"Menos de 40 % y menos de 5,000 indígenas",114,30250.0
+inpi,2020,14,Jalisco,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",5,61171.0
+inpi,2020,14,Jalisco,Sin población indígena,4,0.0
+inpi,2020,15,México,40 % y más de población indígena,2,139568.0
+inpi,2020,15,México,"Menos de 40 % y menos de 5,000 indígenas",84,79506.0
+inpi,2020,15,México,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",39,823327.0
+inpi,2020,16,Michoacán de Ocampo,40 % y más de población indígena,8,105565.0
+inpi,2020,16,Michoacán de Ocampo,"Menos de 40 % y menos de 5,000 indígenas",99,41167.0
+inpi,2020,16,Michoacán de Ocampo,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",6,88126.0
+inpi,2020,17,Morelos,40 % y más de población indígena,1,5557.0
+inpi,2020,17,Morelos,"Menos de 40 % y menos de 5,000 indígenas",29,30008.0
+inpi,2020,17,Morelos,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",6,49712.0
+inpi,2020,18,Nayarit,40 % y más de población indígena,2,50364.0
+inpi,2020,18,Nayarit,"Menos de 40 % y menos de 5,000 indígenas",17,26237.0
+inpi,2020,18,Nayarit,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",1,17328.0
+inpi,2020,19,Nuevo León,"Menos de 40 % y menos de 5,000 indígenas",38,18977.0
+inpi,2020,19,Nuevo León,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",11,146716.0
+inpi,2020,19,Nuevo León,Sin población indígena,2,0.0
+inpi,2020,20,Oaxaca,40 % y más de población indígena,290,1365074.0
+inpi,2020,20,Oaxaca,"Menos de 40 % y menos de 5,000 indígenas",251,136666.0
+inpi,2020,20,Oaxaca,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",23,297279.0
+inpi,2020,20,Oaxaca,Sin población indígena,6,0.0
+inpi,2020,21,Puebla,40 % y más de población indígena,58,577722.0
+inpi,2020,21,Puebla,"Menos de 40 % y menos de 5,000 indígenas",141,105845.0
+inpi,2020,21,Puebla,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",18,370798.0
+inpi,2020,22,Querétaro,"Menos de 40 % y menos de 5,000 indígenas",15,16487.0
+inpi,2020,22,Querétaro,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",3,47564.0
+inpi,2020,23,Quintana Roo,40 % y más de población indígena,5,159648.0
+inpi,2020,23,Quintana Roo,"Menos de 40 % y menos de 5,000 indígenas",1,3828.0
+inpi,2020,23,Quintana Roo,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",5,264149.0
+inpi,2020,24,San Luis Potosí,40 % y más de población indígena,14,271118.0
+inpi,2020,24,San Luis Potosí,"Menos de 40 % y menos de 5,000 indígenas",39,22712.0
+inpi,2020,24,San Luis Potosí,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",4,46568.0
+inpi,2020,24,San Luis Potosí,Sin población indígena,1,0.0
+inpi,2020,25,Sinaloa,"Menos de 40 % y menos de 5,000 indígenas",13,19106.0
+inpi,2020,25,Sinaloa,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",5,46694.0
+inpi,2020,26,Sonora,"Menos de 40 % y menos de 5,000 indígenas",49,19100.0
+inpi,2020,26,Sonora,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",13,112332.0
+inpi,2020,26,Sonora,Sin población indígena,10,0.0
+inpi,2020,27,Tabasco,"Menos de 40 % y menos de 5,000 indígenas",11,13766.0
+inpi,2020,27,Tabasco,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",6,144619.0
+inpi,2020,28,Tamaulipas,"Menos de 40 % y menos de 5,000 indígenas",35,10953.0
+inpi,2020,28,Tamaulipas,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",5,48989.0
+inpi,2020,28,Tamaulipas,Sin población indígena,3,0.0
+inpi,2020,29,Tlaxcala,"Menos de 40 % y menos de 5,000 indígenas",58,37215.0
+inpi,2020,29,Tlaxcala,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",2,31920.0
+inpi,2020,30,Veracruz de Ignacio de la Llave,40 % y más de población indígena,45,653997.0
+inpi,2020,30,Veracruz de Ignacio de la Llave,"Menos de 40 % y menos de 5,000 indígenas",144,107840.0
+inpi,2020,30,Veracruz de Ignacio de la Llave,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",23,266056.0
+inpi,2020,31,Yucatán,40 % y más de población indígena,83,696183.0
+inpi,2020,31,Yucatán,"Menos de 40 % y menos de 5,000 indígenas",17,19240.0
+inpi,2020,31,Yucatán,"Menos de 40 % y más de 5,000 indígenas (o pueblos con pocos hablantes)",6,276310.0
+inpi,2020,32,Zacatecas,"Menos de 40 % y menos de 5,000 indígenas",56,8729.0
+inpi,2020,32,Zacatecas,Sin población indígena,2,0.0

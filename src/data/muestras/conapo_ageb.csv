@@ -1,0 +1,78 @@
+fuente,edicion,nombre,corte,agebs,pobtot,hli,hogares
+conapo,2020,Azcapotzalco,Alto,3,1629,34,69
+conapo,2020,Azcapotzalco,Bajo,60,283163,2163,4891
+conapo,2020,Azcapotzalco,Medio,5,28198,245,629
+conapo,2020,Azcapotzalco,Muy bajo,34,119214,766,1672
+conapo,2020,Azcapotzalco,Sin grado,1,1,,
+conapo,2020,Benito Juárez,Bajo,13,41275,312,474
+conapo,2020,Benito Juárez,Muy bajo,89,392878,3225,5129
+conapo,2020,Coyoacán,Bajo,54,302493,3730,8116
+conapo,2020,Coyoacán,Medio,9,63550,2003,4281
+conapo,2020,Coyoacán,Muy bajo,92,248382,1987,2949
+conapo,2020,Coyoacán,Sin grado,1,22,0,0
+conapo,2020,Cuajimalpa de Morelos,Alto,1,2945,18,38
+conapo,2020,Cuajimalpa de Morelos,Bajo,19,131159,1242,2173
+conapo,2020,Cuajimalpa de Morelos,Medio,8,52648,513,1366
+conapo,2020,Cuajimalpa de Morelos,Muy bajo,3,25983,136,138
+conapo,2020,Cuauhtémoc,Alto,7,17921,782,1633
+conapo,2020,Cuauhtémoc,Bajo,76,331136,4744,9938
+conapo,2020,Cuauhtémoc,Medio,12,55372,1812,3845
+conapo,2020,Cuauhtémoc,Muy bajo,57,141431,1720,3042
+conapo,2020,Cuauhtémoc,Sin grado,1,24,0,0
+conapo,2020,Gustavo A. Madero,Alto,4,12888,610,1646
+conapo,2020,Gustavo A. Madero,Bajo,160,633930,6055,14033
+conapo,2020,Gustavo A. Madero,Medio,70,330192,5877,14349
+conapo,2020,Gustavo A. Madero,Muy alto,3,7714,288,597
+conapo,2020,Gustavo A. Madero,Muy bajo,63,180422,1284,2409
+conapo,2020,Gustavo A. Madero,Sin grado,5,8205,78,0
+conapo,2020,Iztacalco,Bajo,77,309367,3603,8334
+conapo,2020,Iztacalco,Medio,9,28725,331,765
+conapo,2020,Iztacalco,Muy bajo,21,66583,477,961
+conapo,2020,Iztacalco,Sin grado,3,20,0,0
+conapo,2020,Iztapalapa,Alto,20,89390,2780,7966
+conapo,2020,Iztapalapa,Bajo,190,713117,7738,18747
+conapo,2020,Iztapalapa,Medio,205,937293,17382,44708
+conapo,2020,Iztapalapa,Muy alto,1,293,25,50
+conapo,2020,Iztapalapa,Muy bajo,36,95147,635,1394
+conapo,2020,Iztapalapa,Sin grado,6,246,145,168
+conapo,2020,La Magdalena Contreras,Alto,2,8090,374,899
+conapo,2020,La Magdalena Contreras,Bajo,26,120154,1081,2397
+conapo,2020,La Magdalena Contreras,Medio,11,85953,1047,3120
+conapo,2020,La Magdalena Contreras,Muy bajo,13,32231,339,283
+conapo,2020,Miguel Hidalgo,Bajo,41,187846,1645,3490
+conapo,2020,Miguel Hidalgo,Medio,4,7158,38,73
+conapo,2020,Miguel Hidalgo,Muy bajo,71,218771,1890,2535
+conapo,2020,Miguel Hidalgo,Sin grado,14,695,11,6
+conapo,2020,Milpa Alta,Alto,11,22792,792,2179
+conapo,2020,Milpa Alta,Bajo,6,21780,383,1025
+conapo,2020,Milpa Alta,Medio,24,82986,2539,6648
+conapo,2020,Milpa Alta,Muy alto,1,1152,49,141
+conapo,2020,Tlalpan,Alto,20,73777,1967,5341
+conapo,2020,Tlalpan,Bajo,89,360067,5247,12532
+conapo,2020,Tlalpan,Medio,27,109136,1999,5354
+conapo,2020,Tlalpan,Muy alto,6,7053,405,1020
+conapo,2020,Tlalpan,Muy bajo,60,131386,1222,1877
+conapo,2020,Tlalpan,Sin grado,5,82,0,0
+conapo,2020,Tláhuac,Alto,2,3719,130,389
+conapo,2020,Tláhuac,Bajo,62,230152,2263,6080
+conapo,2020,Tláhuac,Medio,37,133119,1823,5100
+conapo,2020,Tláhuac,Muy alto,1,5167,68,189
+conapo,2020,Tláhuac,Muy bajo,6,10021,97,200
+conapo,2020,Tláhuac,Sin grado,2,93,0,3
+conapo,2020,Venustiano Carranza,Alto,3,4364,236,469
+conapo,2020,Venustiano Carranza,Bajo,90,279755,3010,6188
+conapo,2020,Venustiano Carranza,Medio,25,99124,1268,2595
+conapo,2020,Venustiano Carranza,Muy alto,1,900,7,28
+conapo,2020,Venustiano Carranza,Muy bajo,26,59497,435,847
+conapo,2020,Venustiano Carranza,Sin grado,6,64,10,17
+conapo,2020,Xochimilco,Alto,19,66749,2746,6853
+conapo,2020,Xochimilco,Bajo,46,194855,3003,6788
+conapo,2020,Xochimilco,Medio,33,128485,2986,7558
+conapo,2020,Xochimilco,Muy alto,9,18320,788,2101
+conapo,2020,Xochimilco,Muy bajo,11,20923,197,338
+conapo,2020,Xochimilco,Sin grado,4,149,48,55
+conapo,2020,Álvaro Obregón,Alto,2,8391,62,158
+conapo,2020,Álvaro Obregón,Bajo,80,351729,3535,8018
+conapo,2020,Álvaro Obregón,Medio,50,228599,3082,8047
+conapo,2020,Álvaro Obregón,Muy bajo,65,170263,1797,2208
+conapo,2020,Álvaro Obregón,Sin grado,2,21,0,5

@@ -1,0 +1,133 @@
+fuente,edicion,nivel,cve,nombre,criterio,num,den,ee,casos
+conteos-eic,2015,nacional,00,Todo el país,autoads,23439117.0,108917845.0,0.000704,20477142.0
+conteos-eic,2015,entidad,01,Aguascalientes,autoads,139854.0,1184416.0,0.003753,158884.0
+conteos-eic,2015,entidad,02,Baja California,autoads,264417.0,3033475.0,0.0029,175152.0
+conteos-eic,2015,entidad,03,Baja California Sur,autoads,95257.0,649033.0,0.007113,71877.0
+conteos-eic,2015,entidad,04,Campeche,autoads,367383.0,816326.0,0.008691,142768.0
+conteos-eic,2015,entidad,05,Coahuila,autoads,188766.0,2678545.0,0.002224,343259.0
+conteos-eic,2015,entidad,06,Colima,autoads,133758.0,649503.0,0.00532,105516.0
+conteos-eic,2015,entidad,07,Chiapas,autoads,1648732.0,4629951.0,0.003536,1598024.0
+conteos-eic,2015,entidad,08,Chihuahua,autoads,367040.0,3239718.0,0.002068,542742.0
+conteos-eic,2015,entidad,09,Ciudad de México,autoads,745843.0,8365831.0,0.001833,516847.0
+conteos-eic,2015,entidad,10,Durango,autoads,124249.0,1579267.0,0.002336,338604.0
+conteos-eic,2015,entidad,11,Guanajuato,autoads,487274.0,5302301.0,0.002935,653979.0
+conteos-eic,2015,entidad,12,Guerrero,autoads,1071223.0,3174481.0,0.004078,1016764.0
+conteos-eic,2015,entidad,13,Hidalgo,autoads,946738.0,2606469.0,0.003158,741341.0
+conteos-eic,2015,entidad,14,Jalisco,autoads,798622.0,7132509.0,0.001808,1144080.0
+conteos-eic,2015,entidad,15,México,autoads,2535319.0,14833673.0,0.002399,1748335.0
+conteos-eic,2015,entidad,16,Michoacán,autoads,1147079.0,4135938.0,0.003339,1018741.0
+conteos-eic,2015,entidad,17,Morelos,autoads,493522.0,1744832.0,0.004384,336490.0
+conteos-eic,2015,entidad,18,Nayarit,autoads,235427.0,1065776.0,0.005316,218472.0
+conteos-eic,2015,entidad,19,Nuevo León,autoads,324086.0,4682806.0,0.002314,470913.0
+conteos-eic,2015,entidad,20,Oaxaca,autoads,2374717.0,3595317.0,0.002594,2004704.0
+conteos-eic,2015,entidad,21,Puebla,autoads,1976162.0,5586559.0,0.00358,1571026.0
+conteos-eic,2015,entidad,22,Querétaro,autoads,355595.0,1853286.0,0.004652,251258.0
+conteos-eic,2015,entidad,23,Quintana Roo,autoads,611448.0,1364091.0,0.008134,151332.0
+conteos-eic,2015,entidad,24,San Luis Potosí,autoads,578056.0,2478417.0,0.004104,548558.0
+conteos-eic,2015,entidad,25,Sinaloa,autoads,348980.0,2710831.0,0.003881,277508.0
+conteos-eic,2015,entidad,26,Sonora,autoads,470871.0,2596409.0,0.004103,400723.0
+conteos-eic,2015,entidad,27,Tabasco,autoads,560640.0,2166578.0,0.009675,250626.0
+conteos-eic,2015,entidad,28,Tamaulipas,autoads,201219.0,3136127.0,0.00201,364992.0
+conteos-eic,2015,entidad,29,Tlaxcala,autoads,293729.0,1157531.0,0.005792,446265.0
+conteos-eic,2015,entidad,30,Veracruz,autoads,2179954.0,7420636.0,0.002447,1880852.0
+conteos-eic,2015,entidad,31,Yucatán,autoads,1263314.0,1924250.0,0.006165,570291.0
+conteos-eic,2015,entidad,32,Zacatecas,autoads,109843.0,1422963.0,0.001622,416219.0
+conteos-eic,2015,nacional,00,Todo el país,habla,7173534.0,108917845.0,0.000327,20477142.0
+conteos-eic,2015,entidad,01,Aguascalientes,habla,3080.0,1184416.0,0.00019,158884.0
+conteos-eic,2015,entidad,02,Baja California,habla,45370.0,3033475.0,0.000821,175152.0
+conteos-eic,2015,entidad,03,Baja California Sur,habla,10196.0,649033.0,0.001263,71877.0
+conteos-eic,2015,entidad,04,Campeche,habla,97117.0,816326.0,0.002904,142768.0
+conteos-eic,2015,entidad,05,Coahuila,habla,5490.0,2678545.0,0.0001,343259.0
+conteos-eic,2015,entidad,06,Colima,habla,4239.0,649503.0,0.00055,105516.0
+conteos-eic,2015,entidad,07,Chiapas,habla,1286817.0,4629951.0,0.003142,1598024.0
+conteos-eic,2015,entidad,08,Chihuahua,habla,86350.0,3239718.0,0.000581,542742.0
+conteos-eic,2015,entidad,09,Ciudad de México,habla,128505.0,8365831.0,0.000366,516847.0
+conteos-eic,2015,entidad,10,Durango,habla,37088.0,1579267.0,0.000896,338604.0
+conteos-eic,2015,entidad,11,Guanajuato,habla,12442.0,5302301.0,0.000144,653979.0
+conteos-eic,2015,entidad,12,Guerrero,habla,486353.0,3174481.0,0.003239,1016764.0
+conteos-eic,2015,entidad,13,Hidalgo,habla,378029.0,2606469.0,0.002468,741341.0
+conteos-eic,2015,entidad,14,Jalisco,habla,54986.0,7132509.0,0.000301,1144080.0
+conteos-eic,2015,entidad,15,México,habla,419647.0,14833673.0,0.000615,1748335.0
+conteos-eic,2015,entidad,16,Michoacán,habla,149151.0,4135938.0,0.001247,1018741.0
+conteos-eic,2015,entidad,17,Morelos,habla,35341.0,1744832.0,0.000889,336490.0
+conteos-eic,2015,entidad,18,Nayarit,habla,56835.0,1065776.0,0.002154,218472.0
+conteos-eic,2015,entidad,19,Nuevo León,habla,58883.0,4682806.0,0.000393,470913.0
+conteos-eic,2015,entidad,20,Oaxaca,habla,1171878.0,3595317.0,0.002546,2004704.0
+conteos-eic,2015,entidad,21,Puebla,habla,642056.0,5586559.0,0.002526,1571026.0
+conteos-eic,2015,entidad,22,Querétaro,habla,31893.0,1853286.0,0.000887,251258.0
+conteos-eic,2015,entidad,23,Quintana Roo,habla,233854.0,1364091.0,0.00365,151332.0
+conteos-eic,2015,entidad,24,San Luis Potosí,habla,251556.0,2478417.0,0.003223,548558.0
+conteos-eic,2015,entidad,25,Sinaloa,habla,38630.0,2710831.0,0.001003,277508.0
+conteos-eic,2015,entidad,26,Sonora,habla,64970.0,2596409.0,0.000842,400723.0
+conteos-eic,2015,entidad,27,Tabasco,habla,60920.0,2166578.0,0.002319,250626.0
+conteos-eic,2015,entidad,28,Tamaulipas,habla,23921.0,3136127.0,0.00025,364992.0
+conteos-eic,2015,entidad,29,Tlaxcala,habla,32758.0,1157531.0,0.001728,446265.0
+conteos-eic,2015,entidad,30,Veracruz,habla,691769.0,7420636.0,0.001286,1880852.0
+conteos-eic,2015,entidad,31,Yucatán,habla,569819.0,1924250.0,0.003397,570291.0
+conteos-eic,2015,entidad,32,Zacatecas,habla,3591.0,1422963.0,0.000185,416219.0
+conteos-eic,2025,nacional,00,Todo el país,autoads,22868788.0,122805181.0,0.000916,23488381.0
+conteos-eic,2025,entidad,01,Aguascalientes,autoads,64512.0,1440451.0,0.003587,164896.0
+conteos-eic,2025,entidad,02,Baja California,autoads,355560.0,3756867.0,0.004828,144462.0
+conteos-eic,2025,entidad,03,Baja California Sur,autoads,98783.0,900964.0,0.004618,84938.0
+conteos-eic,2025,entidad,04,Campeche,autoads,377883.0,908999.0,0.009467,178969.0
+conteos-eic,2025,entidad,05,Coahuila,autoads,114069.0,3190592.0,0.00279,379850.0
+conteos-eic,2025,entidad,06,Colima,autoads,99291.0,718462.0,0.003947,122325.0
+conteos-eic,2025,entidad,07,Chiapas,autoads,2045317.0,5347216.0,0.003984,1887887.0
+conteos-eic,2025,entidad,08,Chihuahua,autoads,361584.0,3657421.0,0.003357,472309.0
+conteos-eic,2025,entidad,09,Ciudad de México,autoads,607821.0,8830436.0,0.001734,425884.0
+conteos-eic,2025,entidad,10,Durango,autoads,113465.0,1797438.0,0.002348,360041.0
+conteos-eic,2025,entidad,11,Guanajuato,autoads,333961.0,6018093.0,0.001682,745202.0
+conteos-eic,2025,entidad,12,Guerrero,autoads,1100441.0,3160244.0,0.004545,1047329.0
+conteos-eic,2025,entidad,13,Hidalgo,autoads,968230.0,3068802.0,0.003225,926879.0
+conteos-eic,2025,entidad,14,Jalisco,autoads,588232.0,8127204.0,0.002238,1265613.0
+conteos-eic,2025,entidad,15,México,autoads,2512555.0,16669436.0,0.002477,2161789.0
+conteos-eic,2025,entidad,16,Michoacán,autoads,987449.0,4552703.0,0.003347,1194769.0
+conteos-eic,2025,entidad,17,Morelos,autoads,426063.0,1881653.0,0.004912,435931.0
+conteos-eic,2025,entidad,18,Nayarit,autoads,144354.0,1200101.0,0.003332,268271.0
+conteos-eic,2025,entidad,19,Nuevo León,autoads,308510.0,5909397.0,0.001739,552096.0
+conteos-eic,2025,entidad,20,Oaxaca,autoads,2599152.0,3887790.0,0.002587,2230508.0
+conteos-eic,2025,entidad,21,Puebla,autoads,2003107.0,6397010.0,0.004944,1933434.0
+conteos-eic,2025,entidad,22,Querétaro,autoads,350511.0,2461572.0,0.004574,298531.0
+conteos-eic,2025,entidad,23,Quintana Roo,autoads,593247.0,1974146.0,0.02953,167359.0
+conteos-eic,2025,entidad,24,San Luis Potosí,autoads,525399.0,2699903.0,0.004206,638575.0
+conteos-eic,2025,entidad,25,Sinaloa,autoads,287330.0,2882373.0,0.00272,320894.0
+conteos-eic,2025,entidad,26,Sonora,autoads,400419.0,2856925.0,0.002673,416290.0
+conteos-eic,2025,entidad,27,Tabasco,autoads,448051.0,2358219.0,0.009532,316349.0
+conteos-eic,2025,entidad,28,Tamaulipas,autoads,215628.0,3406053.0,0.00245,396778.0
+conteos-eic,2025,entidad,29,Tlaxcala,autoads,260946.0,1333021.0,0.003454,574972.0
+conteos-eic,2025,entidad,30,Veracruz,autoads,2177651.0,7469747.0,0.002301,2220907.0
+conteos-eic,2025,entidad,31,Yucatán,autoads,1342825.0,2372228.0,0.008911,669620.0
+conteos-eic,2025,entidad,32,Zacatecas,autoads,56442.0,1569715.0,0.000834,484724.0
+conteos-eic,2025,nacional,00,Todo el país,habla,7252483.0,122805181.0,0.000341,23488381.0
+conteos-eic,2025,entidad,01,Aguascalientes,habla,2903.0,1440451.0,0.000148,164896.0
+conteos-eic,2025,entidad,02,Baja California,habla,58455.0,3756867.0,0.001321,144462.0
+conteos-eic,2025,entidad,03,Baja California Sur,habla,16155.0,900964.0,0.001322,84938.0
+conteos-eic,2025,entidad,04,Campeche,habla,91145.0,908999.0,0.002404,178969.0
+conteos-eic,2025,entidad,05,Coahuila,habla,6567.0,3190592.0,0.000162,379850.0
+conteos-eic,2025,entidad,06,Colima,habla,5188.0,718462.0,0.000888,122325.0
+conteos-eic,2025,entidad,07,Chiapas,habla,1542502.0,5347216.0,0.003463,1887887.0
+conteos-eic,2025,entidad,08,Chihuahua,habla,112753.0,3657421.0,0.000959,472309.0
+conteos-eic,2025,entidad,09,Ciudad de México,habla,125416.0,8830436.0,0.000566,425884.0
+conteos-eic,2025,entidad,10,Durango,habla,43263.0,1797438.0,0.00081,360041.0
+conteos-eic,2025,entidad,11,Guanajuato,habla,12409.0,6018093.0,0.00012,745202.0
+conteos-eic,2025,entidad,12,Guerrero,habla,483355.0,3160244.0,0.002793,1047329.0
+conteos-eic,2025,entidad,13,Hidalgo,habla,348237.0,3068802.0,0.002043,926879.0
+conteos-eic,2025,entidad,14,Jalisco,habla,50163.0,8127204.0,0.000246,1265613.0
+conteos-eic,2025,entidad,15,México,habla,402242.0,16669436.0,0.000544,2161789.0
+conteos-eic,2025,entidad,16,Michoacán,habla,169296.0,4552703.0,0.001096,1194769.0
+conteos-eic,2025,entidad,17,Morelos,habla,35804.0,1881653.0,0.000896,435931.0
+conteos-eic,2025,entidad,18,Nayarit,habla,67053.0,1200101.0,0.002889,268271.0
+conteos-eic,2025,entidad,19,Nuevo León,habla,93765.0,5909397.0,0.000521,552096.0
+conteos-eic,2025,entidad,20,Oaxaca,habla,1138127.0,3887790.0,0.002599,2230508.0
+conteos-eic,2025,entidad,21,Puebla,habla,599250.0,6397010.0,0.002289,1933434.0
+conteos-eic,2025,entidad,22,Querétaro,habla,30858.0,2461572.0,0.001313,298531.0
+conteos-eic,2025,entidad,23,Quintana Roo,habla,222697.0,1974146.0,0.00512,167359.0
+conteos-eic,2025,entidad,24,San Luis Potosí,habla,226456.0,2699903.0,0.002852,638575.0
+conteos-eic,2025,entidad,25,Sinaloa,habla,22982.0,2882373.0,0.000574,320894.0
+conteos-eic,2025,entidad,26,Sonora,habla,57933.0,2856925.0,0.000557,416290.0
+conteos-eic,2025,entidad,27,Tabasco,habla,81646.0,2358219.0,0.003579,316349.0
+conteos-eic,2025,entidad,28,Tamaulipas,habla,29822.0,3406053.0,0.000453,396778.0
+conteos-eic,2025,entidad,29,Tlaxcala,habla,27484.0,1333021.0,0.000817,574972.0
+conteos-eic,2025,entidad,30,Veracruz,habla,626564.0,7469747.0,0.001218,2220907.0
+conteos-eic,2025,entidad,31,Yucatán,habla,516403.0,2372228.0,0.003701,669620.0
+conteos-eic,2025,entidad,32,Zacatecas,habla,5590.0,1569715.0,0.00027,484724.0

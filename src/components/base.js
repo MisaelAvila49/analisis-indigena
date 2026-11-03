@@ -1,0 +1,363 @@
+// src/components/base.js
+// Lo que comparten todas las páginas del tablero: paleta, tipografía, medición
+// del ancho, formatos, centinelas de filtro y el arranque del modo claro /
+// oscuro. Es el único módulo sin dependencias internas; todo lo demás importa
+// de aquí. Hereda el patrón del Observatorio PISA: los objetos exportados se
+// MUTAN en sitio al cambiar de modo, nunca se reasignan, porque un
+// `export const` reasignado no se propaga a quien ya lo importó.
+
+// --- Paleta -----------------------------------------------------------------
+// Cada comparación del tablero es un PAR de series, y cada par lleva dos tonos
+// validados con el validador de la skill `dataviz` (--pairs all, claro y
+// oscuro). Cuatro tonos no pasan: ningún par de tonos aclarados libra a la
+// vez el piso de croma y la banda de luminosidad en oscuro, así que el sexo
+// no se codifica como cuarto color sino como faceta (ver filtros.js).
+//
+//   indígena vs resto   claro #C4101B,#2166AC -> peor par ΔE 22.1 protan
+//                       oscuro #EE4C7C,#4A90D9 -> peor par ΔE 15.0 protan
+//   mujeres vs hombres  claro #B87709,#2166AC / oscuro #BE8700,#4A90D9
+//                       (ámbar y azul del Observatorio PISA, validados)
+//
+// El rojo identifica a la población indígena en todo el tablero, y en las
+// rampas el rojo marca siempre el extremo desfavorable: las dos lecturas
+// coinciden, porque la brecha que se mide va casi siempre en su contra.
+const PAR_INDIGENA_CLARO = {"Población indígena": "#C4101B", "Resto de la población": "#2166AC"};
+const PAR_INDIGENA_OSCURO = {"Población indígena": "#EE4C7C", "Resto de la población": "#4A90D9"};
+const PAR_SEXO_CLARO = {"Mujeres indígenas": "#B87709", "Hombres indígenas": "#2166AC"};
+const PAR_SEXO_OSCURO = {"Mujeres indígenas": "#BE8700", "Hombres indígenas": "#4A90D9"};
+
+// Tercer par: AGEB que alcanzan el umbral de presencia indígena contra el
+// resto. Mismos dos tonos del par principal, ya validados.
+const PAR_AGEB_CLARO = {"AGEB que alcanzan el umbral": "#C4101B", "Resto de las AGEB": "#2166AC"};
+const PAR_AGEB_OSCURO = {"AGEB que alcanzan el umbral": "#EE4C7C", "Resto de las AGEB": "#4A90D9"};
+
+export const COLOR_SERIE = {...PAR_INDIGENA_CLARO, ...PAR_SEXO_CLARO, ...PAR_AGEB_CLARO};
+
+// --- Sistema de color del sitio ----------------------------------------------
+// Una regla por significado, igual en todas las páginas y con cualquier filtro:
+//   1. Población indígena contra el resto: rojo y azul (COLOR_SERIE).
+//   2. Mujeres contra hombres: ámbar y azul (COLOR_SERIE); si además se
+//      compara indígena con resto, el grupo va en color y el sexo en el trazo.
+//   3. Una sola serie, sin comparación: morado (COLOR_UNICO). Lo destacado
+//      dentro de ella (la Ciudad de México en un ranking) va en rojo.
+//   4. Magnitud en mapas, celdas y barras de color: la rampa morada, del claro
+//      (poco) al oscuro (mucho), con dominio fijo por indicador.
+//   5. Categorías con orden (grupos de edad, grado de riesgo, certeza): pasos
+//      de la misma rampa morada, del claro al oscuro en el orden natural.
+//   6. Referencias (promedio de la ciudad, la otra población de fondo): gris.
+export const COLOR_UNICO = "#88419d";
+export const COLOR_REFERENCIA = "#8a8a86";
+// Pasos ordinales de la rampa morada, para 2 a 5 categorías con orden.
+export const ORDINAL = {
+  2: ["#8c96c6", "#4d004b"],
+  3: ["#9ebcda", "#8c6bb1", "#4d004b"],
+  4: ["#bfd3e6", "#8c96c6", "#88419d", "#4d004b"],
+  5: ["#bfd3e6", "#9ebcda", "#8c6bb1", "#88419d", "#4d004b"],
+};
+export const ordinal = (n) => ORDINAL[Math.max(2, Math.min(5, n))].slice(0, n);
+
+// Globos: Plot los dibuja a 10 px y en una tarjeta se leen chicos. Se pasa a
+// cada Plot.tip (o dentro del pointer) para que todos midan lo mismo.
+export const GLOBO = {fontSize: 13, textPadding: 9, lineWidth: 34};
+
+// Globo con renglones "Rótulo valor": Plot escribe el rótulo en negritas solo
+// cuando el globo se arma con `channels`; con `title` todo salía como texto
+// corrido y se leía plano. `renglones` es una lista [rótulo, (d) => valor];
+// si el valor es vacío o nulo, Plot omite el renglón. Los canales de posición
+// y facetas se ocultan: lo que importa va en los renglones, con su nombre.
+export function globo(renglones) {
+  const channels = {};
+  const format = {x: false, y: false, x1: false, x2: false, y1: false, y2: false, fx: false, fy: false, z: false, fill: false, stroke: false, r: false, px: false, py: false};
+  renglones.forEach(([rotulo, valor], i) => {
+    const clave = `g${i}`;
+    channels[clave] = {label: rotulo, value: (d) => { const v = valor(d); return v == null || v === "" ? undefined : String(v); }};
+    format[clave] = true;
+  });
+  // Un rótulo que empieza con «=» es un bloque de cifra: la tarjeta del globo
+  // pone la cifra grande y debajo el rótulo como frase. No se corta el renglón.
+  return {...GLOBO, ...(renglones.some(([r]) => String(r).startsWith("=")) ? {lineWidth: Infinity} : {}), channels, format};
+}
+
+// Gris para lo no asignable en las vistas de variantes (flechas y lista).
+// El color de cada variante lo genera el componente del mapa (un tono hsl por
+// variante en el orden del Catálogo); con treinta categorías no hay paleta
+// segura para daltonismo y el nombre acompaña siempre al color.
+export const GRIS_VARIANTE = "#8a8a86";
+
+// Rojo de marca (kickers, títulos de figura, cifra destacada). Sobre
+// superficie oscura el rojo pleno queda en 3.2:1 y vibra: ahí se usa el mismo
+// escalón que el CSS en su bloque oscuro.
+const ROJO_CLARO = "#C4101B";
+const ROJO_OSCURO = "#E8474F";
+export let ROJO = ROJO_CLARO;
+
+// Fondo de la tarjeta, leído como variable CSS: Plot lo usa para el halo de
+// las etiquetas y el borde de los puntos, y así es correcto en los dos modos.
+export const FONDO = "var(--theme-background, #fff)";
+
+// Los grises son un TONO, no una opacidad, para que el contraste de una serie
+// atenuada no dependa de lo que quede debajo. `papel` coincide con
+// --surface-3 del CSS (la tarjeta), no con el fondo de la página.
+const GRISES_CLARO = {fondo: "#C8C8C2", trazo: "#8A8A84", contexto: "#ADADA7", papel: "#F7F7F5", tinta: "#3A3A36", rejilla: "#EDEDE9", regla: "#E2E8F0"};
+const GRISES_OSCURO = {fondo: "#3E3E3B", trazo: "#75756E", contexto: "#57574F", papel: "#1E1E1C", tinta: "#D8D6D1", rejilla: "#2E2E2B", regla: "#2E2E2B"};
+export const GRIS = {...GRISES_CLARO};
+
+// Rampa DIVERGENTE para la brecha en puntos porcentuales (rojo = la población
+// indígena está por debajo; azul = por encima; gris = sin brecha). Tonos de
+// RdBu, de las pocas rampas divergentes que libran el daltonismo. En oscuro
+// se invierte en luminosidad: el centro es gris medio y los extremos, claros.
+const RAMPA_CLARO = ["#67001F", "#B2182B", "#D6604D", "#F4A582", "#E8E6E1", "#92C5DE", "#4393C3", "#2166AC", "#053061"];
+const RAMPA_OSCURO = ["#FFB3B8", "#F27C82", "#E8474F", "#A32C34", "#4A4A45", "#2C5C8C", "#4A90D9", "#7FB6EA", "#B8D8F7"];
+export const RAMPA = [...RAMPA_CLARO];
+
+// Rampa SECUENCIAL de un solo tono para magnitudes (mapas de nivel, celdas).
+// Es la misma familia morada de los mapas censales (RAMPA_MORADA en mapa.js)
+// y del color de serie única: antes era roja, y un mismo "% de la población"
+// se veía rojo en unas páginas y morado en otras. Más tinta es más valor; en
+// oscuro la tinta es luz, así que la rampa sube en luminosidad.
+const SECUENCIAL_CLARO = ["#edf8fb", "#bfd3e6", "#9ebcda", "#8c96c6", "#8c6bb1", "#88419d", "#6e016b"];
+const SECUENCIAL_OSCURO = ["#2a2233", "#3d2b52", "#55377a", "#71479b", "#9163b6", "#b389cf", "#d6b6e6"];
+export const SECUENCIAL = [...SECUENCIAL_CLARO];
+
+export const MODO = {oscuro: false};
+
+const suscriptores = new Set();
+export function alCambiarModo(fn) {
+  suscriptores.add(fn);
+  return () => suscriptores.delete(fn);
+}
+
+export function aplicarModo(oscuro) {
+  MODO.oscuro = oscuro;
+  const par = oscuro ? {...PAR_INDIGENA_OSCURO, ...PAR_SEXO_OSCURO, ...PAR_AGEB_OSCURO}
+    : {...PAR_INDIGENA_CLARO, ...PAR_SEXO_CLARO, ...PAR_AGEB_CLARO};
+  for (const k of Object.keys(COLOR_SERIE)) COLOR_SERIE[k] = par[k];
+  const grises = oscuro ? GRISES_OSCURO : GRISES_CLARO;
+  for (const k of Object.keys(GRIS)) GRIS[k] = grises[k];
+  RAMPA.length = 0;
+  RAMPA.push(...(oscuro ? RAMPA_OSCURO : RAMPA_CLARO));
+  SECUENCIAL.length = 0;
+  SECUENCIAL.push(...(oscuro ? SECUENCIAL_OSCURO : SECUENCIAL_CLARO));
+  ROJO = oscuro ? ROJO_OSCURO : ROJO_CLARO;
+  // El globo con jerarquía (script de la cabecera) colorea la cifra y la
+  // muestra con el color de la serie del grupo.
+  globalThis.__sdiColores = {...COLOR_SERIE};
+  for (const fn of suscriptores) fn(oscuro);
+}
+
+// --- Tipografía -------------------------------------------------------------
+// Plot fija 10px por omisión, que en una tarjeta queda por debajo del mínimo
+// cómodo. Un solo lugar para que el tablero no se vea disparejo.
+export const TIPO = {ejes: 13, valor: 12.5, etiqueta: 11.5};
+
+// Color de IDENTIDAD por familia lingüística: un tono por familia del
+// Catálogo del INALI, tomado de la vestimenta, los textiles y los bordados de
+// sus pueblos (grana cochinilla del posahuanco mixteco, caracol púrpura del
+// huipil ikoots, índigo del rebozo p'urhépecha, azul de la pintura facial
+// comcaac, rosa del brocado tepehua, ante de la piel de venado kikapú...). Las
+// fuentes de cada tono están en la metodología («Los colores de identidad por
+// familia»). Se usa donde el color identifica y no mide: treemap del catálogo,
+// mapa de la lengua, divisiones por familia. Con once categorías no hay
+// seguridad para daltonismo: el nombre acompaña siempre al color.
+export const COLOR_FAMILIA = {
+  "yuto-nahua": "#B98300", "oto-mangue": "#C2235F", "maya": "#CF58C2", "mixe-zoque": "#D1501A", "totonaco-tepehua": "#EA6377",
+  "tarasca": "#5068CC", "huave": "#9150C2", "chontal de oaxaca": "#1F8F6E", "cochimi-yumana": "#7E8C1E", "seri": "#1E8BC9", "algica": "#9C5F1C",
+};
+// Tono secundario de cada familia (el segundo color documentado): hacia él se
+// corren las agrupaciones de una misma familia para distinguirse entre sí.
+export const COLOR_FAMILIA_2 = {
+  "yuto-nahua": "#1E6FD9", "oto-mangue": "#2C3E8F", "maya": "#1F3C88", "mixe-zoque": "#7A5C3A", "totonaco-tepehua": "#F4F1EA",
+  "tarasca": "#0F1F4F", "huave": "#B5341F", "chontal de oaxaca": "#8E1B2E", "cochimi-yumana": "#C2185B", "seri": "#D7263D", "algica": "#2F5DA8",
+};
+const sinAcento = (t) => String(t ?? "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim();
+export const colorFamilia = (f) => COLOR_FAMILIA[sinAcento(f)] ?? "#8a8a86";
+const mezcla = (a, b, t) => { const h = (x) => [1, 3, 5].map((k) => parseInt(x.slice(k, k + 2), 16)); const [A, B] = [h(a), h(b)]; return `#${A.map((v, k) => Math.round(v + (B[k] - v) * t).toString(16).padStart(2, "0")).join("")}`; };
+// La i-ésima agrupación de una familia: del tono principal hacia el
+// secundario en cinco pasos que se alternan (0, 0.35, 0.18, 0.28, 0.09 del
+// camino), para que dos agrupaciones vecinas por tamaño no salgan casi
+// iguales y ninguna pase de un tercio, donde dejaría de leerse como su familia.
+const PASOS_TONO = [0, 0.35, 0.18, 0.28, 0.09];
+export function tonoFamilia(f, i = 0, n = 1) {
+  const a = colorFamilia(f), b = COLOR_FAMILIA_2[sinAcento(f)] ?? a;
+  return n <= 1 ? a : mezcla(a, b, PASOS_TONO[i % PASOS_TONO.length]);
+}
+
+// Eje de porcentaje de las líneas de tiempo: el símbolo va en cada marca del
+// eje, no solo en el rótulo, porque el rótulo queda lejos de la lectura.
+export const conPct = (d) => `${String(d).replace("-", "−")} %`;
+export function ejePct(label = null, extra = {}) {
+  return {label, grid: true, tickFormat: conPct, ...extra};
+}
+export const ESTILO_EJES = {fontSize: `${TIPO.ejes}px`};
+
+// --- Ancho disponible -------------------------------------------------------
+// Las gráficas se DIBUJAN al ancho de su contenedor en vez de encogerse: Plot
+// emite el SVG con viewBox y una gráfica de 1120 px en una columna de 640 se
+// escala al 57 % y arrastra la tipografía. El ancho no se calcula, se MIDE:
+// una regla oculta lleva las mismas clases que la figura (`.medida-ancho`
+// está en los mismos selectores de la hoja), así que su ancho de contenido es
+// exactamente el que tendrá cualquier gráfica.
+// Mínimo de 300: con 560 (el valor heredado) en un teléfono cada gráfica se
+// dibujaba más ancha que la pantalla y se encogía con todo y letra.
+export const ANCHO_MINIMO = 300;
+const ANCHO_RESERVA = 1120;
+const UMBRAL_ANCHO = 8;
+
+let regla = null;
+function laRegla() {
+  if (regla?.isConnected) return regla;
+  const main = document.querySelector("#observablehq-main");
+  if (!main) return null;
+  regla = document.createElement("div");
+  regla.className = "medida-ancho";
+  regla.setAttribute("aria-hidden", "true");
+  main.appendChild(regla);
+  return regla;
+}
+
+export function anchoActual() {
+  const r = laRegla();
+  if (!r) return ANCHO_RESERVA;
+  const c = getComputedStyle(r);
+  const util = r.clientWidth - parseFloat(c.paddingLeft) - parseFloat(c.paddingRight);
+  return Math.max(ANCHO_MINIMO, Math.round(util) || ANCHO_RESERVA);
+}
+
+// Un solo ResizeObserver por página, difundido por suscripción.
+const anchoSuscriptores = new Set();
+let observador = null;
+let anchoUltimo = 0;
+let anchoCuadro = null;
+
+export function alCambiarAncho(fn) {
+  anchoSuscriptores.add(fn);
+  arrancar();
+  return () => anchoSuscriptores.delete(fn);
+}
+
+function arrancar() {
+  if (observador || typeof ResizeObserver === "undefined") return;
+  const r = laRegla();
+  if (!r) return;
+  anchoUltimo = anchoActual();
+  observador = new ResizeObserver(() => {
+    if (anchoCuadro) return;
+    anchoCuadro = requestAnimationFrame(() => {
+      anchoCuadro = null;
+      const nuevo = anchoActual();
+      if (Math.abs(nuevo - anchoUltimo) < UMBRAL_ANCHO) return;
+      anchoUltimo = nuevo;
+      for (const fn of anchoSuscriptores) fn(nuevo);
+    });
+  });
+  observador.observe(r);
+}
+
+// --- Formato ----------------------------------------------------------------
+export function punto(v, decimales = 0) {
+  if (v == null || !Number.isFinite(v)) return "s/d";
+  return v.toLocaleString("es-MX", {minimumFractionDigits: decimales, maximumFractionDigits: decimales});
+}
+
+export function diferencia(v, decimales = 0) {
+  if (v == null || !Number.isFinite(v)) return "s/d";
+  const s = v > 0 ? "+" : v < 0 ? "−" : "±";
+  return s + punto(Math.abs(v), decimales);
+}
+
+// Un año es un IDENTIFICADOR, no una cantidad: "2020", nunca "2,020".
+export function anio(v) {
+  return v == null ? "" : String(v);
+}
+
+// Valor según el formato del indicador. El tablero solo tiene porcentajes por
+// ahora, pero el formato viaja por toda la cadena para que un indicador de
+// pesos u horas, si llega, no salga multiplicado por cien en silencio.
+export function formatear(valor, formato = "pct") {
+  if (valor == null || !Number.isFinite(valor)) return "s/d";
+  if (formato === "pesos") return "$" + Math.round(valor).toLocaleString("es-MX");
+  if (formato === "horas") return `${valor.toFixed(1)} h`;
+  if (formato === "conteo") return Math.round(valor).toLocaleString("es-MX");
+  return `${valor.toFixed(1)} %`;
+}
+
+export function poblacionCorta(v) {
+  if (v == null || !Number.isFinite(v)) return "s/d";
+  const abs = Math.abs(v);
+  if (abs >= 1e6) return (v / 1e6).toFixed(2) + " M";
+  if (abs >= 1e3) return (v / 1e3).toFixed(1) + " mil";
+  return Math.round(v).toLocaleString("es-MX");
+}
+
+// --- Centinelas de filtro ---------------------------------------------------
+// Un selector en "todos" puede querer decir dos cosas: AGREGADO (junta los
+// grupos en una sola cifra; válido cuando son disjuntos dentro de un mismo
+// levantamiento) o POR_SEPARADO (una faceta o fila por valor; no agrega
+// nada). El año solo admite el segundo: sumar 2020, 2022 y 2024 cuenta tres
+// veces a la misma población.
+export const TODAS = "Todas";
+export const TODOS = "Todos";
+export const AGREGADO = "__agregado__";
+export const POR_SEPARADO = "__facetas__";
+export const VER_MAPA = "__mapa__";
+export const COMPARAR_ENTIDADES = "__entidades__";
+export const POR_TAMANO = "__tamano__";
+export const COMPARAR = "__comparar__";
+
+// --- Orden de las dimensiones ordinales -------------------------------------
+export const ORDEN_EDAD = ["6-11", "12-17", "18-29", "30-44", "45-59", "60+"];
+export const ORDEN_TAM_LOC = ["100 mil habitantes o más", "15 mil a 99 999", "2 500 a 14 999", "Menos de 2 500"];
+export const TAM_LOC_RURAL = "Menos de 2 500";
+export const ORDEN_AMBITO = ["Urbano", "Rural"];
+export const ORDEN_ESCOLARIDAD = ["Primaria o menos", "Secundaria", "Media superior", "Superior"];
+// Estrato socioeconómico del INEGI (ENIGH `est_socio`, ENDUTIH `ESTRATO`).
+export const ORDEN_ESTRATO = ["Bajo", "Medio bajo", "Medio alto", "Alto"];
+export const ORDEN_SEXO = ["Mujeres", "Hombres"];
+export const ORDEN_DECIL = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"];
+export const ORDEN_GRADO = ["Muy bajo", "Bajo", "Medio", "Alto", "Muy alto"];
+
+// --- Animación --------------------------------------------------------------
+export function animar(nodo) {
+  if (!nodo) return nodo;
+  const env = document.createElement("div");
+  env.className = "grafica-anim";
+  env.appendChild(nodo);
+  // Plot escribe <g aria-label="dot"> sin rol, y ARIA prohíbe aria-label en
+  // un elemento sin rol. El script del head lo corrige con un observador,
+  // pero con retardo; aquí queda resuelto desde que el nodo nace.
+  for (const g of env.querySelectorAll("svg g[aria-label]:not([role])")) g.setAttribute("role", "group");
+  for (const r of env.querySelectorAll('svg rect[aria-label="frame"]')) r.removeAttribute("aria-label");
+  return env;
+}
+
+// --- Arranque del modo claro / oscuro ---------------------------------------
+// Va al FINAL del módulo: aplicarModo() escribe sobre constantes declaradas
+// arriba. El modo lo decide el LECTOR con el botón del sidebar y vive en el
+// atributo `data-tema` de <html>, que escribe el script de la config antes
+// del primer pintado. La guardia de `document` es para el build en Node.
+if (typeof document !== "undefined") {
+  const leer = () => document.documentElement.getAttribute("data-tema") === "oscuro";
+  aplicarModo(leer());
+  addEventListener("sdi:tema", () => aplicarModo(leer()));
+}
+
+
+// Texto legible sobre un relleno: blanco o negro según la luminancia relativa
+// del color (WCAG). Para las cifras escritas dentro de tramos y celdas.
+export function tintaSobre(hex) {
+  const c = String(hex).replace("#", "");
+  if (c.length !== 6) return "currentColor";
+  const lin = (v) => { v /= 255; return v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4; };
+  const [r, g, b] = [0, 2, 4].map((i) => lin(parseInt(c.slice(i, i + 2), 16)));
+  const L = 0.2126 * r + 0.7152 * g + 0.0722 * b;
+  return (1.05) / (L + 0.05) >= (L + 0.05) / 0.05 ? "white" : "black";
+}
+
+// Tramos de una apilada al 100 % con categorías ordenadas por frecuencia (los
+// motivos): tres pasos de la rampa morada y «Otros» en un gris neutro, por
+// tema. Validados con scripts/validate_palette.js: en claro el par más cercano
+// queda en ΔE 18.0 (deuteranopía) y 21.1 (visión normal); en oscuro, 13.7 y
+// 15.7. La gris no tiene croma a propósito; cada tramo lleva además su cifra
+// escrita y una separación blanca.
+export const APILADAS_CLARO = ["#4d004b", "#88419d", "#8c96c6", "#dcdcd6"];
+export const APILADAS_OSCURO = ["#d6b6e6", "#9163b6", "#55377a", "#2e2e2b"];

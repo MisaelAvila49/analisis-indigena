@@ -1,0 +1,643 @@
+fuente,edicion,criterio,grupo,sexo,corte,indicador,pct,millones
+coneval,2016,lengua,Población indígena,Hombres,Carencias,Acceso a la seguridad social,83.6252,2.788381
+coneval,2018,lengua,Población indígena,Hombres,Carencias,Acceso a la seguridad social,82.9561,2.831416
+coneval,2020,lengua,Población indígena,Hombres,Carencias,Acceso a la seguridad social,80.5,2.643957
+coneval,2022,lengua,Población indígena,Hombres,Carencias,Acceso a la seguridad social,77.6064,2.806772
+coneval,2016,lengua,Resto de la población,Hombres,Carencias,Acceso a la seguridad social,52.6989,27.512203
+coneval,2018,lengua,Resto de la población,Hombres,Carencias,Acceso a la seguridad social,52.2048,28.166645
+coneval,2020,lengua,Resto de la población,Hombres,Carencias,Acceso a la seguridad social,51.314,28.509472
+coneval,2022,lengua,Resto de la población,Hombres,Carencias,Acceso a la seguridad social,49.1729,27.491161
+coneval,2016,lengua,Población indígena,Hombres,Carencias,Acceso a los servicios de salud,15.6077,0.520421
+coneval,2018,lengua,Población indígena,Hombres,Carencias,Acceso a los servicios de salud,16.5175,0.563768
+coneval,2020,lengua,Población indígena,Hombres,Carencias,Acceso a los servicios de salud,34.225,1.124091
+coneval,2022,lengua,Población indígena,Hombres,Carencias,Acceso a los servicios de salud,61.7492,2.233267
+coneval,2016,lengua,Resto de la población,Hombres,Carencias,Acceso a los servicios de salud,17.9198,9.355261
+coneval,2018,lengua,Resto de la población,Hombres,Carencias,Acceso a los servicios de salud,18.4626,9.961326
+coneval,2020,lengua,Resto de la población,Hombres,Carencias,Acceso a los servicios de salud,30.0786,16.711322
+coneval,2022,lengua,Resto de la población,Hombres,Carencias,Acceso a los servicios de salud,39.1629,21.894863
+coneval,2016,lengua,Población indígena,Hombres,Privación social,Al menos una carencia social,92.7811,3.093676
+coneval,2018,lengua,Población indígena,Hombres,Privación social,Al menos una carencia social,92.7745,3.166534
+coneval,2020,lengua,Población indígena,Hombres,Privación social,Al menos una carencia social,93.2834,3.063815
+coneval,2022,lengua,Población indígena,Hombres,Privación social,Al menos una carencia social,92.297,3.338084
+coneval,2016,lengua,Resto de la población,Hombres,Privación social,Al menos una carencia social,66.9515,34.952961
+coneval,2018,lengua,Resto de la población,Hombres,Privación social,Al menos una carencia social,66.813,36.04838
+coneval,2020,lengua,Resto de la población,Hombres,Privación social,Al menos una carencia social,66.5037,36.948723
+coneval,2022,lengua,Resto de la población,Hombres,Privación social,Al menos una carencia social,64.2604,35.926203
+coneval,2016,lengua,Población indígena,Hombres,Carencias,Alimentación nutritiva y de calidad,36.536,1.21825
+coneval,2018,lengua,Población indígena,Hombres,Carencias,Alimentación nutritiva y de calidad,39.2275,1.338893
+coneval,2020,lengua,Población indígena,Hombres,Carencias,Alimentación nutritiva y de calidad,37.97,1.247094
+coneval,2022,lengua,Población indígena,Hombres,Carencias,Alimentación nutritiva y de calidad,33.389,1.20757
+coneval,2016,lengua,Resto de la población,Hombres,Carencias,Alimentación nutritiva y de calidad,20.937,10.930451
+coneval,2018,lengua,Resto de la población,Hombres,Carencias,Alimentación nutritiva y de calidad,21.2112,11.444338
+coneval,2020,lengua,Resto de la población,Hombres,Carencias,Alimentación nutritiva y de calidad,21.6147,12.008897
+coneval,2022,lengua,Resto de la población,Hombres,Carencias,Alimentación nutritiva y de calidad,17.066,9.541097
+coneval,2016,lengua,Población indígena,Hombres,Carencias,Calidad y espacios de la vivienda,33.412,1.114084
+coneval,2018,lengua,Población indígena,Hombres,Carencias,Calidad y espacios de la vivienda,32.5642,1.111466
+coneval,2020,lengua,Población indígena,Hombres,Carencias,Calidad y espacios de la vivienda,28.9948,0.95231
+coneval,2022,lengua,Población indígena,Hombres,Carencias,Calidad y espacios de la vivienda,30.3387,1.097251
+coneval,2016,lengua,Resto de la población,Hombres,Carencias,Calidad y espacios de la vivienda,10.4651,5.463466
+coneval,2018,lengua,Resto de la población,Hombres,Carencias,Calidad y espacios de la vivienda,9.6111,5.185611
+coneval,2020,lengua,Resto de la población,Hombres,Carencias,Calidad y espacios de la vivienda,8.0494,4.472174
+coneval,2022,lengua,Resto de la población,Hombres,Carencias,Calidad y espacios de la vivienda,7.6151,4.257374
+coneval,2016,lengua,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,78.4943,2.617298
+coneval,2018,lengua,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,76.7901,2.620963
+coneval,2020,lengua,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,76.8174,2.523004
+coneval,2022,lengua,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,69.2836,2.505764
+coneval,2016,lengua,Resto de la población,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,47.6147,24.857909
+coneval,2018,lengua,Resto de la población,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,46.6536,25.171564
+coneval,2020,lengua,Resto de la población,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,49.891,27.718862
+coneval,2022,lengua,Resto de la población,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,40.3068,22.534372
+coneval,2016,lengua,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,45.5192,1.517784
+coneval,2018,lengua,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,43.9532,1.500189
+coneval,2020,lengua,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,45.7251,1.501804
+coneval,2022,lengua,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,36.3263,1.313805
+coneval,2016,lengua,Resto de la población,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,12.3239,6.433885
+coneval,2018,lengua,Resto de la población,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,11.6033,6.260437
+coneval,2020,lengua,Resto de la población,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,14.9358,8.298143
+coneval,2022,lengua,Resto de la población,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,9.8497,5.50669
+coneval,2016,lengua,Población indígena,Hombres,Pobreza,No pobre y no vulnerable,5.4706,0.182411
+coneval,2018,lengua,Población indígena,Hombres,Pobreza,No pobre y no vulnerable,5.481,0.187076
+coneval,2020,lengua,Población indígena,Hombres,Pobreza,No pobre y no vulnerable,5.0401,0.165538
+coneval,2022,lengua,Población indígena,Hombres,Pobreza,No pobre y no vulnerable,5.9115,0.213801
+coneval,2016,lengua,Resto de la población,Hombres,Pobreza,No pobre y no vulnerable,25.3956,13.258099
+coneval,2018,lengua,Resto de la población,Hombres,Pobreza,No pobre y no vulnerable,25.0731,13.527976
+coneval,2020,lengua,Resto de la población,Hombres,Pobreza,No pobre y no vulnerable,24.663,13.702498
+coneval,2022,lengua,Resto de la población,Hombres,Pobreza,No pobre y no vulnerable,28.5013,15.934263
+coneval,2016,lengua,Población indígena,Hombres,Pobreza,Pobreza,76.7461,2.559005
+coneval,2018,lengua,Población indígena,Hombres,Pobreza,Pobreza,75.0457,2.561423
+coneval,2020,lengua,Población indígena,Hombres,Pobreza,Pobreza,75.1409,2.46794
+coneval,2022,lengua,Población indígena,Hombres,Pobreza,Pobreza,67.4922,2.440974
+coneval,2016,lengua,Resto de la población,Hombres,Pobreza,Pobreza,39.9618,20.862603
+coneval,2018,lengua,Resto de la población,Hombres,Pobreza,Pobreza,38.5397,20.793765
+coneval,2020,lengua,Resto de la población,Hombres,Pobreza,Pobreza,41.0578,22.811224
+coneval,2022,lengua,Resto de la población,Hombres,Pobreza,Pobreza,33.0685,18.48765
+coneval,2016,lengua,Población indígena,Hombres,Pobreza,Pobreza extrema,33.7705,1.126037
+coneval,2018,lengua,Población indígena,Hombres,Pobreza,Pobreza extrema,34.8959,1.19105
+coneval,2020,lengua,Población indígena,Hombres,Pobreza,Pobreza extrema,35.2491,1.157727
+coneval,2022,lengua,Población indígena,Hombres,Pobreza,Pobreza extrema,31.5609,1.141456
+coneval,2016,lengua,Resto de la población,Hombres,Pobreza,Pobreza extrema,5.4433,2.841749
+coneval,2018,lengua,Resto de la población,Hombres,Pobreza,Pobreza extrema,5.1853,2.797684
+coneval,2020,lengua,Resto de la población,Hombres,Pobreza,Pobreza extrema,6.8912,3.82867
+coneval,2022,lengua,Resto de la población,Hombres,Pobreza,Pobreza extrema,5.1424,2.874957
+coneval,2016,lengua,Población indígena,Hombres,Pobreza,Pobreza moderada,42.9755,1.432968
+coneval,2018,lengua,Población indígena,Hombres,Pobreza,Pobreza moderada,40.1498,1.370373
+coneval,2020,lengua,Población indígena,Hombres,Pobreza,Pobreza moderada,39.8918,1.310213
+coneval,2022,lengua,Población indígena,Hombres,Pobreza,Pobreza moderada,35.9313,1.299518
+coneval,2016,lengua,Resto de la población,Hombres,Pobreza,Pobreza moderada,34.5185,18.020854
+coneval,2018,lengua,Resto de la población,Hombres,Pobreza,Pobreza moderada,33.3544,17.996081
+coneval,2020,lengua,Resto de la población,Hombres,Pobreza,Pobreza moderada,34.1666,18.982554
+coneval,2022,lengua,Resto de la población,Hombres,Pobreza,Pobreza moderada,27.9261,15.612693
+coneval,2016,lengua,Población indígena,Hombres,Carencias,Rezago educativo,39.5114,1.31746
+coneval,2018,lengua,Población indígena,Hombres,Carencias,Rezago educativo,42.237,1.441613
+coneval,2020,lengua,Población indígena,Hombres,Carencias,Rezago educativo,43.0517,1.413996
+coneval,2022,lengua,Población indígena,Hombres,Carencias,Rezago educativo,42.1096,1.522966
+coneval,2016,lengua,Resto de la población,Hombres,Carencias,Rezago educativo,17.5696,9.17243
+coneval,2018,lengua,Resto de la población,Hombres,Carencias,Rezago educativo,17.9594,9.689837
+coneval,2020,lengua,Resto de la población,Hombres,Carencias,Rezago educativo,18.6098,10.339399
+coneval,2022,lengua,Resto de la población,Hombres,Carencias,Rezago educativo,18.5754,10.384971
+coneval,2016,lengua,Población indígena,Hombres,Carencias,Servicios básicos en la vivienda,63.4488,2.115625
+coneval,2018,lengua,Población indígena,Hombres,Carencias,Servicios básicos en la vivienda,66.4415,2.267747
+coneval,2020,lengua,Población indígena,Hombres,Carencias,Servicios básicos en la vivienda,67.6751,2.222731
+coneval,2022,lengua,Población indígena,Hombres,Carencias,Servicios básicos en la vivienda,66.9446,2.421168
+coneval,2016,lengua,Resto de la población,Hombres,Carencias,Servicios básicos en la vivienda,16.4071,8.565563
+coneval,2018,lengua,Resto de la población,Hombres,Carencias,Servicios básicos en la vivienda,16.6933,9.006748
+coneval,2020,lengua,Resto de la población,Hombres,Carencias,Servicios básicos en la vivienda,15.0329,8.352094
+coneval,2022,lengua,Resto de la población,Hombres,Carencias,Servicios básicos en la vivienda,14.6995,8.218051
+coneval,2016,lengua,Población indígena,Hombres,Privación social,Tres o más carencias sociales,57.9453,1.932115
+coneval,2018,lengua,Población indígena,Hombres,Privación social,Tres o más carencias sociales,60.3333,2.059266
+coneval,2020,lengua,Población indígena,Hombres,Privación social,Tres o más carencias sociales,63.8876,2.098335
+coneval,2022,lengua,Población indígena,Hombres,Privación social,Tres o más carencias sociales,67.747,2.45019
+coneval,2016,lengua,Resto de la población,Hombres,Privación social,Tres o más carencias sociales,18.5415,9.679851
+coneval,2018,lengua,Resto de la población,Hombres,Privación social,Tres o más carencias sociales,18.732,10.106676
+coneval,2020,lengua,Resto de la población,Hombres,Privación social,Tres o más carencias sociales,21.8483,12.138647
+coneval,2022,lengua,Resto de la población,Hombres,Privación social,Tres o más carencias sociales,22.9747,12.844483
+coneval,2016,lengua,Población indígena,Hombres,Pobreza,Vulnerable por carencias sociales,16.0351,0.534671
+coneval,2018,lengua,Población indígena,Hombres,Pobreza,Vulnerable por carencias sociales,17.7288,0.605111
+coneval,2020,lengua,Población indígena,Hombres,Pobreza,Vulnerable por carencias sociales,18.1425,0.595875
+coneval,2022,lengua,Población indígena,Hombres,Pobreza,Vulnerable por carencias sociales,24.8048,0.89711
+coneval,2016,lengua,Resto de la población,Hombres,Pobreza,Vulnerable por carencias sociales,26.9897,14.090358
+coneval,2018,lengua,Resto de la población,Hombres,Pobreza,Vulnerable por carencias sociales,28.2733,15.254615
+coneval,2020,lengua,Resto de la población,Hombres,Pobreza,Vulnerable por carencias sociales,25.446,14.137499
+coneval,2022,lengua,Resto de la población,Hombres,Pobreza,Vulnerable por carencias sociales,31.192,17.438553
+coneval,2016,lengua,Población indígena,Hombres,Pobreza,Vulnerable por ingresos,1.7482,0.058293
+coneval,2018,lengua,Población indígena,Hombres,Pobreza,Vulnerable por ingresos,1.7444,0.05954
+coneval,2020,lengua,Población indígena,Hombres,Pobreza,Vulnerable por ingresos,1.6765,0.055064
+coneval,2022,lengua,Población indígena,Hombres,Pobreza,Vulnerable por ingresos,1.7914,0.06479
+coneval,2016,lengua,Resto de la población,Hombres,Pobreza,Vulnerable por ingresos,7.6529,3.995306
+coneval,2018,lengua,Resto de la población,Hombres,Pobreza,Vulnerable por ingresos,8.1139,4.377799
+coneval,2020,lengua,Resto de la población,Hombres,Pobreza,Vulnerable por ingresos,8.8332,4.907638
+coneval,2022,lengua,Resto de la población,Hombres,Pobreza,Vulnerable por ingresos,7.2383,4.046722
+coneval,2016,lengua,Población indígena,Mujeres,Carencias,Acceso a la seguridad social,84.6866,2.956365
+coneval,2018,lengua,Población indígena,Mujeres,Carencias,Acceso a la seguridad social,82.3943,2.932926
+coneval,2020,lengua,Población indígena,Mujeres,Carencias,Acceso a la seguridad social,81.2017,2.906101
+coneval,2022,lengua,Población indígena,Mujeres,Carencias,Acceso a la seguridad social,77.4932,3.040706
+coneval,2016,lengua,Resto de la población,Mujeres,Carencias,Acceso a la seguridad social,51.1588,28.677188
+coneval,2018,lengua,Resto de la población,Mujeres,Carencias,Acceso a la seguridad social,50.4714,29.011143
+coneval,2020,lengua,Resto de la población,Mujeres,Carencias,Acceso a la seguridad social,48.7349,28.995559
+coneval,2022,lengua,Resto de la población,Mujeres,Carencias,Acceso a la seguridad social,46.9049,28.613522
+coneval,2016,lengua,Población indígena,Mujeres,Carencias,Acceso a los servicios de salud,11.0411,0.385438
+coneval,2018,lengua,Población indígena,Mujeres,Carencias,Acceso a los servicios de salud,10.0547,0.357911
+coneval,2020,lengua,Población indígena,Mujeres,Carencias,Acceso a los servicios de salud,27.9173,0.999123
+coneval,2022,lengua,Población indígena,Mujeres,Carencias,Acceso a los servicios de salud,57.1796,2.243632
+coneval,2016,lengua,Resto de la población,Mujeres,Carencias,Acceso a los servicios de salud,13.2506,7.427673
+coneval,2018,lengua,Resto de la población,Mujeres,Carencias,Acceso a los servicios de salud,13.9517,8.019462
+coneval,2020,lengua,Resto de la población,Mujeres,Carencias,Acceso a los servicios de salud,25.4781,15.158609
+coneval,2022,lengua,Resto de la población,Mujeres,Carencias,Acceso a los servicios de salud,35.8527,21.871325
+coneval,2016,lengua,Población indígena,Mujeres,Privación social,Al menos una carencia social,94.7867,3.308956
+coneval,2018,lengua,Población indígena,Mujeres,Privación social,Al menos una carencia social,93.2439,3.319132
+coneval,2020,lengua,Población indígena,Mujeres,Privación social,Al menos una carencia social,94.7345,3.39042
+coneval,2022,lengua,Población indígena,Mujeres,Privación social,Al menos una carencia social,93.6782,3.675777
+coneval,2016,lengua,Resto de la población,Mujeres,Privación social,Al menos una carencia social,66.5849,37.324355
+coneval,2018,lengua,Resto de la población,Mujeres,Privación social,Al menos una carencia social,66.4365,38.18794
+coneval,2020,lengua,Resto de la población,Mujeres,Privación social,Al menos una carencia social,65.2517,38.822507
+coneval,2022,lengua,Resto de la población,Mujeres,Privación social,Al menos una carencia social,63.2786,38.602017
+coneval,2016,lengua,Población indígena,Mujeres,Carencias,Alimentación nutritiva y de calidad,38.017,1.327153
+coneval,2018,lengua,Población indígena,Mujeres,Carencias,Alimentación nutritiva y de calidad,38.6978,1.377497
+coneval,2020,lengua,Población indígena,Mujeres,Carencias,Alimentación nutritiva y de calidad,37.7539,1.351161
+coneval,2022,lengua,Población indígena,Mujeres,Carencias,Alimentación nutritiva y de calidad,33.4302,1.311748
+coneval,2016,lengua,Resto de la población,Mujeres,Carencias,Alimentación nutritiva y de calidad,20.8825,11.705736
+coneval,2018,lengua,Resto de la población,Mujeres,Carencias,Alimentación nutritiva y de calidad,21.1146,12.136761
+coneval,2020,lengua,Resto de la población,Mujeres,Carencias,Alimentación nutritiva y de calidad,21.5147,12.800468
+coneval,2022,lengua,Resto de la población,Mujeres,Carencias,Alimentación nutritiva y de calidad,17.1632,10.47012
+coneval,2016,lengua,Población indígena,Mujeres,Carencias,Calidad y espacios de la vivienda,32.3241,1.128418
+coneval,2018,lengua,Población indígena,Mujeres,Carencias,Calidad y espacios de la vivienda,32.0505,1.140879
+coneval,2020,lengua,Población indígena,Mujeres,Carencias,Calidad y espacios de la vivienda,28.6885,1.026721
+coneval,2022,lengua,Población indígena,Mujeres,Carencias,Calidad y espacios de la vivienda,28.8481,1.131951
+coneval,2016,lengua,Resto de la población,Mujeres,Carencias,Calidad y espacios de la vivienda,10.1805,5.706712
+coneval,2018,lengua,Resto de la población,Mujeres,Carencias,Calidad y espacios de la vivienda,9.1048,5.233483
+coneval,2020,lengua,Resto de la población,Mujeres,Carencias,Calidad y espacios de la vivienda,7.7469,4.609142
+coneval,2022,lengua,Resto de la población,Mujeres,Carencias,Calidad y espacios de la vivienda,7.2949,4.450118
+coneval,2016,lengua,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,81.3297,2.839179
+coneval,2018,lengua,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,78.6052,2.79805
+coneval,2020,lengua,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,79.7347,2.853599
+coneval,2022,lengua,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,71.7047,2.813574
+coneval,2016,lengua,Resto de la población,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,49.2223,27.591679
+coneval,2018,lengua,Resto de la población,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,48.4665,27.85868
+coneval,2020,lengua,Resto de la población,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,51.5531,30.672328
+coneval,2022,lengua,Resto de la población,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,42.1725,25.726604
+coneval,2016,lengua,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,47.3038,1.651353
+coneval,2018,lengua,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,44.7498,1.592923
+coneval,2020,lengua,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,47.0194,1.68276
+coneval,2022,lengua,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,37.5167,1.472092
+coneval,2016,lengua,Resto de la población,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,12.8689,7.213682
+coneval,2018,lengua,Resto de la población,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,12.0358,6.918198
+coneval,2020,lengua,Resto de la población,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,15.5824,9.270961
+coneval,2022,lengua,Resto de la población,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,10.4372,6.367015
+coneval,2016,lengua,Población indígena,Mujeres,Pobreza,No pobre y no vulnerable,4.2663,0.148936
+coneval,2018,lengua,Población indígena,Mujeres,Pobreza,No pobre y no vulnerable,4.7543,0.169234
+coneval,2020,lengua,Población indígena,Mujeres,Pobreza,No pobre y no vulnerable,3.8011,0.136035
+coneval,2022,lengua,Población indígena,Mujeres,Pobreza,No pobre y no vulnerable,4.7526,0.186486
+coneval,2016,lengua,Resto de la población,Mujeres,Pobreza,No pobre y no vulnerable,25.3856,14.229957
+coneval,2018,lengua,Resto de la población,Mujeres,Pobreza,No pobre y no vulnerable,25.1722,14.46909
+coneval,2020,lengua,Resto de la población,Mujeres,Pobreza,No pobre y no vulnerable,25.1491,14.962852
+coneval,2022,lengua,Resto de la población,Mujeres,Pobreza,No pobre y no vulnerable,28.9782,17.677685
+coneval,2016,lengua,Población indígena,Mujeres,Pobreza,Pobreza,80.3828,2.806122
+coneval,2018,lengua,Población indígena,Mujeres,Pobreza,Pobreza,76.6034,2.726792
+coneval,2020,lengua,Población indígena,Mujeres,Pobreza,Pobreza,78.2703,2.801189
+coneval,2022,lengua,Población indígena,Mujeres,Pobreza,Pobreza,70.1355,2.752001
+coneval,2016,lengua,Resto de la población,Mujeres,Pobreza,Pobreza,41.1927,23.090701
+coneval,2018,lengua,Resto de la población,Mujeres,Pobreza,Pobreza,40.0753,23.035386
+coneval,2020,lengua,Resto de la población,Mujeres,Pobreza,Pobreza,41.954,24.961171
+coneval,2022,lengua,Resto de la población,Mujeres,Pobreza,Pobreza,34.4293,21.002997
+coneval,2016,lengua,Población indígena,Mujeres,Pobreza,Pobreza extrema,35.6044,1.242933
+coneval,2018,lengua,Población indígena,Mujeres,Pobreza,Pobreza extrema,35.311,1.25694
+coneval,2020,lengua,Población indígena,Mujeres,Pobreza,Pobreza extrema,36.1663,1.294343
+coneval,2022,lengua,Población indígena,Mujeres,Pobreza,Pobreza extrema,32.4062,1.271565
+coneval,2016,lengua,Resto de la población,Mujeres,Pobreza,Pobreza extrema,5.3781,3.0147
+coneval,2018,lengua,Resto de la población,Mujeres,Pobreza,Pobreza extrema,5.1597,2.965793
+coneval,2020,lengua,Resto de la población,Mujeres,Pobreza,Pobreza extrema,6.7032,3.988142
+coneval,2022,lengua,Resto de la población,Mujeres,Pobreza,Pobreza extrema,5.3882,3.286961
+coneval,2016,lengua,Población indígena,Mujeres,Pobreza,Pobreza moderada,44.7783,1.563189
+coneval,2018,lengua,Población indígena,Mujeres,Pobreza,Pobreza moderada,41.2923,1.469852
+coneval,2020,lengua,Población indígena,Mujeres,Pobreza,Pobreza moderada,42.104,1.506846
+coneval,2022,lengua,Población indígena,Mujeres,Pobreza,Pobreza moderada,37.7293,1.480436
+coneval,2016,lengua,Resto de la población,Mujeres,Pobreza,Pobreza moderada,35.8146,20.076001
+coneval,2018,lengua,Resto de la población,Mujeres,Pobreza,Pobreza moderada,34.9156,20.069593
+coneval,2020,lengua,Resto de la población,Mujeres,Pobreza,Pobreza moderada,35.2509,20.973029
+coneval,2022,lengua,Resto de la población,Mujeres,Pobreza,Pobreza moderada,29.0411,17.716036
+coneval,2016,lengua,Población indígena,Mujeres,Carencias,Rezago educativo,49.1454,1.715641
+coneval,2018,lengua,Población indígena,Mujeres,Carencias,Rezago educativo,49.2253,1.752236
+coneval,2020,lengua,Población indígena,Mujeres,Carencias,Rezago educativo,50.5535,1.809243
+coneval,2022,lengua,Población indígena,Mujeres,Carencias,Rezago educativo,50.3437,1.975406
+coneval,2016,lengua,Resto de la población,Mujeres,Carencias,Rezago educativo,18.0062,10.093446
+coneval,2018,lengua,Resto de la población,Mujeres,Carencias,Rezago educativo,18.5134,10.641576
+coneval,2020,lengua,Resto de la población,Mujeres,Carencias,Rezago educativo,18.2107,10.834759
+coneval,2022,lengua,Resto de la población,Mujeres,Carencias,Rezago educativo,18.3161,11.17344
+coneval,2016,lengua,Población indígena,Mujeres,Carencias,Servicios básicos en la vivienda,65.2996,2.279576
+coneval,2018,lengua,Población indígena,Mujeres,Carencias,Servicios básicos en la vivienda,66.3378,2.361378
+coneval,2020,lengua,Población indígena,Mujeres,Carencias,Servicios básicos en la vivienda,67.1821,2.404356
+coneval,2022,lengua,Población indígena,Mujeres,Carencias,Servicios básicos en la vivienda,66.2674,2.600223
+coneval,2016,lengua,Resto de la población,Mujeres,Carencias,Servicios básicos en la vivienda,15.8513,8.885505
+coneval,2018,lengua,Resto de la población,Mujeres,Carencias,Servicios básicos en la vivienda,16.3127,9.376596
+coneval,2020,lengua,Resto de la población,Mujeres,Carencias,Servicios básicos en la vivienda,14.5247,8.641719
+coneval,2022,lengua,Resto de la población,Mujeres,Carencias,Servicios básicos en la vivienda,14.1647,8.640906
+coneval,2016,lengua,Población indígena,Mujeres,Privación social,Tres o más carencias sociales,60.8109,2.122878
+coneval,2018,lengua,Población indígena,Mujeres,Privación social,Tres o más carencias sociales,60.3431,2.147986
+coneval,2020,lengua,Población indígena,Mujeres,Privación social,Tres o más carencias sociales,64.0044,2.290632
+coneval,2022,lengua,Población indígena,Mujeres,Privación social,Tres o más carencias sociales,68.5923,2.691451
+coneval,2016,lengua,Resto de la población,Mujeres,Privación social,Tres o más carencias sociales,16.5565,9.280815
+coneval,2018,lengua,Resto de la población,Mujeres,Privación social,Tres o más carencias sociales,16.6871,9.591799
+coneval,2020,lengua,Resto de la población,Mujeres,Privación social,Tres o más carencias sociales,19.3236,11.496858
+coneval,2022,lengua,Resto de la población,Mujeres,Privación social,Tres o más carencias sociales,21.0445,12.837832
+coneval,2016,lengua,Población indígena,Mujeres,Pobreza,Vulnerable por carencias sociales,14.4039,0.502834
+coneval,2018,lengua,Población indígena,Mujeres,Pobreza,Vulnerable por carencias sociales,16.6405,0.59234
+coneval,2020,lengua,Población indígena,Mujeres,Pobreza,Vulnerable por carencias sociales,16.4642,0.589231
+coneval,2022,lengua,Población indígena,Mujeres,Pobreza,Vulnerable por carencias sociales,23.5427,0.923776
+coneval,2016,lengua,Resto de la población,Mujeres,Pobreza,Vulnerable por carencias sociales,25.3922,14.233654
+coneval,2018,lengua,Resto de la población,Mujeres,Pobreza,Vulnerable por carencias sociales,26.3613,15.152554
+coneval,2020,lengua,Resto de la población,Mujeres,Pobreza,Vulnerable por carencias sociales,23.2977,13.861336
+coneval,2022,lengua,Resto de la población,Mujeres,Pobreza,Vulnerable por carencias sociales,28.8493,17.59902
+coneval,2016,lengua,Población indígena,Mujeres,Pobreza,Vulnerable por ingresos,0.9469,0.033057
+coneval,2018,lengua,Población indígena,Mujeres,Pobreza,Vulnerable por ingresos,2.0018,0.071258
+coneval,2020,lengua,Población indígena,Mujeres,Pobreza,Vulnerable por ingresos,1.4644,0.05241
+coneval,2022,lengua,Población indígena,Mujeres,Pobreza,Vulnerable por ingresos,1.5692,0.061573
+coneval,2016,lengua,Resto de la población,Mujeres,Pobreza,Vulnerable por ingresos,8.0295,4.500978
+coneval,2018,lengua,Resto de la población,Mujeres,Pobreza,Vulnerable por ingresos,8.3912,4.823294
+coneval,2020,lengua,Resto de la población,Mujeres,Pobreza,Vulnerable por ingresos,9.5991,5.711157
+coneval,2022,lengua,Resto de la población,Mujeres,Pobreza,Vulnerable por ingresos,7.7432,4.723607
+coneval,2016,lengua,Población indígena,Total,Carencias,Acceso a la seguridad social,84.168,5.744746
+coneval,2018,lengua,Población indígena,Total,Carencias,Acceso a la seguridad social,82.6693,5.764342
+coneval,2020,lengua,Población indígena,Total,Carencias,Acceso a la seguridad social,80.8659,5.550058
+coneval,2022,lengua,Población indígena,Total,Carencias,Acceso a la seguridad social,77.5475,5.847478
+coneval,2016,lengua,Resto de la población,Total,Carencias,Acceso a la seguridad social,51.9015,56.189391
+coneval,2018,lengua,Resto de la población,Total,Carencias,Acceso a la seguridad social,51.3107,57.177788
+coneval,2020,lengua,Resto de la población,Total,Carencias,Acceso a la seguridad social,49.9803,57.505031
+coneval,2022,lengua,Resto de la población,Total,Carencias,Acceso a la seguridad social,47.9894,56.104683
+coneval,2016,lengua,Población indígena,Total,Carencias,Acceso a los servicios de salud,13.272,0.905859
+coneval,2018,lengua,Población indígena,Total,Carencias,Acceso a los servicios de salud,13.2183,0.921679
+coneval,2020,lengua,Población indígena,Total,Carencias,Acceso a los servicios de salud,30.9358,2.123214
+coneval,2022,lengua,Población indígena,Total,Carencias,Acceso a los servicios de salud,59.3713,4.476899
+coneval,2016,lengua,Resto de la población,Total,Carencias,Acceso a los servicios de salud,15.5022,16.782934
+coneval,2018,lengua,Resto de la población,Total,Carencias,Acceso a los servicios de salud,16.1357,17.980788
+coneval,2020,lengua,Resto de la población,Total,Carencias,Acceso a los servicios de salud,27.6996,31.869931
+coneval,2022,lengua,Resto de la población,Total,Carencias,Acceso a los servicios de salud,37.4356,43.766188
+coneval,2016,lengua,Población indígena,Total,Privación social,Al menos una carencia social,93.8069,6.402632
+coneval,2018,lengua,Población indígena,Total,Privación social,Al menos una carencia social,93.0141,6.485666
+coneval,2020,lengua,Población indígena,Total,Privación social,Al menos una carencia social,94.0401,6.454235
+coneval,2022,lengua,Población indígena,Total,Privación social,Al menos una carencia social,93.0157,7.013861
+coneval,2016,lengua,Resto de la población,Total,Privación social,Al menos una carencia social,66.7617,72.277316
+coneval,2018,lengua,Resto de la población,Total,Privación social,Al menos una carencia social,66.6188,74.23632
+coneval,2020,lengua,Resto de la población,Total,Privación social,Al menos una carencia social,65.8563,75.77123
+coneval,2022,lengua,Resto de la población,Total,Privación social,Al menos una carencia social,63.7481,74.52822
+coneval,2016,lengua,Población indígena,Total,Carencias,Alimentación nutritiva y de calidad,37.2935,2.545403
+coneval,2018,lengua,Población indígena,Total,Carencias,Alimentación nutritiva y de calidad,38.9571,2.71639
+coneval,2020,lengua,Población indígena,Total,Carencias,Alimentación nutritiva y de calidad,37.8573,2.598255
+coneval,2022,lengua,Población indígena,Total,Carencias,Alimentación nutritiva y de calidad,33.4104,2.519318
+coneval,2016,lengua,Resto de la población,Total,Carencias,Alimentación nutritiva y de calidad,20.9088,22.636187
+coneval,2018,lengua,Resto de la población,Total,Carencias,Alimentación nutritiva y de calidad,21.1614,23.581099
+coneval,2020,lengua,Resto de la población,Total,Carencias,Alimentación nutritiva y de calidad,21.563,24.809365
+coneval,2022,lengua,Resto de la población,Total,Carencias,Alimentación nutritiva y de calidad,17.1167,20.011217
+coneval,2016,lengua,Población indígena,Total,Carencias,Calidad y espacios de la vivienda,32.8556,2.242502
+coneval,2018,lengua,Población indígena,Total,Carencias,Calidad y espacios de la vivienda,32.302,2.252345
+coneval,2020,lengua,Población indígena,Total,Carencias,Calidad y espacios de la vivienda,28.8351,1.979031
+coneval,2022,lengua,Población indígena,Total,Carencias,Calidad y espacios de la vivienda,29.563,2.229202
+coneval,2016,lengua,Resto de la población,Total,Carencias,Calidad y espacios de la vivienda,10.3178,11.170178
+coneval,2018,lengua,Resto de la población,Total,Carencias,Calidad y espacios de la vivienda,9.35,10.419094
+coneval,2020,lengua,Resto de la población,Total,Carencias,Calidad y espacios de la vivienda,7.893,9.081316
+coneval,2022,lengua,Resto de la población,Total,Carencias,Calidad y espacios de la vivienda,7.448,8.707492
+coneval,2016,lengua,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,79.9445,5.456477
+coneval,2018,lengua,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,77.7167,5.419013
+coneval,2020,lengua,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,78.3387,5.376603
+coneval,2022,lengua,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,70.5435,5.319338
+coneval,2016,lengua,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,48.4471,52.449588
+coneval,2018,lengua,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,47.5887,53.030244
+coneval,2020,lengua,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,50.7505,58.39119
+coneval,2022,lengua,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,41.2803,48.260976
+coneval,2016,lengua,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,46.432,3.169137
+coneval,2018,lengua,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,44.3598,3.093112
+coneval,2020,lengua,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,46.4,3.184564
+coneval,2022,lengua,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,36.9457,2.785897
+coneval,2016,lengua,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,12.6061,13.647567
+coneval,2018,lengua,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,11.8264,13.178635
+coneval,2020,lengua,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,15.2701,17.569104
+coneval,2022,lengua,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,10.1562,11.873705
+coneval,2016,lengua,Población indígena,Total,Pobreza,No pobre y no vulnerable,4.8547,0.331347
+coneval,2018,lengua,Población indígena,Total,Pobreza,No pobre y no vulnerable,5.11,0.35631
+coneval,2020,lengua,Población indígena,Total,Pobreza,No pobre y no vulnerable,4.394,0.301573
+coneval,2022,lengua,Población indígena,Total,Pobreza,No pobre y no vulnerable,5.3085,0.400287
+coneval,2016,lengua,Resto de la población,Total,Pobreza,No pobre y no vulnerable,25.3904,27.488056
+coneval,2018,lengua,Resto de la población,Total,Pobreza,No pobre y no vulnerable,25.1242,27.997066
+coneval,2020,lengua,Resto de la población,Total,Pobreza,No pobre y no vulnerable,24.9144,28.66535
+coneval,2022,lengua,Resto de la población,Total,Pobreza,No pobre y no vulnerable,28.7502,33.611948
+coneval,2016,lengua,Población indígena,Total,Pobreza,Pobreza,78.6061,5.365127
+coneval,2018,lengua,Población indígena,Total,Pobreza,Pobreza,75.8409,5.288215
+coneval,2020,lengua,Población indígena,Total,Pobreza,Pobreza,76.7727,5.269129
+coneval,2022,lengua,Población indígena,Total,Pobreza,Pobreza,68.8677,5.192975
+coneval,2024,lengua,Población indígena,Total,Pobreza,Pobreza,66.3,
+coneval,2016,lengua,Resto de la población,Total,Pobreza,Pobreza,40.5991,43.953304
+coneval,2018,lengua,Resto de la población,Total,Pobreza,Pobreza,39.3318,43.829151
+coneval,2020,lengua,Resto de la población,Total,Pobreza,Pobreza,41.5212,47.772395
+coneval,2022,lengua,Resto de la población,Total,Pobreza,Pobreza,33.7785,39.490647
+coneval,2024,lengua,Resto de la población,Total,Pobreza,Pobreza,26.7,
+coneval,2016,lengua,Población indígena,Total,Pobreza,Pobreza extrema,34.7085,2.36897
+coneval,2018,lengua,Población indígena,Total,Pobreza,Pobreza extrema,35.1078,2.44799
+coneval,2020,lengua,Población indígena,Total,Pobreza,Pobreza extrema,35.7274,2.45207
+coneval,2022,lengua,Población indígena,Total,Pobreza,Pobreza extrema,32.0008,2.413021
+coneval,2016,lengua,Resto de la población,Total,Pobreza,Pobreza extrema,5.4095,5.856449
+coneval,2018,lengua,Resto de la población,Total,Pobreza,Pobreza extrema,5.1721,5.763477
+coneval,2020,lengua,Resto de la población,Total,Pobreza,Pobreza extrema,6.794,7.816812
+coneval,2022,lengua,Resto de la población,Total,Pobreza,Pobreza extrema,5.2706,6.161918
+coneval,2016,lengua,Población indígena,Total,Pobreza,Pobreza moderada,43.8976,2.996157
+coneval,2018,lengua,Población indígena,Total,Pobreza,Pobreza moderada,40.7331,2.840225
+coneval,2020,lengua,Población indígena,Total,Pobreza,Pobreza moderada,41.0454,2.817059
+coneval,2022,lengua,Población indígena,Total,Pobreza,Pobreza moderada,36.8669,2.779954
+coneval,2016,lengua,Resto de la población,Total,Pobreza,Pobreza moderada,35.1896,38.096855
+coneval,2018,lengua,Resto de la población,Total,Pobreza,Pobreza moderada,34.1597,38.065674
+coneval,2020,lengua,Resto de la población,Total,Pobreza,Pobreza moderada,34.7273,39.955583
+coneval,2022,lengua,Resto de la población,Total,Pobreza,Pobreza moderada,28.5079,33.328729
+coneval,2016,lengua,Población indígena,Total,Carencias,Rezago educativo,44.4389,3.033101
+coneval,2018,lengua,Población indígena,Total,Carencias,Rezago educativo,45.8046,3.193849
+coneval,2020,lengua,Población indígena,Total,Carencias,Rezago educativo,46.9635,3.223239
+coneval,2022,lengua,Población indígena,Total,Carencias,Rezago educativo,46.3944,3.498372
+coneval,2016,lengua,Resto de la población,Total,Carencias,Rezago educativo,17.7957,19.265876
+coneval,2018,lengua,Resto de la población,Total,Carencias,Rezago educativo,18.2452,20.331413
+coneval,2020,lengua,Resto de la población,Total,Carencias,Rezago educativo,18.4034,21.174158
+coneval,2022,lengua,Resto de la población,Total,Carencias,Rezago educativo,18.4401,21.558411
+coneval,2016,lengua,Población indígena,Total,Carencias,Servicios básicos en la vivienda,64.3954,4.395201
+coneval,2018,lengua,Población indígena,Total,Carencias,Servicios básicos en la vivienda,66.3886,4.629125
+coneval,2020,lengua,Población indígena,Total,Carencias,Servicios básicos en la vivienda,67.418,4.627087
+coneval,2022,lengua,Población indígena,Total,Carencias,Servicios básicos en la vivienda,66.5922,5.021391
+coneval,2016,lengua,Resto de la población,Total,Carencias,Servicios básicos en la vivienda,16.1193,17.451068
+coneval,2018,lengua,Resto de la población,Total,Carencias,Servicios básicos en la vivienda,16.497,18.383344
+coneval,2020,lengua,Resto de la población,Total,Carencias,Servicios básicos en la vivienda,14.7701,16.993813
+coneval,2022,lengua,Resto de la población,Total,Carencias,Servicios básicos en la vivienda,14.4204,16.858957
+coneval,2016,lengua,Población indígena,Total,Privación social,Tres o más carencias sociales,59.411,4.054993
+coneval,2018,lengua,Población indígena,Total,Privación social,Tres o más carencias sociales,60.3383,4.207252
+coneval,2020,lengua,Población indígena,Total,Privación social,Tres o más carencias sociales,63.9485,4.388967
+coneval,2022,lengua,Población indígena,Total,Privación social,Tres o más carencias sociales,68.1869,5.141641
+coneval,2016,lengua,Resto de la población,Total,Privación social,Tres o más carencias sociales,17.5137,18.960666
+coneval,2018,lengua,Resto de la población,Total,Privación social,Tres o más carencias sociales,17.6772,19.698475
+coneval,2020,lengua,Resto de la población,Total,Privación social,Tres o más carencias sociales,20.5427,23.635505
+coneval,2022,lengua,Resto de la población,Total,Privación social,Tres o más carencias sociales,21.9675,25.682315
+coneval,2016,lengua,Población indígena,Total,Pobreza,Vulnerable por carencias sociales,15.2008,1.037505
+coneval,2018,lengua,Población indígena,Total,Pobreza,Vulnerable por carencias sociales,17.1732,1.197451
+coneval,2020,lengua,Población indígena,Total,Pobreza,Vulnerable por carencias sociales,17.2673,1.185106
+coneval,2022,lengua,Población indígena,Total,Pobreza,Vulnerable por carencias sociales,24.148,1.820886
+coneval,2016,lengua,Resto de la población,Total,Pobreza,Vulnerable por carencias sociales,26.1626,28.324012
+coneval,2018,lengua,Resto de la población,Total,Pobreza,Vulnerable por carencias sociales,27.287,30.407169
+coneval,2020,lengua,Resto de la población,Total,Pobreza,Vulnerable por carencias sociales,24.3351,27.998835
+coneval,2022,lengua,Resto de la población,Total,Pobreza,Vulnerable por carencias sociales,29.9696,35.037573
+coneval,2016,lengua,Población indígena,Total,Pobreza,Vulnerable por ingresos,1.3384,0.09135
+coneval,2018,lengua,Población indígena,Total,Pobreza,Vulnerable por ingresos,1.8758,0.130798
+coneval,2020,lengua,Población indígena,Total,Pobreza,Vulnerable por ingresos,1.5659,0.107474
+coneval,2022,lengua,Población indígena,Total,Pobreza,Vulnerable por ingresos,1.6758,0.126363
+coneval,2016,lengua,Resto de la población,Total,Pobreza,Vulnerable por ingresos,7.8479,8.496284
+coneval,2018,lengua,Resto de la población,Total,Pobreza,Vulnerable por ingresos,8.257,9.201093
+coneval,2020,lengua,Resto de la población,Total,Pobreza,Vulnerable por ingresos,9.2293,10.618795
+coneval,2022,lengua,Resto de la población,Total,Pobreza,Vulnerable por ingresos,7.5017,8.770329
+coneval,2016,pertenencia,Población indígena,Hombres,Carencias,Acceso a la seguridad social,78.9217,4.324299
+coneval,2018,pertenencia,Población indígena,Hombres,Carencias,Acceso a la seguridad social,77.9311,4.56133
+coneval,2020,pertenencia,Población indígena,Hombres,Carencias,Acceso a la seguridad social,77.1951,4.377537
+coneval,2022,pertenencia,Población indígena,Hombres,Carencias,Acceso a la seguridad social,74.9721,4.587654
+coneval,2016,pertenencia,Población indígena,Hombres,Carencias,Acceso a los servicios de salud,17.4046,0.953636
+coneval,2018,pertenencia,Población indígena,Hombres,Carencias,Acceso a los servicios de salud,18.2484,1.068084
+coneval,2020,pertenencia,Población indígena,Hombres,Carencias,Acceso a los servicios de salud,35.4022,2.00757
+coneval,2022,pertenencia,Población indígena,Hombres,Carencias,Acceso a los servicios de salud,58.6667,3.5899
+coneval,2016,pertenencia,Población indígena,Hombres,Privación social,Al menos una carencia social,89.8803,4.924751
+coneval,2018,pertenencia,Población indígena,Hombres,Privación social,Al menos una carencia social,89.4098,5.233183
+coneval,2020,pertenencia,Población indígena,Hombres,Privación social,Al menos una carencia social,90.473,5.130494
+coneval,2022,pertenencia,Población indígena,Hombres,Privación social,Al menos una carencia social,89.504,5.476886
+coneval,2016,pertenencia,Población indígena,Hombres,Carencias,Alimentación nutritiva y de calidad,35.3307,1.93585
+coneval,2018,pertenencia,Población indígena,Hombres,Carencias,Alimentación nutritiva y de calidad,36.0508,2.110064
+coneval,2020,pertenencia,Población indígena,Hombres,Carencias,Alimentación nutritiva y de calidad,36.3409,2.0608
+coneval,2022,pertenencia,Población indígena,Hombres,Carencias,Alimentación nutritiva y de calidad,30.5248,1.867857
+coneval,2016,pertenencia,Población indígena,Hombres,Carencias,Calidad y espacios de la vivienda,30.3341,1.662075
+coneval,2018,pertenencia,Población indígena,Hombres,Carencias,Calidad y espacios de la vivienda,28.597,1.673793
+coneval,2020,pertenencia,Población indígena,Hombres,Carencias,Calidad y espacios de la vivienda,25.7795,1.461891
+coneval,2022,pertenencia,Población indígena,Hombres,Carencias,Calidad y espacios de la vivienda,26.9621,1.649853
+coneval,2016,pertenencia,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,74.5121,4.082687
+coneval,2018,pertenencia,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,72.477,4.242101
+coneval,2020,pertenencia,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,74.9627,4.250946
+coneval,2022,pertenencia,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza,67.3607,4.121903
+coneval,2016,pertenencia,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,38.1682,2.091326
+coneval,2018,pertenencia,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,35.7436,2.092083
+coneval,2020,pertenencia,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,40.3597,2.288697
+coneval,2022,pertenencia,Población indígena,Hombres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,31.09,1.902444
+coneval,2016,pertenencia,Población indígena,Hombres,Pobreza,No pobre y no vulnerable,7.3306,0.401659
+coneval,2018,pertenencia,Población indígena,Hombres,Pobreza,No pobre y no vulnerable,7.5912,0.444316
+coneval,2020,pertenencia,Población indígena,Hombres,Pobreza,No pobre y no vulnerable,6.5289,0.370235
+coneval,2022,pertenencia,Población indígena,Hombres,Pobreza,No pobre y no vulnerable,7.6118,0.465778
+coneval,2016,pertenencia,Población indígena,Hombres,Pobreza,Pobreza,71.723,3.929867
+coneval,2018,pertenencia,Población indígena,Hombres,Pobreza,Pobreza,69.478,4.066568
+coneval,2020,pertenencia,Población indígena,Hombres,Pobreza,Pobreza,71.9646,4.080929
+coneval,2022,pertenencia,Población indígena,Hombres,Pobreza,Pobreza,64.4766,3.945418
+coneval,2016,pertenencia,Población indígena,Hombres,Pobreza,Pobreza extrema,27.1088,1.485354
+coneval,2018,pertenencia,Población indígena,Hombres,Pobreza,Pobreza extrema,26.823,1.56996
+coneval,2020,pertenencia,Población indígena,Hombres,Pobreza,Pobreza extrema,28.5163,1.617087
+coneval,2022,pertenencia,Población indígena,Hombres,Pobreza,Pobreza extrema,25.7289,1.574389
+coneval,2016,pertenencia,Población indígena,Hombres,Pobreza,Pobreza moderada,44.6142,2.444513
+coneval,2018,pertenencia,Población indígena,Hombres,Pobreza,Pobreza moderada,42.655,2.496608
+coneval,2020,pertenencia,Población indígena,Hombres,Pobreza,Pobreza moderada,43.4483,2.463842
+coneval,2022,pertenencia,Población indígena,Hombres,Pobreza,Pobreza moderada,38.7477,2.371029
+coneval,2016,pertenencia,Población indígena,Hombres,Carencias,Rezago educativo,29.9616,1.641666
+coneval,2018,pertenencia,Población indígena,Hombres,Carencias,Rezago educativo,31.2706,1.830281
+coneval,2020,pertenencia,Población indígena,Hombres,Carencias,Rezago educativo,32.8082,1.860467
+coneval,2022,pertenencia,Población indígena,Hombres,Carencias,Rezago educativo,32.7655,2.004972
+coneval,2016,pertenencia,Población indígena,Hombres,Carencias,Servicios básicos en la vivienda,55.7261,3.053363
+coneval,2018,pertenencia,Población indígena,Hombres,Carencias,Servicios básicos en la vivienda,57.5033,3.365685
+coneval,2020,pertenencia,Población indígena,Hombres,Carencias,Servicios básicos en la vivienda,57.6393,3.268579
+coneval,2022,pertenencia,Población indígena,Hombres,Carencias,Servicios básicos en la vivienda,58.2215,3.562662
+coneval,2016,pertenencia,Población indígena,Hombres,Privación social,Tres o más carencias sociales,49.9804,2.738543
+coneval,2018,pertenencia,Población indígena,Hombres,Privación social,Tres o más carencias sociales,50.7356,2.969571
+coneval,2020,pertenencia,Población indígena,Hombres,Privación social,Tres o más carencias sociales,55.2791,3.134739
+coneval,2022,pertenencia,Población indígena,Hombres,Privación social,Tres o más carencias sociales,59.7261,3.654727
+coneval,2016,pertenencia,Población indígena,Hombres,Pobreza,Vulnerable por carencias sociales,18.1574,0.994884
+coneval,2018,pertenencia,Población indígena,Hombres,Pobreza,Vulnerable por carencias sociales,19.9318,1.166615
+coneval,2020,pertenencia,Población indígena,Hombres,Pobreza,Vulnerable por carencias sociales,18.5084,1.049565
+coneval,2022,pertenencia,Población indígena,Hombres,Pobreza,Vulnerable por carencias sociales,25.0275,1.531468
+coneval,2016,pertenencia,Población indígena,Hombres,Pobreza,Vulnerable por ingresos,2.7891,0.15282
+coneval,2018,pertenencia,Población indígena,Hombres,Pobreza,Vulnerable por ingresos,2.999,0.175533
+coneval,2020,pertenencia,Población indígena,Hombres,Pobreza,Vulnerable por ingresos,2.9981,0.170017
+coneval,2022,pertenencia,Población indígena,Hombres,Pobreza,Vulnerable por ingresos,2.8841,0.176485
+coneval,2016,pertenencia,Población indígena,Mujeres,Carencias,Acceso a la seguridad social,79.5136,4.618826
+coneval,2018,pertenencia,Población indígena,Mujeres,Carencias,Acceso a la seguridad social,77.5907,4.668078
+coneval,2020,pertenencia,Población indígena,Mujeres,Carencias,Acceso a la seguridad social,77.1242,4.62314
+coneval,2022,pertenencia,Población indígena,Mujeres,Carencias,Acceso a la seguridad social,75.0573,4.945449
+coneval,2016,pertenencia,Población indígena,Mujeres,Carencias,Acceso a los servicios de salud,12.8955,0.749079
+coneval,2018,pertenencia,Población indígena,Mujeres,Carencias,Acceso a los servicios de salud,12.5277,0.753701
+coneval,2020,pertenencia,Población indígena,Mujeres,Carencias,Acceso a los servicios de salud,30.3333,1.818301
+coneval,2022,pertenencia,Población indígena,Mujeres,Carencias,Acceso a los servicios de salud,55.3153,3.644666
+coneval,2016,pertenencia,Población indígena,Mujeres,Privación social,Al menos una carencia social,90.864,5.278155
+coneval,2018,pertenencia,Población indígena,Mujeres,Privación social,Al menos una carencia social,89.8588,5.406163
+coneval,2020,pertenencia,Población indígena,Mujeres,Privación social,Al menos una carencia social,91.0209,5.456168
+coneval,2022,pertenencia,Población indígena,Mujeres,Privación social,Al menos una carencia social,89.9429,5.926243
+coneval,2016,pertenencia,Población indígena,Mujeres,Carencias,Alimentación nutritiva y de calidad,35.4914,2.061641
+coneval,2018,pertenencia,Población indígena,Mujeres,Carencias,Alimentación nutritiva y de calidad,35.7858,2.152976
+coneval,2020,pertenencia,Población indígena,Mujeres,Carencias,Alimentación nutritiva y de calidad,36.007,2.158409
+coneval,2022,pertenencia,Población indígena,Mujeres,Carencias,Alimentación nutritiva y de calidad,30.4032,2.003234
+coneval,2016,pertenencia,Población indígena,Mujeres,Carencias,Calidad y espacios de la vivienda,29.8314,1.732863
+coneval,2018,pertenencia,Población indígena,Mujeres,Carencias,Calidad y espacios de la vivienda,28.151,1.693646
+coneval,2020,pertenencia,Población indígena,Mujeres,Carencias,Calidad y espacios de la vivienda,25.5068,1.52898
+coneval,2022,pertenencia,Población indígena,Mujeres,Carencias,Calidad y espacios de la vivienda,25.8775,1.70504
+coneval,2016,pertenencia,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,76.8017,4.461295
+coneval,2018,pertenencia,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,74.4678,4.480197
+coneval,2020,pertenencia,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,77.2807,4.632523
+coneval,2022,pertenencia,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza,68.6854,4.525609
+coneval,2016,pertenencia,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,39.3765,2.287323
+coneval,2018,pertenencia,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,36.708,2.208456
+coneval,2020,pertenencia,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,42.1762,2.528212
+coneval,2022,pertenencia,Población indígena,Mujeres,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,32.43,2.13678
+coneval,2016,pertenencia,Población indígena,Mujeres,Pobreza,No pobre y no vulnerable,6.515,0.378448
+coneval,2018,pertenencia,Población indígena,Mujeres,Pobreza,No pobre y no vulnerable,6.7944,0.408768
+coneval,2020,pertenencia,Población indígena,Mujeres,Pobreza,No pobre y no vulnerable,6.0254,0.36119
+coneval,2022,pertenencia,Población indígena,Mujeres,Pobreza,No pobre y no vulnerable,7.3334,0.483192
+coneval,2016,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza,74.1808,4.309049
+coneval,2018,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza,71.121,4.278843
+coneval,2020,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza,74.3271,4.455472
+coneval,2022,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza,65.9617,4.346147
+coneval,2016,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza extrema,28.0995,1.63226
+coneval,2018,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza extrema,27.4296,1.650244
+coneval,2020,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza extrema,29.8124,1.787078
+coneval,2022,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza extrema,26.777,1.764309
+coneval,2016,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza moderada,46.0812,2.676789
+coneval,2018,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza moderada,43.6914,2.628599
+coneval,2020,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza moderada,44.5147,2.668394
+coneval,2022,pertenencia,Población indígena,Mujeres,Pobreza,Pobreza moderada,39.1847,2.581838
+coneval,2016,pertenencia,Población indígena,Mujeres,Carencias,Rezago educativo,35.4098,2.056899
+coneval,2018,pertenencia,Población indígena,Mujeres,Carencias,Rezago educativo,35.6523,2.144944
+coneval,2020,pertenencia,Población indígena,Mujeres,Carencias,Rezago educativo,37.2777,2.234576
+coneval,2022,pertenencia,Población indígena,Mujeres,Carencias,Rezago educativo,37.6733,2.482254
+coneval,2016,pertenencia,Población indígena,Mujeres,Carencias,Servicios básicos en la vivienda,56.4,3.276192
+coneval,2018,pertenencia,Población indígena,Mujeres,Carencias,Servicios básicos en la vivienda,57.2514,3.444407
+coneval,2020,pertenencia,Población indígena,Mujeres,Carencias,Servicios básicos en la vivienda,58.0927,3.482317
+coneval,2022,pertenencia,Población indígena,Mujeres,Carencias,Servicios básicos en la vivienda,57.707,3.802258
+coneval,2016,pertenencia,Población indígena,Mujeres,Privación social,Tres o más carencias sociales,50.9664,2.960559
+coneval,2018,pertenencia,Población indígena,Mujeres,Privación social,Tres o más carencias sociales,49.9466,3.004931
+coneval,2020,pertenencia,Población indígena,Mujeres,Privación social,Tres o más carencias sociales,55.1023,3.303056
+coneval,2022,pertenencia,Población indígena,Mujeres,Privación social,Tres o más carencias sociales,60.1715,3.964635
+coneval,2016,pertenencia,Población indígena,Mujeres,Pobreza,Vulnerable por carencias sociales,16.6833,0.969106
+coneval,2018,pertenencia,Población indígena,Mujeres,Pobreza,Vulnerable por carencias sociales,18.7378,1.12732
+coneval,2020,pertenencia,Población indígena,Mujeres,Pobreza,Vulnerable por carencias sociales,16.6938,1.000696
+coneval,2022,pertenencia,Población indígena,Mujeres,Pobreza,Vulnerable por carencias sociales,23.9812,1.580096
+coneval,2016,pertenencia,Población indígena,Mujeres,Pobreza,Vulnerable por ingresos,2.6209,0.152246
+coneval,2018,pertenencia,Población indígena,Mujeres,Pobreza,Vulnerable por ingresos,3.3468,0.201354
+coneval,2020,pertenencia,Población indígena,Mujeres,Pobreza,Vulnerable por ingresos,2.9536,0.177051
+coneval,2022,pertenencia,Población indígena,Mujeres,Pobreza,Vulnerable por ingresos,2.7237,0.179462
+coneval,2016,pertenencia,Población indígena,Total,Carencias,Acceso a la seguridad social,79.2263,8.943125
+coneval,2018,pertenencia,Población indígena,Total,Carencias,Acceso a la seguridad social,77.7585,9.229408
+coneval,2020,pertenencia,Población indígena,Total,Carencias,Acceso a la seguridad social,77.1587,9.000677
+coneval,2022,pertenencia,Población indígena,Total,Carencias,Acceso a la seguridad social,75.0163,9.533103
+coneval,2016,pertenencia,Resto de la población,Total,Carencias,Acceso a la seguridad social,51.5262,56.424334
+coneval,2018,pertenencia,Resto de la población,Total,Carencias,Acceso a la seguridad social,50.8867,56.971669
+coneval,2020,pertenencia,Resto de la población,Total,Carencias,Acceso a la seguridad social,49.5023,56.96584
+coneval,2022,pertenencia,Resto de la población,Total,Carencias,Acceso a la seguridad social,47.4675,55.147587
+coneval,2016,pertenencia,Población indígena,Total,Carencias,Acceso a los servicios de salud,15.0842,1.702715
+coneval,2018,pertenencia,Población indígena,Total,Carencias,Acceso a los servicios de salud,15.3487,1.821785
+coneval,2020,pertenencia,Población indígena,Total,Carencias,Acceso a los servicios de salud,32.7974,3.825871
+coneval,2022,pertenencia,Población indígena,Total,Carencias,Acceso a los servicios de salud,56.929,7.234566
+coneval,2016,pertenencia,Resto de la población,Total,Carencias,Acceso a los servicios de salud,15.6008,17.083859
+coneval,2018,pertenencia,Resto de la población,Total,Carencias,Acceso a los servicios de salud,16.2827,18.229754
+coneval,2020,pertenencia,Resto de la población,Total,Carencias,Acceso a los servicios de salud,27.6798,31.853114
+coneval,2022,pertenencia,Resto de la población,Total,Carencias,Acceso a los servicios de salud,37.1401,43.149178
+coneval,2016,pertenencia,Población indígena,Total,Privación social,Al menos una carencia social,90.3866,10.202906
+coneval,2018,pertenencia,Población indígena,Total,Privación social,Al menos una carencia social,89.6374,10.639346
+coneval,2020,pertenencia,Población indígena,Total,Privación social,Al menos una carencia social,90.7546,10.586662
+coneval,2022,pertenencia,Población indígena,Total,Privación social,Al menos una carencia social,89.7316,11.403129
+coneval,2016,pertenencia,Resto de la población,Total,Privación social,Al menos una carencia social,66.2289,72.524674
+coneval,2018,pertenencia,Resto de la población,Total,Privación social,Al menos una carencia social,66.0833,73.985353
+coneval,2020,pertenencia,Resto de la población,Total,Privación social,Al menos una carencia social,65.2684,75.109007
+coneval,2022,pertenencia,Resto de la población,Total,Privación social,Al menos una carencia social,63.1028,73.312545
+coneval,2016,pertenencia,Población indígena,Total,Carencias,Alimentación nutritiva y de calidad,35.4134,3.997491
+coneval,2018,pertenencia,Población indígena,Total,Carencias,Alimentación nutritiva y de calidad,35.9165,4.26304
+coneval,2020,pertenencia,Población indígena,Total,Carencias,Alimentación nutritiva y de calidad,36.1693,4.219209
+coneval,2022,pertenencia,Población indígena,Total,Carencias,Alimentación nutritiva y de calidad,30.4617,3.871091
+coneval,2016,pertenencia,Resto de la población,Total,Carencias,Alimentación nutritiva y de calidad,20.5128,22.462807
+coneval,2018,pertenencia,Resto de la población,Total,Carencias,Alimentación nutritiva y de calidad,20.778,23.262643
+coneval,2020,pertenencia,Resto de la población,Total,Carencias,Alimentación nutritiva y de calidad,21.1606,24.351047
+coneval,2022,pertenencia,Resto de la población,Total,Carencias,Alimentación nutritiva y de calidad,16.8471,19.572842
+coneval,2016,pertenencia,Población indígena,Total,Carencias,Calidad y espacios de la vivienda,30.0754,3.394938
+coneval,2018,pertenencia,Población indígena,Total,Carencias,Calidad y espacios de la vivienda,28.371,3.367439
+coneval,2020,pertenencia,Población indígena,Total,Carencias,Calidad y espacios de la vivienda,25.6394,2.990871
+coneval,2022,pertenencia,Población indígena,Total,Carencias,Calidad y espacios de la vivienda,26.3998,3.354893
+coneval,2016,pertenencia,Resto de la población,Total,Carencias,Calidad y espacios de la vivienda,10.1122,11.073482
+coneval,2018,pertenencia,Resto de la población,Total,Carencias,Calidad y espacios de la vivienda,9.1584,10.25352
+coneval,2020,pertenencia,Resto de la población,Total,Carencias,Calidad y espacios de la vivienda,7.6669,8.822828
+coneval,2022,pertenencia,Resto de la población,Total,Carencias,Calidad y espacios de la vivienda,7.1535,8.310862
+coneval,2016,pertenencia,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,75.6903,8.543982
+coneval,2018,pertenencia,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,73.4861,8.722298
+coneval,2020,pertenencia,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,76.1539,8.883469
+coneval,2022,pertenencia,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,68.0475,8.647512
+coneval,2016,pertenencia,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,48.2159,52.799296
+coneval,2018,pertenencia,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,47.3822,53.04804
+coneval,2020,pertenencia,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,50.4034,58.002786
+coneval,2022,pertenencia,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza,40.8476,47.456551
+coneval,2016,pertenencia,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,38.79,4.378649
+coneval,2018,pertenencia,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,36.2324,4.300539
+coneval,2020,pertenencia,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,41.2931,4.816909
+coneval,2022,pertenencia,Población indígena,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,31.7848,4.039224
+coneval,2016,pertenencia,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,12.3977,13.57619
+coneval,2018,pertenencia,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,11.6438,13.036155
+coneval,2020,pertenencia,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,14.8072,17.039705
+coneval,2022,pertenencia,Resto de la población,Total,Bienestar económico,Ingreso inferior a la línea de pobreza extrema,9.9008,11.502686
+coneval,2016,pertenencia,Población indígena,Total,Pobreza,No pobre y no vulnerable,6.9109,0.780107
+coneval,2018,pertenencia,Población indígena,Total,Pobreza,No pobre y no vulnerable,7.1873,0.853084
+coneval,2020,pertenencia,Población indígena,Total,Pobreza,No pobre y no vulnerable,6.2702,0.731425
+coneval,2022,pertenencia,Población indígena,Total,Pobreza,No pobre y no vulnerable,7.4675,0.94897
+coneval,2016,pertenencia,Resto de la población,Total,Pobreza,No pobre y no vulnerable,25.7193,28.164234
+coneval,2018,pertenencia,Resto de la población,Total,Pobreza,No pobre y no vulnerable,25.4291,28.469874
+coneval,2020,pertenencia,Resto de la población,Total,Pobreza,No pobre y no vulnerable,25.2727,29.083094
+coneval,2022,pertenencia,Resto de la población,Total,Pobreza,No pobre y no vulnerable,29.1992,33.923462
+coneval,2016,pertenencia,Población indígena,Total,Pobreza,Pobreza,72.9878,8.238916
+coneval,2018,pertenencia,Población indígena,Total,Pobreza,Pobreza,70.3108,8.345411
+coneval,2020,pertenencia,Población indígena,Total,Pobreza,Pobreza,73.1786,8.536401
+coneval,2022,pertenencia,Población indígena,Total,Pobreza,Pobreza,65.2466,8.291565
+coneval,2016,pertenencia,Resto de la población,Total,Pobreza,Pobreza,40.1641,43.982141
+coneval,2018,pertenencia,Resto de la población,Total,Pobreza,Pobreza,38.8945,43.545469
+coneval,2020,pertenencia,Resto de la población,Total,Pobreza,Pobreza,40.9446,47.117824
+coneval,2022,pertenencia,Resto de la población,Total,Pobreza,Pobreza,33.1495,38.512945
+coneval,2016,pertenencia,Población indígena,Total,Pobreza,Pobreza extrema,27.6186,3.117614
+coneval,2018,pertenencia,Población indígena,Total,Pobreza,Pobreza extrema,27.1305,3.220204
+coneval,2020,pertenencia,Población indígena,Total,Pobreza,Pobreza extrema,29.1823,3.404165
+coneval,2022,pertenencia,Población indígena,Total,Pobreza,Pobreza extrema,26.2723,3.338698
+coneval,2016,pertenencia,Resto de la población,Total,Pobreza,Pobreza extrema,5.1391,5.627642
+coneval,2018,pertenencia,Resto de la población,Total,Pobreza,Pobreza extrema,4.8913,5.476204
+coneval,2020,pertenencia,Resto de la población,Total,Pobreza,Pobreza extrema,6.4208,7.388822
+coneval,2022,pertenencia,Resto de la población,Total,Pobreza,Pobreza extrema,4.962,5.764815
+coneval,2016,pertenencia,Población indígena,Total,Pobreza,Pobreza moderada,45.3691,5.121302
+coneval,2018,pertenencia,Población indígena,Total,Pobreza,Pobreza moderada,43.1803,5.125207
+coneval,2020,pertenencia,Población indígena,Total,Pobreza,Pobreza moderada,43.9963,5.132236
+coneval,2022,pertenencia,Población indígena,Total,Pobreza,Pobreza moderada,38.9743,4.952867
+coneval,2016,pertenencia,Resto de la población,Total,Pobreza,Pobreza moderada,35.025,38.354499
+coneval,2018,pertenencia,Resto de la población,Total,Pobreza,Pobreza moderada,34.0032,38.069265
+coneval,2020,pertenencia,Resto de la población,Total,Pobreza,Pobreza moderada,34.5238,39.729002
+coneval,2022,pertenencia,Resto de la población,Total,Pobreza,Pobreza moderada,28.1875,32.74813
+coneval,2016,pertenencia,Población indígena,Total,Carencias,Rezago educativo,32.7652,3.698565
+coneval,2018,pertenencia,Población indígena,Total,Carencias,Rezago educativo,33.4916,3.975225
+coneval,2020,pertenencia,Población indígena,Total,Carencias,Rezago educativo,35.1049,4.095043
+coneval,2022,pertenencia,Población indígena,Total,Carencias,Rezago educativo,35.3101,4.487226
+coneval,2016,pertenencia,Resto de la población,Total,Carencias,Rezago educativo,16.9857,18.600412
+coneval,2018,pertenencia,Resto de la población,Total,Carencias,Rezago educativo,17.462,19.550037
+coneval,2020,pertenencia,Resto de la población,Total,Carencias,Rezago educativo,17.6424,20.302354
+coneval,2022,pertenencia,Resto de la población,Total,Carencias,Rezago educativo,17.705,20.569557
+coneval,2016,pertenencia,Población indígena,Total,Carencias,Servicios básicos en la vivienda,56.0729,6.329555
+coneval,2018,pertenencia,Población indígena,Total,Carencias,Servicios básicos en la vivienda,57.3756,6.810092
+coneval,2020,pertenencia,Población indígena,Total,Carencias,Servicios básicos en la vivienda,57.8723,6.750896
+coneval,2022,pertenencia,Población indígena,Total,Carencias,Servicios básicos en la vivienda,57.9548,7.36492
+coneval,2016,pertenencia,Resto de la población,Total,Carencias,Servicios básicos en la vivienda,15.3556,16.815339
+coneval,2018,pertenencia,Resto de la población,Total,Carencias,Servicios básicos en la vivienda,15.599,17.464253
+coneval,2020,pertenencia,Resto de la población,Total,Carencias,Servicios básicos en la vivienda,13.8809,15.973789
+coneval,2022,pertenencia,Resto de la población,Total,Carencias,Servicios básicos en la vivienda,13.4123,15.582396
+coneval,2016,pertenencia,Población indígena,Total,Privación social,Tres o más carencias sociales,50.4878,5.699102
+coneval,2018,pertenencia,Población indígena,Total,Privación social,Tres o más carencias sociales,50.3357,5.974502
+coneval,2020,pertenencia,Población indígena,Total,Privación social,Tres o más carencias sociales,55.1883,6.437795
+coneval,2022,pertenencia,Población indígena,Total,Privación social,Tres o más carencias sociales,59.957,7.619362
+coneval,2016,pertenencia,Resto de la población,Total,Privación social,Tres o más carencias sociales,16.8501,18.451827
+coneval,2018,pertenencia,Resto de la población,Total,Privación social,Tres o más carencias sociales,16.9598,18.987808
+coneval,2020,pertenencia,Resto de la población,Total,Privación social,Tres o más carencias sociales,19.7458,22.722883
+coneval,2022,pertenencia,Resto de la población,Total,Privación social,Tres o más carencias sociales,21.0336,24.436711
+coneval,2016,pertenencia,Población indígena,Total,Pobreza,Vulnerable por carencias sociales,17.3988,1.96399
+coneval,2018,pertenencia,Población indígena,Total,Pobreza,Vulnerable por carencias sociales,19.3266,2.293935
+coneval,2020,pertenencia,Población indígena,Total,Pobreza,Vulnerable por carencias sociales,17.5759,2.050261
+coneval,2022,pertenencia,Población indígena,Total,Pobreza,Vulnerable por carencias sociales,24.485,3.111564
+coneval,2016,pertenencia,Resto de la población,Total,Pobreza,Vulnerable por carencias sociales,26.0648,28.542533
+coneval,2018,pertenencia,Resto de la población,Total,Pobreza,Vulnerable por carencias sociales,27.1887,30.439884
+coneval,2020,pertenencia,Resto de la población,Total,Pobreza,Vulnerable por carencias sociales,24.3239,27.991183
+coneval,2022,pertenencia,Resto de la población,Total,Pobreza,Vulnerable por carencias sociales,29.9533,34.7996
+coneval,2016,pertenencia,Población indígena,Total,Pobreza,Vulnerable por ingresos,2.7026,0.305066
+coneval,2018,pertenencia,Población indígena,Total,Pobreza,Vulnerable por ingresos,3.1753,0.376887
+coneval,2020,pertenencia,Población indígena,Total,Pobreza,Vulnerable por ingresos,2.9753,0.347068
+coneval,2022,pertenencia,Población indígena,Total,Pobreza,Vulnerable por ingresos,2.801,0.355947
+coneval,2016,pertenencia,Resto de la población,Total,Pobreza,Vulnerable por ingresos,8.0518,8.817155
+coneval,2018,pertenencia,Resto de la población,Total,Pobreza,Vulnerable por ingresos,8.4876,9.502571
+coneval,2020,pertenencia,Resto de la población,Total,Pobreza,Vulnerable por ingresos,9.4588,10.884962
+coneval,2022,pertenencia,Resto de la población,Total,Pobreza,Vulnerable por ingresos,7.6981,8.943606

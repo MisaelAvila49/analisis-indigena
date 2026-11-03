@@ -1,0 +1,6 @@
+node_modules/
+dist/
+src/.observablehq/cache/
+src/data/partes/
+scripts/capturas/
+__pycache__/

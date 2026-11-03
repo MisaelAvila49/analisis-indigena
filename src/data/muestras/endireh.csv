@@ -1,0 +1,759 @@
+fuente,edicion,nombre,criterio,grupo,edad,indicador,corte,num,den,ee,casos
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Comunitario,12 meses,992193.0,3635264.0,0.007044,2907.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Comunitario,12 meses,71712.0,222148.0,0.021896,184.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Comunitario,12 meses,397182.0,895922.0,0.012023,570.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Comunitario,12 meses,113329.0,404971.0,0.015606,333.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Comunitario,12 meses,11376.0,112482.0,0.013803,97.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Comunitario,12 meses,526032.0,1870470.0,0.008751,1581.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Comunitario,12 meses,30241.0,70341.0,0.034565,52.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Comunitario,12 meses,68979.0,868872.0,0.004488,756.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Cualquier ámbito,12 meses,915468.0,1870470.0,0.010197,1581.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Cualquier ámbito,12 meses,36656.0,70341.0,0.032816,52.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Cualquier ámbito,12 meses,1671806.0,3635264.0,0.00894,2907.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Cualquier ámbito,12 meses,186510.0,404971.0,0.016779,333.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Cualquier ámbito,12 meses,537551.0,895922.0,0.012445,570.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Cualquier ámbito,12 meses,37081.0,112482.0,0.028026,97.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Cualquier ámbito,12 meses,112773.0,222148.0,0.020795,184.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Cualquier ámbito,12 meses,218787.0,868872.0,0.009714,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Económica o patrimonial,12 meses,67210.0,404971.0,0.011078,333.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Económica o patrimonial,12 meses,600448.0,3635264.0,0.004871,2907.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Económica o patrimonial,12 meses,155612.0,895922.0,0.008004,570.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Económica o patrimonial,12 meses,9172.0,112482.0,0.017793,97.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Económica o patrimonial,12 meses,43774.0,222148.0,0.015171,184.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Económica o patrimonial,12 meses,81460.0,868872.0,0.005019,756.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Económica o patrimonial,12 meses,363376.0,1870470.0,0.006509,1581.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Económica o patrimonial,12 meses,14264.0,70341.0,0.021121,52.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Escolar,12 meses,10666.0,30012.0,0.048939,18.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Escolar,12 meses,25867.0,105155.0,0.031439,78.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Escolar,12 meses,100377.0,407707.0,0.010019,229.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Escolar,12 meses,741.0,6999.0,,7.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Escolar,12 meses,5389.0,10158.0,0.030851,9.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Escolar,12 meses,126985.0,519861.0,0.010195,314.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Escolar,12 meses,16055.0,40170.0,0.034799,27.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Familiar,12 meses,85404.0,868872.0,0.006641,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Familiar,12 meses,23041.0,222148.0,0.00792,184.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Familiar,12 meses,17306.0,112482.0,0.020927,97.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Familiar,12 meses,14648.0,70341.0,0.017805,52.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Familiar,12 meses,262009.0,1870470.0,0.006359,1581.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Familiar,12 meses,200142.0,895922.0,0.008074,570.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Familiar,12 meses,54995.0,404971.0,0.007669,333.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Familiar,12 meses,547555.0,3635264.0,0.005053,2907.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Física,12 meses,58065.0,868872.0,0.005913,756.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Física,12 meses,213186.0,1870470.0,0.004971,1581.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Física,12 meses,156463.0,895922.0,0.007579,570.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Física,12 meses,45582.0,404971.0,0.006412,333.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Física,12 meses,427714.0,3635264.0,0.003791,2907.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Física,12 meses,21068.0,222148.0,0.008057,184.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Física,12 meses,12896.0,70341.0,0.019135,52.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Física,12 meses,11618.0,112482.0,0.009025,97.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Laboral,12 meses,2027.0,25435.0,0.000724,27.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Laboral,12 meses,32289.0,159822.0,0.019028,131.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Laboral,12 meses,24474.0,189519.0,0.011137,167.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Laboral,12 meses,14082.0,38306.0,0.037355,32.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Laboral,12 meses,473343.0,1894293.0,0.007455,1528.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Laboral,12 meses,315706.0,1306166.0,0.008011,1090.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Laboral,12 meses,133163.0,398608.0,0.014524,271.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Laboral,12 meses,48398.0,223563.0,0.015987,190.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Pareja,12 meses,378295.0,1828769.0,0.007137,1558.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Pareja,12 meses,179792.0,706905.0,0.010533,471.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Pareja,12 meses,12017.0,54787.0,0.04115,42.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Pareja,12 meses,86703.0,842686.0,0.006968,732.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Pareja,12 meses,36056.0,218561.0,0.014057,181.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Pareja,12 meses,15222.0,110218.0,0.012276,94.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Pareja,12 meses,644790.0,3378360.0,0.005951,2761.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Pareja,12 meses,63295.0,383566.0,0.012434,317.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Psicológica,12 meses,63673.0,222148.0,0.017571,184.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Psicológica,12 meses,27197.0,112482.0,0.029239,97.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Psicológica,12 meses,371318.0,895922.0,0.01138,570.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Psicológica,12 meses,1115642.0,3635264.0,0.00767,2907.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Psicológica,12 meses,29343.0,70341.0,0.035383,52.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Psicológica,12 meses,602607.0,1870470.0,0.009411,1581.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Psicológica,12 meses,141717.0,868872.0,0.007554,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Psicológica,12 meses,120213.0,404971.0,0.015444,333.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Sexual,12 meses,102519.0,404971.0,0.014584,333.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Sexual,12 meses,427988.0,895922.0,0.012445,570.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Sexual,12 meses,1048198.0,3635264.0,0.00719,2907.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Sexual,12 meses,10776.0,112482.0,0.012753,97.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Sexual,12 meses,64296.0,222148.0,0.020837,184.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Sexual,12 meses,57385.0,868872.0,0.00428,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Sexual,12 meses,27447.0,70341.0,0.028733,52.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Sexual,12 meses,562825.0,1870470.0,0.009057,1581.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Comunitario,vida,406110.0,868872.0,0.012532,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Comunitario,vida,52256.0,112482.0,0.02695,97.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Comunitario,vida,144292.0,222148.0,0.021111,184.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Comunitario,vida,621281.0,895922.0,0.011285,570.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Comunitario,vida,240906.0,404971.0,0.017285,333.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Comunitario,vida,2217463.0,3635264.0,0.009754,2907.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Comunitario,vida,1190072.0,1870470.0,0.011052,1581.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Comunitario,vida,44358.0,70341.0,0.031186,52.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Cualquier ámbito,vida,1486936.0,1870470.0,0.009431,1581.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Cualquier ámbito,vida,705271.0,895922.0,0.010989,570.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Cualquier ámbito,vida,572883.0,868872.0,0.011909,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Cualquier ámbito,vida,177582.0,222148.0,0.016021,184.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Cualquier ámbito,vida,84370.0,112482.0,0.021282,97.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Cualquier ámbito,vida,2765090.0,3635264.0,0.008629,2907.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Cualquier ámbito,vida,311248.0,404971.0,0.01401,333.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Cualquier ámbito,vida,49296.0,70341.0,0.02999,52.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Económica o patrimonial,vida,31843.0,112482.0,0.030023,97.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Económica o patrimonial,vida,190745.0,895922.0,0.0083,570.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Económica o patrimonial,vida,592789.0,1870470.0,0.008444,1581.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Económica o patrimonial,vida,14902.0,70341.0,0.020904,52.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Económica o patrimonial,vida,196301.0,868872.0,0.008423,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Económica o patrimonial,vida,127694.0,404971.0,0.016917,333.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Económica o patrimonial,vida,80949.0,222148.0,0.021306,184.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Económica o patrimonial,vida,979835.0,3635264.0,0.006582,2907.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Escolar,vida,148683.0,384043.0,0.017155,315.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Escolar,vida,401493.0,887656.0,0.011227,564.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Escolar,vida,37362.0,102497.0,0.02925,88.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Escolar,vida,80189.0,213311.0,0.020423,176.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Escolar,vida,194977.0,803476.0,0.010358,707.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Escolar,vida,31132.0,68235.0,0.02877,51.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Escolar,vida,664551.0,1852509.0,0.009274,1563.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Escolar,vida,1261021.0,3543641.0,0.008328,2834.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Física,vida,736808.0,1870470.0,0.009423,1581.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Física,vida,24540.0,70341.0,0.029865,52.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Física,vida,314048.0,868872.0,0.010996,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Física,vida,91415.0,222148.0,0.021328,184.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Física,vida,172074.0,404971.0,0.016546,333.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Física,vida,1402407.0,3635264.0,0.008122,2907.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Física,vida,56119.0,112482.0,0.026487,97.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Física,vida,351551.0,895922.0,0.010671,570.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Laboral,vida,118183.0,349034.0,0.018482,293.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Laboral,vida,18464.0,51606.0,0.04514,41.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Laboral,vida,1034059.0,2983870.0,0.008124,2444.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Laboral,vida,214459.0,533561.0,0.014563,369.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Laboral,vida,26637.0,91400.0,0.028611,81.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Laboral,vida,73082.0,206028.0,0.021158,171.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Laboral,vida,161892.0,708683.0,0.008888,616.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Laboral,vida,657708.0,1741626.0,0.009527,1459.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Pareja,vida,104612.0,218561.0,0.021206,181.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Pareja,vida,57326.0,110218.0,0.029232,94.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Pareja,vida,283992.0,706905.0,0.012968,471.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Pareja,vida,181718.0,383566.0,0.016697,317.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Pareja,vida,319404.0,842686.0,0.012324,732.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Pareja,vida,19780.0,54787.0,0.042125,42.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Pareja,vida,777676.0,1828769.0,0.010193,1558.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Pareja,vida,1381072.0,3378360.0,0.009043,2761.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Psicológica,vida,408017.0,868872.0,0.012318,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Psicológica,vida,219456.0,404971.0,0.01694,333.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Psicológica,vida,34777.0,70341.0,0.035027,52.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Psicológica,vida,122840.0,222148.0,0.020176,184.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Psicológica,vida,61839.0,112482.0,0.027288,97.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Psicológica,vida,565519.0,895922.0,0.012226,570.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Psicológica,vida,2083575.0,3635264.0,0.009456,2907.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Psicológica,vida,1110039.0,1870470.0,0.011043,1581.0
+endireh,2021,Ciudad de México,autoads,Población indígena,15-29,Sexual,vida,45123.0,70341.0,0.020717,52.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,60+,Sexual,vida,425847.0,868872.0,0.012669,756.0
+endireh,2021,Ciudad de México,autoads,Población indígena,30-59,Sexual,vida,142198.0,222148.0,0.021139,184.0
+endireh,2021,Ciudad de México,autoads,Población indígena,60+,Sexual,vida,64317.0,112482.0,0.024768,97.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,15-29,Sexual,vida,654942.0,895922.0,0.011277,570.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,30-59,Sexual,vida,1266241.0,1870470.0,0.011055,1581.0
+endireh,2021,Ciudad de México,autoads,Resto de la población,Todas,Sexual,vida,2347030.0,3635264.0,0.009539,2907.0
+endireh,2021,Ciudad de México,autoads,Población indígena,Todas,Sexual,vida,251638.0,404971.0,0.016908,333.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Comunitario,12 meses,428880.0,959407.0,0.01194,613.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Comunitario,12 meses,1099206.0,4003134.0,0.006905,3206.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Comunitario,12 meses,590159.0,2068129.0,0.008658,1744.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Comunitario,12 meses,14863.0,41083.0,0.03526,34.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Comunitario,12 meses,80167.0,975598.0,0.004315,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Comunitario,12 meses,8313.0,17917.0,0.059564,16.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Comunitario,12 meses,24069.0,72478.0,0.027068,61.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Comunitario,12 meses,893.0,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Cualquier ámbito,12 meses,34083.0,72478.0,0.022634,61.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Cualquier ámbito,12 meses,256093.0,975598.0,0.009359,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Cualquier ámbito,12 meses,21403.0,41083.0,0.027111,34.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Cualquier ámbito,12 meses,11040.0,17917.0,0.043016,16.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Cualquier ámbito,12 meses,1640.0,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Cualquier ámbito,12 meses,573580.0,959407.0,0.012397,613.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Cualquier ámbito,12 meses,1016631.0,2068129.0,0.01027,1744.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Cualquier ámbito,12 meses,1846304.0,4003134.0,0.008925,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Económica o patrimonial,12 meses,747.0,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Económica o patrimonial,12 meses,162919.0,959407.0,0.00777,613.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Económica o patrimonial,12 meses,655086.0,4003134.0,0.004786,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Económica o patrimonial,12 meses,17025.0,72478.0,0.022039,61.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Económica o patrimonial,12 meses,8388.0,17917.0,0.044735,16.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Económica o patrimonial,12 meses,90590.0,975598.0,0.004921,849.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Económica o patrimonial,12 meses,401577.0,2068129.0,0.006325,1744.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Económica o patrimonial,12 meses,7890.0,41083.0,0.021549,34.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Escolar,12 meses,,658.0,,1.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Escolar,12 meses,31256.0,114655.0,0.027895,86.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Escolar,12 meses,741.0,6999.0,,7.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Escolar,12 meses,3893.0,6703.0,0.048782,5.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Escolar,12 meses,3893.0,7361.0,0.049923,6.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Escolar,12 meses,139147.0,556173.0,0.010218,337.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Escolar,12 meses,107150.0,434519.0,0.009945,244.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Familiar,12 meses,4292.0,17917.0,0.042528,16.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Familiar,12 meses,9244.0,72478.0,0.018991,61.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Familiar,12 meses,102668.0,975598.0,0.006354,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Familiar,12 meses,747.0,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Familiar,12 meses,4205.0,41083.0,0.025442,34.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Familiar,12 meses,284216.0,2068129.0,0.00591,1744.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Familiar,12 meses,600237.0,4003134.0,0.004871,3206.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Familiar,12 meses,213353.0,959407.0,0.008085,613.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Física,12 meses,4707.0,41083.0,0.027157,34.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Física,12 meses,231105.0,2068129.0,0.004561,1744.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Física,12 meses,167475.0,959407.0,0.007188,613.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Física,12 meses,10136.0,72478.0,0.023489,61.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Física,12 meses,468075.0,4003134.0,0.003741,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Física,12 meses,893.0,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Física,12 meses,69495.0,975598.0,0.005379,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Física,12 meses,4536.0,17917.0,0.059315,16.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Laboral,12 meses,339420.0,1446348.0,0.007761,1202.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Laboral,12 meses,509154.0,2094594.0,0.007128,1694.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Laboral,12 meses,13292.0,47103.0,0.029867,42.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Laboral,12 meses,4717.0,9198.0,0.075416,9.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Laboral,12 meses,27206.0,212972.0,0.010954,193.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Laboral,12 meses,,5552.0,,5.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Laboral,12 meses,142528.0,435274.0,0.014003,299.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Laboral,12 meses,8575.0,32353.0,0.023791,28.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Pareja,12 meses,8133.0,66890.0,0.02243,57.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Pareja,12 meses,414191.0,2023649.0,0.00676,1719.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Pareja,12 meses,710763.0,3730413.0,0.005777,3048.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Pareja,12 meses,193487.0,759616.0,0.010594,507.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Pareja,12 meses,3474.0,40275.0,0.016596,33.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Pareja,12 meses,,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Pareja,12 meses,103085.0,947148.0,0.006998,822.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Pareja,12 meses,4659.0,13137.0,0.075947,13.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Psicológica,12 meses,1238153.0,4003134.0,0.007618,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Psicológica,12 meses,17518.0,72478.0,0.02275,61.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Psicológica,12 meses,9009.0,17917.0,0.041976,16.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Psicológica,12 meses,170779.0,975598.0,0.007675,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Psicológica,12 meses,,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Psicológica,12 meses,402065.0,959407.0,0.011614,613.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Psicológica,12 meses,665309.0,2068129.0,0.009149,1744.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Psicológica,12 meses,8509.0,41083.0,0.024413,34.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Sexual,12 meses,623696.0,2068129.0,0.008901,1744.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Sexual,12 meses,457485.0,959407.0,0.012313,613.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Sexual,12 meses,21465.0,72478.0,0.026951,61.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Sexual,12 meses,1148407.0,4003134.0,0.007077,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Sexual,12 meses,8363.0,17917.0,0.058292,16.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Sexual,12 meses,67226.0,975598.0,0.004084,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Sexual,12 meses,1640.0,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Sexual,12 meses,11462.0,41083.0,0.035829,34.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Comunitario,vida,453982.0,975598.0,0.01188,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Comunitario,vida,8873.0,13478.0,0.028361,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Comunitario,vida,666331.0,959407.0,0.012026,613.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Comunitario,vida,1315547.0,2068129.0,0.010657,1744.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Comunitario,vida,29339.0,41083.0,0.025976,34.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Comunitario,vida,2435860.0,4003134.0,0.009357,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Comunitario,vida,47933.0,72478.0,0.021606,61.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Comunitario,vida,9721.0,17917.0,0.051133,16.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Cualquier ámbito,vida,35490.0,41083.0,0.01261,34.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Cualquier ámbito,vida,751880.0,959407.0,0.011124,613.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Cualquier ámbito,vida,1642452.0,2068129.0,0.009162,1744.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Cualquier ámbito,vida,13100.0,17917.0,0.030257,16.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Cualquier ámbito,vida,654419.0,975598.0,0.01119,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Cualquier ámbito,vida,9604.0,13478.0,0.044224,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Cualquier ámbito,vida,3048751.0,4003134.0,0.008263,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Cualquier ámbito,vida,58194.0,72478.0,0.013243,61.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Económica o patrimonial,vida,667586.0,2068129.0,0.008381,1744.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Económica o patrimonial,vida,1092938.0,4003134.0,0.006622,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Económica o patrimonial,vida,24291.0,72478.0,0.024389,61.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Económica o patrimonial,vida,12679.0,41083.0,0.032737,34.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Económica o patrimonial,vida,8388.0,17917.0,0.044735,16.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Económica o patrimonial,vida,226662.0,975598.0,0.008415,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Económica o patrimonial,vida,3224.0,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Económica o patrimonial,vida,198690.0,959407.0,0.008026,613.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Escolar,vida,11825.0,35472.0,0.035255,30.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Escolar,vida,742486.0,2046942.0,0.009318,1722.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Escolar,vida,431619.0,949035.0,0.010669,606.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Escolar,vida,5962.0,11478.0,0.073413,10.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Escolar,vida,227537.0,900475.0,0.010145,790.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Escolar,vida,1401642.0,3896452.0,0.008279,3118.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Escolar,vida,25319.0,64867.0,0.029991,56.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Escolar,vida,7532.0,17917.0,0.039933,16.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Física,vida,5207.0,17917.0,0.05634,16.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Física,vida,28130.0,72478.0,0.027798,61.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Física,vida,1561554.0,4003134.0,0.008163,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Física,vida,16132.0,41083.0,0.040233,34.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Física,vida,820344.0,2068129.0,0.009138,1744.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Física,vida,374179.0,959407.0,0.010407,613.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Física,vida,6791.0,13478.0,0.04075,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Física,vida,367031.0,975598.0,0.010718,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Laboral,vida,17254.0,37236.0,0.038309,32.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Laboral,vida,4717.0,12149.0,0.071696,12.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Laboral,vida,1135458.0,3304565.0,0.00798,2710.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Laboral,vida,27341.0,60861.0,0.032592,53.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Laboral,vida,719392.0,1927012.0,0.009337,1611.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Laboral,vida,229637.0,581224.0,0.014054,404.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Laboral,vida,5370.0,11476.0,0.051324,9.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Laboral,vida,186429.0,796329.0,0.008665,695.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Pareja,vida,1558498.0,3730413.0,0.008985,3048.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Pareja,vida,22661.0,66890.0,0.031588,57.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Pareja,vida,5330.0,13137.0,0.070107,13.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Pareja,vida,377322.0,947148.0,0.012018,822.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Pareja,vida,3063.0,13478.0,,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Pareja,vida,304779.0,759616.0,0.012622,507.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Pareja,vida,876397.0,2023649.0,0.010076,1719.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Pareja,vida,14268.0,40275.0,0.042061,33.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Psicológica,vida,601029.0,959407.0,0.012166,613.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Psicológica,vida,1225826.0,2068129.0,0.010801,1744.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Psicológica,vida,17869.0,41083.0,0.028606,34.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Psicológica,vida,468328.0,975598.0,0.011744,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Psicológica,vida,9680.0,17917.0,0.038808,16.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Psicológica,vida,34260.0,72478.0,0.02379,61.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Psicológica,vida,6711.0,13478.0,0.065321,11.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Psicológica,vida,2295183.0,4003134.0,0.009207,3206.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,30-59,Sexual,vida,1395925.0,2068129.0,0.010633,1744.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,60+,Sexual,vida,485780.0,975598.0,0.012061,849.0
+endireh,2021,Ciudad de México,lengua,Población indígena,60+,Sexual,vida,8873.0,13478.0,0.028361,11.0
+endireh,2021,Ciudad de México,lengua,Población indígena,15-29,Sexual,vida,10423.0,17917.0,0.046848,16.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,15-29,Sexual,vida,700055.0,959407.0,0.011513,613.0
+endireh,2021,Ciudad de México,lengua,Población indígena,Todas,Sexual,vida,45234.0,72478.0,0.02359,61.0
+endireh,2021,Ciudad de México,lengua,Resto de la población,Todas,Sexual,vida,2581760.0,4003134.0,0.00919,3206.0
+endireh,2021,Ciudad de México,lengua,Población indígena,30-59,Sexual,vida,25938.0,41083.0,0.031693,34.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Comunitario,12 meses,437193.0,977324.0,0.011873,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Comunitario,12 meses,81060.0,989076.0,0.004227,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Comunitario,12 meses,1123275.0,4075612.0,0.00685,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Comunitario,12 meses,605022.0,2109212.0,0.00856,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Cualquier ámbito,12 meses,1880387.0,4075612.0,0.008875,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Cualquier ámbito,12 meses,257733.0,989076.0,0.009085,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Cualquier ámbito,12 meses,1038034.0,2109212.0,0.010194,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Cualquier ámbito,12 meses,584620.0,977324.0,0.012464,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Económica o patrimonial,12 meses,672111.0,4075612.0,0.004737,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Económica o patrimonial,12 meses,91337.0,989076.0,0.004869,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Económica o patrimonial,12 meses,409467.0,2109212.0,0.006243,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Económica o patrimonial,12 meses,171307.0,977324.0,0.007673,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Escolar,12 meses,741.0,6999.0,,7.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Escolar,12 meses,31256.0,115313.0,0.02779,87.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Escolar,12 meses,111043.0,441222.0,0.009839,249.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Escolar,12 meses,143040.0,563534.0,0.010103,343.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Familiar,12 meses,103415.0,989076.0,0.006264,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Familiar,12 meses,288421.0,2109212.0,0.005852,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Familiar,12 meses,217645.0,977324.0,0.008147,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Familiar,12 meses,609481.0,4075612.0,0.004855,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Física,12 meses,235812.0,2109212.0,0.004523,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Física,12 meses,478211.0,4075612.0,0.003751,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Física,12 meses,70388.0,989076.0,0.005305,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Física,12 meses,172011.0,977324.0,0.007111,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Laboral,12 meses,347995.0,1478701.0,0.007632,1230.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Laboral,12 meses,147245.0,444472.0,0.013799,308.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Laboral,12 meses,522446.0,2141697.0,0.007068,1736.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Laboral,12 meses,27206.0,218524.0,0.010702,198.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Pareja,12 meses,718896.0,3797303.0,0.0057,3105.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Pareja,12 meses,103085.0,960626.0,0.006858,833.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Pareja,12 meses,198146.0,772753.0,0.010439,520.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Pareja,12 meses,417665.0,2063924.0,0.006633,1752.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Psicológica,12 meses,1255671.0,4075612.0,0.007557,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Psicológica,12 meses,170779.0,989076.0,0.00753,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Psicológica,12 meses,673818.0,2109212.0,0.009024,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Psicológica,12 meses,411074.0,977324.0,0.011624,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Sexual,12 meses,465848.0,977324.0,0.012228,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Sexual,12 meses,635158.0,2109212.0,0.008849,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Sexual,12 meses,1169872.0,4075612.0,0.007051,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Sexual,12 meses,68866.0,989076.0,0.00401,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Comunitario,vida,462855.0,989076.0,0.011756,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Comunitario,vida,1344886.0,2109212.0,0.010557,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Comunitario,vida,676052.0,977324.0,0.012054,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Comunitario,vida,2483793.0,4075612.0,0.009269,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Cualquier ámbito,vida,764980.0,977324.0,0.011271,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Cualquier ámbito,vida,3106945.0,4075612.0,0.008159,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Cualquier ámbito,vida,1677942.0,2109212.0,0.00905,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Cualquier ámbito,vida,664023.0,989076.0,0.011312,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Económica o patrimonial,vida,1117229.0,4075612.0,0.006565,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Económica o patrimonial,vida,229886.0,989076.0,0.008333,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Económica o patrimonial,vida,680265.0,2109212.0,0.008294,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Económica o patrimonial,vida,207078.0,977324.0,0.007922,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Escolar,vida,754311.0,2082414.0,0.009405,1752.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Escolar,vida,233499.0,911953.0,0.010048,800.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Escolar,vida,1426961.0,3961319.0,0.008301,3174.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Escolar,vida,439151.0,966952.0,0.010583,622.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Física,vida,379386.0,977324.0,0.010335,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Física,vida,836476.0,2109212.0,0.009253,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Física,vida,373822.0,989076.0,0.010773,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Física,vida,1589684.0,4075612.0,0.008181,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Laboral,vida,234354.0,593373.0,0.013995,416.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Laboral,vida,736646.0,1964248.0,0.009224,1643.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Laboral,vida,1162799.0,3365426.0,0.007892,2763.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Laboral,vida,191799.0,807805.0,0.008559,704.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Pareja,vida,890665.0,2063924.0,0.010106,1752.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Pareja,vida,310109.0,772753.0,0.012475,520.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Pareja,vida,1581159.0,3797303.0,0.008885,3105.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Pareja,vida,380385.0,960626.0,0.011757,833.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Psicológica,vida,475039.0,989076.0,0.011766,860.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Psicológica,vida,2329443.0,4075612.0,0.009168,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Psicológica,vida,1243695.0,2109212.0,0.010756,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Psicológica,vida,610709.0,977324.0,0.012248,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,15-29,Sexual,vida,710478.0,977324.0,0.011526,629.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,Todas,Sexual,vida,2626994.0,4075612.0,0.009134,3267.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,30-59,Sexual,vida,1421863.0,2109212.0,0.010527,1778.0
+endireh,2021,Ciudad de México,todas,Todas las mujeres,60+,Sexual,vida,494653.0,989076.0,0.011927,860.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Comunitario,12 meses,382283.0,6389533.0,0.001499,14783.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Comunitario,12 meses,8744306.0,36410030.0,0.001885,76592.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Comunitario,12 meses,1194466.0,3872711.0,0.00472,7797.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Comunitario,12 meses,1106107.0,7004556.0,0.002623,17557.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Comunitario,12 meses,4722383.0,11382117.0,0.003408,20239.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Comunitario,12 meses,3639640.0,18638380.0,0.001966,41570.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Comunitario,12 meses,137573.0,2587673.0,0.001673,6680.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Comunitario,12 meses,2438146.0,13464940.0,0.002378,32034.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Cualquier ámbito,12 meses,2878226.0,7004556.0,0.004216,17557.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Cualquier ámbito,12 meses,619432.0,2587673.0,0.003905,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Cualquier ámbito,12 meses,1376573.0,6389533.0,0.003038,14783.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Cualquier ámbito,12 meses,5479199.0,13464940.0,0.003695,32034.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Cualquier ámbito,12 meses,6694805.0,11382117.0,0.003607,20239.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Cualquier ámbito,12 meses,1981541.0,3872711.0,0.00587,7797.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Cualquier ámbito,12 meses,7798569.0,18638380.0,0.002818,41570.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Cualquier ámbito,12 meses,15869947.0,36410030.0,0.002533,76592.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Económica o patrimonial,12 meses,498817.0,6389533.0,0.001495,14783.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Económica o patrimonial,12 meses,215779.0,2587673.0,0.002048,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Económica o patrimonial,12 meses,3317997.0,18638380.0,0.001736,41570.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Económica o patrimonial,12 meses,2074365.0,11382117.0,0.002129,20239.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Económica o patrimonial,12 meses,5891179.0,36410030.0,0.001457,76592.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Económica o patrimonial,12 meses,2186209.0,13464940.0,0.002267,32034.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Económica o patrimonial,12 meses,1319154.0,7004556.0,0.00302,17557.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Económica o patrimonial,12 meses,651276.0,3872711.0,0.00306,7797.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Escolar,12 meses,82053.0,689233.0,0.005774,1448.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Escolar,12 meses,245439.0,1228000.0,0.003978,2027.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Escolar,12 meses,1115872.0,5434233.0,0.002535,8503.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Escolar,12 meses,1079.0,13820.0,,30.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Escolar,12 meses,5199.0,41288.0,,91.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Escolar,12 meses,16143.0,154449.0,0.00387,385.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Escolar,12 meses,1028620.0,4703712.0,0.002603,6964.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Escolar,12 meses,262661.0,1396269.0,0.003705,2442.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Familiar,12 meses,227174.0,2587673.0,0.002111,6680.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Familiar,12 meses,1572830.0,13464940.0,0.001847,32034.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Familiar,12 meses,4104435.0,36410030.0,0.001241,76592.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Familiar,12 meses,707773.0,7004556.0,0.001844,17557.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Familiar,12 meses,1619035.0,18638380.0,0.001201,41570.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Familiar,12 meses,2009047.0,11382117.0,0.002087,20239.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Familiar,12 meses,637883.0,3872711.0,0.002854,7797.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Familiar,12 meses,476353.0,6389533.0,0.002144,14783.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Física,12 meses,1435720.0,13464940.0,0.001731,32034.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Física,12 meses,736432.0,7004556.0,0.001922,17557.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Física,12 meses,524004.0,3872711.0,0.002747,7797.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Física,12 meses,318615.0,6389533.0,0.001158,14783.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Física,12 meses,175284.0,2587673.0,0.001941,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Física,12 meses,1673526.0,11382117.0,0.001732,20239.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Física,12 meses,1680781.0,18638380.0,0.001216,41570.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Física,12 meses,3672922.0,36410030.0,0.001025,76592.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Laboral,12 meses,1180104.0,6358337.0,0.002817,15166.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Laboral,12 meses,4007944.0,18536999.0,0.00206,39336.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Laboral,12 meses,2264680.0,11491026.0,0.002156,25579.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Laboral,12 meses,1610655.0,5678482.0,0.003021,10505.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Laboral,12 meses,46023.0,643421.0,0.001713,1658.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Laboral,12 meses,132609.0,1367491.0,0.003078,3252.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Laboral,12 meses,435150.0,1830062.0,0.003873,3669.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Laboral,12 meses,698931.0,3884854.0,0.003136,9839.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Pareja,12 meses,1582786.0,6871513.0,0.003107,17307.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Pareja,12 meses,6914721.0,34074833.0,0.001759,73154.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Pareja,12 meses,2753458.0,12662711.0,0.002832,30686.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Pareja,12 meses,3877831.0,18286773.0,0.002093,41030.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Pareja,12 meses,2377915.0,9557151.0,0.00296,17648.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Pareja,12 meses,332583.0,2535593.0,0.002511,6564.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Pareja,12 meses,658975.0,6230909.0,0.001751,14476.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Pareja,12 meses,838089.0,3255605.0,0.004585,6815.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Psicológica,12 meses,4598205.0,11382117.0,0.003362,20239.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Psicológica,12 meses,5220106.0,18638380.0,0.00235,41570.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Psicológica,12 meses,2027057.0,7004556.0,0.003444,17557.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Psicológica,12 meses,1401504.0,3872711.0,0.004937,7797.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Psicológica,12 meses,930804.0,6389533.0,0.002181,14783.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Psicológica,12 meses,445797.0,2587673.0,0.003539,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Psicológica,12 meses,10749115.0,36410030.0,0.002168,76592.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Psicológica,12 meses,3874358.0,13464940.0,0.003329,32034.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Sexual,12 meses,361702.0,6389533.0,0.001424,14783.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Sexual,12 meses,1233738.0,3872711.0,0.00486,7797.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Sexual,12 meses,1152452.0,7004556.0,0.002582,17557.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Sexual,12 meses,3874921.0,18638380.0,0.002046,41570.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Sexual,12 meses,4836270.0,11382117.0,0.003398,20239.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Sexual,12 meses,2520864.0,13464940.0,0.002332,32034.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Sexual,12 meses,9072893.0,36410030.0,0.001922,76592.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Sexual,12 meses,134674.0,2587673.0,0.001387,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Comunitario,vida,8863792.0,18638380.0,0.003185,41570.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Comunitario,vida,6897386.0,11382117.0,0.003777,20239.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Comunitario,vida,650520.0,2587673.0,0.004133,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Comunitario,vida,1971731.0,6389533.0,0.003383,14783.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Comunitario,vida,1762258.0,3872711.0,0.005597,7797.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Comunitario,vida,5008740.0,13464940.0,0.00369,32034.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Comunitario,vida,17732909.0,36410030.0,0.002671,76592.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Comunitario,vida,2595962.0,7004556.0,0.004217,17557.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Cualquier ámbito,vida,13407988.0,18638380.0,0.002895,41570.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Cualquier ámbito,vida,9104060.0,13464940.0,0.003873,32034.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Cualquier ámbito,vida,25845012.0,36410030.0,0.002461,76592.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Cualquier ámbito,vida,8770233.0,11382117.0,0.003443,20239.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Cualquier ámbito,vida,4859987.0,7004556.0,0.004519,17557.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Cualquier ámbito,vida,2659707.0,3872711.0,0.006053,7797.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Cualquier ámbito,vida,1584366.0,2587673.0,0.006067,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Cualquier ámbito,vida,3666791.0,6389533.0,0.00417,14783.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Económica o patrimonial,vida,9845971.0,36410030.0,0.00197,76592.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Económica o patrimonial,vida,5661867.0,18638380.0,0.00241,41570.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Económica o patrimonial,vida,2739762.0,11382117.0,0.00248,20239.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Económica o patrimonial,vida,748822.0,2587673.0,0.004821,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Económica o patrimonial,vida,1444342.0,6389533.0,0.00292,14783.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Económica o patrimonial,vida,858706.0,3872711.0,0.003864,7797.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Económica o patrimonial,vida,2212185.0,7004556.0,0.003951,17557.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Económica o patrimonial,vida,3819713.0,13464940.0,0.003119,32034.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Escolar,vida,2082916.0,6511697.0,0.004127,16526.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Escolar,vida,4785889.0,11290879.0,0.003288,20087.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Escolar,vida,438434.0,1851278.0,0.004108,4999.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Escolar,vida,1033065.0,5492126.0,0.002847,12835.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Escolar,vida,1375474.0,3812228.0,0.00553,7685.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Escolar,vida,5510328.0,18242204.0,0.002429,40707.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Escolar,vida,3896824.0,12175203.0,0.003418,29210.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Escolar,vida,11329282.0,35025209.0,0.002215,73629.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Física,vida,3892647.0,11382117.0,0.003051,20239.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Física,vida,12373086.0,36410030.0,0.002285,76592.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Física,vida,4941460.0,13464940.0,0.003746,32034.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Física,vida,6589737.0,18638380.0,0.002706,41570.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Física,vida,2764472.0,7004556.0,0.004617,17557.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Física,vida,1218301.0,3872711.0,0.004396,7797.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Física,vida,1890702.0,6389533.0,0.003202,14783.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Física,vida,958687.0,2587673.0,0.004712,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Laboral,vida,2713953.0,7842302.0,0.003252,14775.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Laboral,vida,2561673.0,10264764.0,0.0029,24937.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Laboral,vida,768516.0,4740735.0,0.002671,10775.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Laboral,vida,705717.0,2598048.0,0.004609,5448.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Laboral,vida,1536044.0,5832264.0,0.00336,14764.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Laboral,vida,319912.0,1834452.0,0.004343,4725.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Laboral,vida,4954003.0,16668112.0,0.002466,37034.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Laboral,vida,8436472.0,29251149.0,0.002109,62584.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Pareja,vida,5422927.0,12662711.0,0.00379,30686.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Pareja,vida,1157635.0,2535593.0,0.006258,6564.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Pareja,vida,3506576.0,9557151.0,0.003259,17648.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Pareja,vida,7389212.0,18286773.0,0.002956,41030.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Pareja,vida,3011273.0,6871513.0,0.004473,17307.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Pareja,vida,2282224.0,6230909.0,0.003681,14476.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Pareja,vida,1254019.0,3255605.0,0.005467,6815.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Pareja,vida,13178012.0,34074833.0,0.002498,73154.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Psicológica,vida,3621555.0,7004556.0,0.004747,17557.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Psicológica,vida,1961294.0,3872711.0,0.005614,7797.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Psicológica,vida,2625119.0,6389533.0,0.003797,14783.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Psicológica,vida,1219424.0,2587673.0,0.006364,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Psicológica,vida,6547462.0,11382117.0,0.003521,20239.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Psicológica,vida,9721866.0,18638380.0,0.003036,41570.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Psicológica,vida,6802273.0,13464940.0,0.004043,32034.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Psicológica,vida,18894447.0,36410030.0,0.002605,76592.0
+endireh,2021,Nacional,autoads,Resto de la población,15-29,Sexual,vida,7251112.0,11382117.0,0.003775,20239.0
+endireh,2021,Nacional,autoads,Resto de la población,30-59,Sexual,vida,9697281.0,18638380.0,0.003222,41570.0
+endireh,2021,Nacional,autoads,Población indígena,15-29,Sexual,vida,1889716.0,3872711.0,0.005696,7797.0
+endireh,2021,Nacional,autoads,Población indígena,Todas,Sexual,vida,5628841.0,13464940.0,0.003754,32034.0
+endireh,2021,Nacional,autoads,Resto de la población,Todas,Sexual,vida,19149757.0,36410030.0,0.002708,76592.0
+endireh,2021,Nacional,autoads,Población indígena,60+,Sexual,vida,792756.0,2587673.0,0.00427,6680.0
+endireh,2021,Nacional,autoads,Resto de la población,60+,Sexual,vida,2201364.0,6389533.0,0.003499,14783.0
+endireh,2021,Nacional,autoads,Población indígena,30-59,Sexual,vida,2946369.0,7004556.0,0.004239,17557.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Comunitario,12 meses,5859396.0,14615414.0,0.003265,26692.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Comunitario,12 meses,171354.0,1761189.0,0.002796,4255.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Comunitario,12 meses,135904.0,842039.0,0.005323,1727.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Comunitario,12 meses,498780.0,8393025.0,0.001263,20008.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Comunitario,12 meses,27298.0,709124.0,0.000991,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Comunitario,12 meses,4633962.0,24202678.0,0.001844,55665.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Comunitario,12 meses,10992138.0,47211117.0,0.001749,102365.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Comunitario,12 meses,334556.0,3312352.0,0.002917,7762.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Cualquier ámbito,12 meses,593241.0,1761189.0,0.008397,4255.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Cualquier ámbito,12 meses,10216221.0,24202678.0,0.002695,55665.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Cualquier ámbito,12 meses,322314.0,842039.0,0.011194,1727.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Cualquier ámbito,12 meses,8479941.0,14615414.0,0.003477,26692.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Cualquier ámbito,12 meses,20557643.0,47211117.0,0.002323,102365.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Cualquier ámbito,12 meses,1074620.0,3312352.0,0.006763,7762.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Cualquier ámbito,12 meses,159065.0,709124.0,0.007593,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Cualquier ámbito,12 meses,1861481.0,8393025.0,0.002673,20008.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Económica o patrimonial,12 meses,7751166.0,47211117.0,0.001364,102365.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Económica o patrimonial,12 meses,265388.0,1761189.0,0.003915,4255.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Económica o patrimonial,12 meses,440560.0,3312352.0,0.003495,7762.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Económica o patrimonial,12 meses,63783.0,709124.0,0.005049,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Económica o patrimonial,12 meses,2656904.0,14615414.0,0.001996,26692.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Económica o patrimonial,12 meses,4431986.0,24202678.0,0.001688,55665.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Económica o patrimonial,12 meses,111389.0,842039.0,0.004612,1727.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Económica o patrimonial,12 meses,662276.0,8393025.0,0.001316,20008.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Escolar,12 meses,2279.0,20528.0,,51.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Escolar,12 meses,27340.0,192499.0,0.005189,330.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Escolar,12 meses,25061.0,170904.0,0.004868,276.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Escolar,12 meses,1368067.0,6718779.0,0.002337,10762.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Escolar,12 meses,6278.0,55054.0,,120.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Escolar,12 meses,,1067.0,,3.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Escolar,12 meses,95917.0,830867.0,0.004814,1804.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Escolar,12 meses,1265872.0,5832858.0,0.002414,8838.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Familiar,12 meses,164649.0,1761189.0,0.0026,4255.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Familiar,12 meses,333746.0,3312352.0,0.003689,7762.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Familiar,12 meses,5418898.0,47211117.0,0.001157,102365.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Familiar,12 meses,2570424.0,14615414.0,0.00192,26692.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Familiar,12 meses,55030.0,709124.0,0.002824,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Familiar,12 meses,653987.0,8393025.0,0.001735,20008.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Familiar,12 meses,2194487.0,24202678.0,0.001155,55665.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Familiar,12 meses,114067.0,842039.0,0.006561,1727.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Física,12 meses,177417.0,1761189.0,0.003177,4255.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Física,12 meses,2149272.0,14615414.0,0.00163,26692.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Física,12 meses,78119.0,842039.0,0.003603,1727.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Física,12 meses,307200.0,3312352.0,0.002526,7762.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Física,12 meses,4863479.0,47211117.0,0.00101,102365.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Física,12 meses,2264868.0,24202678.0,0.00111,55665.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Física,12 meses,51664.0,709124.0,0.004141,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Física,12 meses,449339.0,8393025.0,0.001221,20008.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Laboral,12 meses,48368.0,306823.0,0.007231,638.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Laboral,12 meses,2035423.0,7318959.0,0.002849,13755.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Laboral,12 meses,12340.0,171831.0,,417.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Laboral,12 meses,169169.0,1870009.0,0.002436,4575.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Laboral,12 meses,2895124.0,14751724.0,0.00204,33968.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Laboral,12 meses,5099716.0,23940692.0,0.001881,52298.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Laboral,12 meses,166275.0,1318450.0,0.003597,3030.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Laboral,12 meses,105567.0,839796.0,0.003726,1975.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Pareja,12 meses,5181502.0,23755108.0,0.001966,54934.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Pareja,12 meses,345680.0,1717319.0,0.005391,4183.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Pareja,12 meses,9204894.0,44247621.0,0.001713,97833.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Pareja,12 meses,599858.0,3101892.0,0.004655,7445.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Pareja,12 meses,161714.0,697501.0,0.007611,1516.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Pareja,12 meses,915287.0,8201986.0,0.001694,19611.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Pareja,12 meses,3108105.0,12290527.0,0.002903,23288.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Pareja,12 meses,92464.0,687072.0,0.004845,1746.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Psicológica,12 meses,1283200.0,8393025.0,0.002041,20008.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Psicológica,12 meses,110003.0,709124.0,0.005117,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Psicológica,12 meses,5866001.0,14615414.0,0.003172,26692.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Psicológica,12 meses,6917970.0,24202678.0,0.00219,55665.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Psicológica,12 meses,425279.0,1761189.0,0.005911,4255.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Psicológica,12 meses,14067171.0,47211117.0,0.002008,102365.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Psicológica,12 meses,766219.0,3312352.0,0.005532,7762.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Psicológica,12 meses,230937.0,842039.0,0.009216,1727.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Sexual,12 meses,32678.0,709124.0,0.0018,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Sexual,12 meses,467986.0,8393025.0,0.001161,20008.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Sexual,12 meses,4904321.0,24202678.0,0.001864,55665.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Sexual,12 meses,6012189.0,14615414.0,0.003202,26692.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Sexual,12 meses,362658.0,3312352.0,0.003115,7762.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Sexual,12 meses,11384496.0,47211117.0,0.001757,102365.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Sexual,12 meses,188425.0,1761189.0,0.00313,4255.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Sexual,12 meses,141555.0,842039.0,0.005221,1727.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Comunitario,vida,22188644.0,47211117.0,0.002399,102365.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Comunitario,vida,2532409.0,8393025.0,0.003049,20008.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Comunitario,vida,124964.0,709124.0,0.00603,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Comunitario,vida,8545661.0,14615414.0,0.003554,26692.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Comunitario,vida,11110574.0,24202678.0,0.002902,55665.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Comunitario,vida,838868.0,3312352.0,0.005669,7762.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Comunitario,vida,238000.0,842039.0,0.007718,1727.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Comunitario,vida,475904.0,1761189.0,0.006,4255.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Cualquier ámbito,vida,11109202.0,14615414.0,0.003266,26692.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Cualquier ámbito,vida,2003330.0,3312352.0,0.007787,7762.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Cualquier ámbito,vida,477365.0,842039.0,0.012997,1727.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Cualquier ámbito,vida,1110953.0,1761189.0,0.009392,4255.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Cualquier ámbito,vida,33399649.0,47211117.0,0.002218,102365.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Cualquier ámbito,vida,415012.0,709124.0,0.012,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Cualquier ámbito,vida,17380355.0,24202678.0,0.002657,55665.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Cualquier ámbito,vida,4910092.0,8393025.0,0.003849,20008.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Económica o patrimonial,vida,13031876.0,47211117.0,0.001859,102365.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Económica o patrimonial,vida,7510045.0,24202678.0,0.002296,55665.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Económica o patrimonial,vida,156011.0,842039.0,0.006352,1727.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Económica o patrimonial,vida,196264.0,709124.0,0.010202,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Económica o patrimonial,vida,2027988.0,8393025.0,0.00283,20008.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Económica o patrimonial,vida,3493843.0,14615414.0,0.002295,26692.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Económica o patrimonial,vida,833995.0,3312352.0,0.005615,7762.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Económica o patrimonial,vida,481720.0,1761189.0,0.006326,4255.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Escolar,vida,789196.0,2636878.0,0.008188,6238.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Escolar,vida,14626976.0,45156680.0,0.002083,97974.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Escolar,vida,482507.0,1472186.0,0.008516,3619.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Escolar,vida,210556.0,815692.0,0.009313,1668.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Escolar,vida,1393526.0,7084350.0,0.002581,17121.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Escolar,vida,96133.0,349000.0,0.009106,951.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Escolar,vida,6036565.0,14489417.0,0.003187,26485.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Escolar,vida,7196885.0,23582913.0,0.002373,54368.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Física,vida,1179117.0,3312352.0,0.006628,7762.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Física,vida,16366834.0,47211117.0,0.002146,102365.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Física,vida,681408.0,1761189.0,0.008037,4255.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Física,vida,8787577.0,24202678.0,0.002576,55665.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Física,vida,4960164.0,14615414.0,0.002906,26692.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Física,vida,275345.0,709124.0,0.009618,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Física,vida,2619093.0,8393025.0,0.003012,20008.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Física,vida,222364.0,842039.0,0.008486,1727.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Laboral,vida,93158.0,479663.0,0.007339,1024.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Laboral,vida,69411.0,433137.0,0.006632,1059.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Laboral,vida,10722539.0,37867094.0,0.001988,83603.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Laboral,vida,433905.0,2186375.0,0.004749,5157.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Laboral,vida,6302901.0,21517653.0,0.00232,49435.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Laboral,vida,3383193.0,10116391.0,0.003017,19495.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Laboral,vida,1036445.0,6233050.0,0.002477,14673.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Laboral,vida,271336.0,1273575.0,0.005191,3074.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Pareja,vida,9839495.0,23755108.0,0.002755,54934.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Pareja,vida,4584890.0,12290527.0,0.003249,23288.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Pareja,vida,3173719.0,8201986.0,0.003447,19611.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Pareja,vida,249894.0,697501.0,0.00862,1516.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Pareja,vida,17598104.0,44247621.0,0.002293,97833.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Pareja,vida,1282059.0,3101892.0,0.006782,7445.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Pareja,vida,713371.0,1717319.0,0.008466,4183.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Pareja,vida,318794.0,687072.0,0.014167,1746.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Psicológica,vida,3574988.0,8393025.0,0.003544,20008.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Psicológica,vida,828471.0,1761189.0,0.008581,4255.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Psicológica,vida,8300592.0,14615414.0,0.003353,26692.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Psicológica,vida,325118.0,709124.0,0.0134,1780.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Psicológica,vida,337575.0,842039.0,0.011005,1727.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Psicológica,vida,24563863.0,47211117.0,0.002373,102365.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Psicológica,vida,12688283.0,24202678.0,0.002827,55665.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Psicológica,vida,1491164.0,3312352.0,0.007221,7762.0
+endireh,2021,Nacional,lengua,Resto de la población,30-59,Sexual,vida,12221040.0,24202678.0,0.002914,55665.0
+endireh,2021,Nacional,lengua,Resto de la población,15-29,Sexual,vida,8998608.0,14615414.0,0.00355,26692.0
+endireh,2021,Nacional,lengua,Población indígena,60+,Sexual,vida,157502.0,709124.0,0.007364,1780.0
+endireh,2021,Nacional,lengua,Resto de la población,60+,Sexual,vida,2875222.0,8393025.0,0.003153,20008.0
+endireh,2021,Nacional,lengua,Población indígena,15-29,Sexual,vida,271892.0,842039.0,0.008066,1727.0
+endireh,2021,Nacional,lengua,Población indígena,30-59,Sexual,vida,569091.0,1761189.0,0.007239,4255.0
+endireh,2021,Nacional,lengua,Resto de la población,Todas,Sexual,vida,24094870.0,47211117.0,0.002404,102365.0
+endireh,2021,Nacional,lengua,Población indígena,Todas,Sexual,vida,998485.0,3312352.0,0.00627,7762.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Comunitario,12 meses,11326694.0,50523469.0,0.001685,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Comunitario,12 meses,4805316.0,25963867.0,0.00176,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Comunitario,12 meses,5995300.0,15457453.0,0.003147,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Comunitario,12 meses,526078.0,9102149.0,0.001181,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Cualquier ámbito,12 meses,21632263.0,50523469.0,0.002251,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Cualquier ámbito,12 meses,10809462.0,25963867.0,0.002603,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Cualquier ámbito,12 meses,2020546.0,9102149.0,0.002536,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Cualquier ámbito,12 meses,8802255.0,15457453.0,0.003412,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Económica o patrimonial,12 meses,8191726.0,50523469.0,0.001316,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Económica o patrimonial,12 meses,2768293.0,15457453.0,0.001936,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Económica o patrimonial,12 meses,726059.0,9102149.0,0.001262,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Económica o patrimonial,12 meses,4697374.0,25963867.0,0.001626,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Escolar,12 meses,98196.0,851395.0,0.004705,1855.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Escolar,12 meses,1395407.0,6911278.0,0.002304,11092.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Escolar,12 meses,6278.0,56121.0,,123.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Escolar,12 meses,1290933.0,6003762.0,0.00238,9114.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Familiar,12 meses,5752644.0,50523469.0,0.001126,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Familiar,12 meses,2359136.0,25963867.0,0.001124,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Familiar,12 meses,709017.0,9102149.0,0.001638,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Familiar,12 meses,2684491.0,15457453.0,0.001876,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Física,12 meses,501003.0,9102149.0,0.001141,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Física,12 meses,2227391.0,15457453.0,0.001566,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Física,12 meses,5170679.0,50523469.0,0.000997,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Física,12 meses,2442285.0,25963867.0,0.001101,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Laboral,12 meses,181509.0,2041840.0,0.002282,4992.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Laboral,12 meses,2083791.0,7625782.0,0.002783,14393.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Laboral,12 meses,5265991.0,25259142.0,0.001812,55328.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Laboral,12 meses,3000691.0,15591520.0,0.001965,35943.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Pareja,12 meses,1007751.0,8889058.0,0.001624,21357.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Pareja,12 meses,3269819.0,12988028.0,0.002827,24804.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Pareja,12 meses,5527182.0,25472427.0,0.00191,59117.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Pareja,12 meses,9804752.0,47349513.0,0.001665,105278.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Psicológica,12 meses,14833390.0,50523469.0,0.001951,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Psicológica,12 meses,7343249.0,25963867.0,0.002108,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Psicológica,12 meses,1393203.0,9102149.0,0.001949,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Psicológica,12 meses,6096938.0,15457453.0,0.00308,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Sexual,12 meses,6153744.0,15457453.0,0.003096,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Sexual,12 meses,500664.0,9102149.0,0.00114,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Sexual,12 meses,5092746.0,25963867.0,0.001792,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Sexual,12 meses,11747154.0,50523469.0,0.00169,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Comunitario,vida,23027512.0,50523469.0,0.002323,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Comunitario,vida,11586478.0,25963867.0,0.002793,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Comunitario,vida,2657373.0,9102149.0,0.002905,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Comunitario,vida,8783661.0,15457453.0,0.003454,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Cualquier ámbito,vida,5325104.0,9102149.0,0.003754,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Cualquier ámbito,vida,11586567.0,15457453.0,0.003279,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Cualquier ámbito,vida,18491308.0,25963867.0,0.002585,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Cualquier ámbito,vida,35402979.0,50523469.0,0.002169,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Económica o patrimonial,vida,7991765.0,25963867.0,0.002208,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Económica o patrimonial,vida,2224252.0,9102149.0,0.002863,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Económica o patrimonial,vida,3649854.0,15457453.0,0.002244,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Económica o patrimonial,vida,13865871.0,50523469.0,0.001803,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Escolar,vida,15416172.0,47793558.0,0.002024,104212.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Escolar,vida,1489659.0,7433350.0,0.002517,18072.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Escolar,vida,6247121.0,15305109.0,0.003077,28153.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Escolar,vida,7679392.0,25055099.0,0.002335,57987.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Física,vida,2894438.0,9102149.0,0.002936,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Física,vida,5182528.0,15457453.0,0.002821,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Física,vida,9468985.0,25963867.0,0.002531,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Física,vida,17545951.0,50523469.0,0.002097,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Laboral,vida,6574237.0,22791228.0,0.002242,52509.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Laboral,vida,11156444.0,40053469.0,0.001924,88760.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Laboral,vida,3476351.0,10596054.0,0.002942,20519.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Laboral,vida,1105856.0,6666187.0,0.002427,15732.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Pareja,vida,18880163.0,47349513.0,0.002232,105278.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Pareja,vida,10552866.0,25472427.0,0.00267,59117.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Pareja,vida,4834784.0,12988028.0,0.003162,24804.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Pareja,vida,3492513.0,8889058.0,0.003443,21357.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Psicológica,vida,8638167.0,15457453.0,0.003263,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Psicológica,vida,3900106.0,9102149.0,0.003496,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Psicológica,vida,13516754.0,25963867.0,0.002742,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Psicológica,vida,26055027.0,50523469.0,0.002315,110127.0
+endireh,2021,Nacional,todas,Todas las mujeres,15-29,Sexual,vida,9270500.0,15457453.0,0.003448,28419.0
+endireh,2021,Nacional,todas,Todas las mujeres,30-59,Sexual,vida,12790131.0,25963867.0,0.002796,59920.0
+endireh,2021,Nacional,todas,Todas las mujeres,60+,Sexual,vida,3032724.0,9102149.0,0.002999,21788.0
+endireh,2021,Nacional,todas,Todas las mujeres,Todas,Sexual,vida,25093355.0,50523469.0,0.002326,110127.0
