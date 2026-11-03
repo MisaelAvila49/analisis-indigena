@@ -6510,3 +6510,171 @@ a.cita:hover { color: var(--rojo-texto, #c4101b); }
 .matriz-scroll:focus-visible { outline: 2px solid var(--brand-red); outline-offset: 2px; }
 .tabla-scroll.tabla-filtros, .tabla-scroll.esquema-tabla { max-height: none; }
 .leyenda-hueco-cuadro { background: transparent; border: 1.5px dashed var(--c); box-sizing: border-box; }
+
+/* ===========================================================================
+   INVENTARIO, RONDA 2: aire entre bloques, temas por encuesta, «Qué ya se
+   analizó», tapa del inventario y tarjetas de fuente.
+   =========================================================================== */
+
+/* --- Separación general ----------------------------------------------------
+   Cada título de página (los h2 de Markdown, no los anclajes ocultos del
+   índice) abre un bloque nuevo: filete arriba y aire de sobra. Los bloques
+   y las secciones de análisis llevan el mismo ritmo vertical. */
+#observablehq-main > h2:not(.toc-anchor),
+#observablehq-main .observablehq > h2:not(.toc-anchor) {
+  margin: 4.5rem 0 1.25rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--border-subtle);
+  font: 600 clamp(1.6rem, 1.3rem + 0.9vw, 2.1rem)/1.15 var(--serif);
+  letter-spacing: -0.01em;
+  max-width: 1120px;
+}
+#observablehq-main .encabezado-capitulo + * { margin-top: 0; }
+.bloque-inventario { margin: 0 0 1rem; }
+.ficha-fuente { margin-bottom: 1rem; }
+.seccion-analisis { margin: 0 0 4.5rem; }
+#observablehq-main .seccion-cabeza { margin-top: 4.5rem; }
+#observablehq-main p.intro-muestras {
+  margin: -0.25rem 0 0; max-width: 68ch;
+  font: 400 1.0625rem/1.6 var(--serif); color: var(--text-secondary);
+}
+.explica-analisis p, .verificado p { line-height: 1.6; }
+.explica-analisis > p + p { margin-top: 0.75rem; }
+.book-meta-grid { margin-bottom: 2.5rem; }
+.kpi-fila { margin: 0 0 1rem; }
+
+/* --- Chips de tema y de fuente --------------------------------------------- */
+.tema-chip {
+  display: inline-flex; align-items: center;
+  padding: 0.2rem 0.6rem; border-radius: 999px;
+  font: 600 0.8125rem/1.3 var(--sans-serif);
+  white-space: nowrap;
+}
+.tema-chip-hecho { background: var(--filtro-probado-fondo); color: var(--filtro-probado-tinta); }
+.tema-chip-posible { background: transparent; color: var(--rojo-texto); border: 1.5px dashed var(--rojo-texto); }
+.fuente-chip {
+  display: inline-flex; align-items: center; padding: 0.2rem 0.65rem; border-radius: 4px;
+  font: 700 0.875rem/1.3 var(--sans-serif); text-decoration: none;
+}
+#observablehq-main .fuente-chip-hecha { background: var(--filtro-probado-fondo); color: var(--filtro-probado-tinta); text-decoration: none; }
+#observablehq-main .fuente-chip-posible { background: transparent; color: var(--rojo-texto); border: 1.5px dashed var(--rojo-texto); text-decoration: none; }
+.fuente-chip:hover { outline: 2px solid var(--text-primary); outline-offset: 1px; }
+.sin-fuente { font: italic 400 0.875rem/1.3 var(--sans-serif); color: var(--text-secondary); }
+
+/* --- Tabla de temas por encuesta ------------------------------------------ */
+.figura-temas { margin: 0; max-width: 1320px; }
+#observablehq-main .figura-temas h3 { margin: 0 0 0.25rem; font: 700 1.25rem/1.25 var(--sans-serif); color: var(--text-primary); }
+.figura-temas figcaption { margin-top: 0.75rem; font: 400 0.8125rem/1.4 var(--sans-serif); color: var(--text-secondary); }
+.tabla-temas-caja { overflow-x: auto; max-width: 100%; margin-top: 0.75rem; }
+.tabla-temas-caja:focus-visible { outline: 2px solid var(--brand-red); outline-offset: 2px; }
+.tabla-temas { border-collapse: separate; border-spacing: 3px; width: 100%; max-width: none; font: 400 0.875rem/1.25 var(--sans-serif); }
+.tabla-temas th, .tabla-temas td { padding: 0; border: 0; }
+.tabla-temas .tt-grupo {
+  padding: 0.35rem 0.25rem; text-align: center;
+  font: 700 0.75rem/1.2 var(--sans-serif); letter-spacing: 0.04em; text-transform: uppercase;
+  color: var(--text-secondary); border-bottom: 2px solid var(--border-strong);
+}
+.tabla-temas .tt-tema { height: 8.5rem; vertical-align: bottom; width: 2.6rem; min-width: 2.6rem; }
+.tabla-temas .tt-tema span {
+  display: inline-block; writing-mode: vertical-rl; transform: rotate(180deg);
+  font: 600 0.8125rem/1.15 var(--sans-serif); color: var(--text-primary);
+  padding: 0.35rem 0; max-height: 8.25rem; white-space: normal;
+}
+.tabla-temas .tt-fuente {
+  text-align: left; padding: 0 0.75rem 0 0; white-space: nowrap;
+  font: 700 0.9375rem/1.2 var(--sans-serif);
+  position: sticky; left: 0; z-index: 1; background: var(--theme-background, #fff);
+}
+.tabla-temas thead .tt-esquina { vertical-align: bottom; color: var(--text-secondary); font-size: 0.8125rem; }
+#observablehq-main .tabla-temas .tt-fuente a { color: var(--text-primary); text-decoration: underline; text-decoration-color: var(--border-strong); text-underline-offset: 3px; }
+#observablehq-main .tabla-temas .tt-fuente a:hover { text-decoration-color: var(--brand-red); }
+.tabla-temas .tt-celda { height: 2.1rem; text-align: center; border-radius: 4px; font: 700 0.9375rem/1 var(--sans-serif); font-variant-numeric: tabular-nums; }
+.tabla-temas .tt-hecho { background: var(--filtro-probado-fondo); color: var(--filtro-probado-tinta); }
+.tabla-temas .tt-posible { box-shadow: inset 0 0 0 1.5px var(--rojo-texto); color: var(--rojo-texto); background: transparent; }
+.tabla-temas .tt-vacio { background: var(--surface-2); }
+.tabla-temas .tt-total { text-align: center; padding: 0 0.5rem; font: 800 1rem/1 var(--sans-serif); color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.tabla-temas thead .tt-total { vertical-align: bottom; font: 600 0.8125rem/1.2 var(--sans-serif); color: var(--text-secondary); }
+.tabla-temas tfoot .tt-fuente { font: 600 0.8125rem/1.2 var(--sans-serif); color: var(--text-secondary); padding-top: 0.5rem; }
+.tabla-temas .tt-pie { text-align: center; padding-top: 0.5rem; font: 700 0.875rem/1 var(--sans-serif); color: var(--text-secondary); font-variant-numeric: tabular-nums; border-top: 2px solid var(--border-strong); }
+.tabla-temas tbody tr:hover .tt-fuente a { text-decoration-color: var(--brand-red); }
+
+/* --- Lista por tema --------------------------------------------------------- */
+.por-tema { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr)); gap: 2rem 3rem; margin-top: 1rem; }
+#observablehq-main .por-tema-grupo h3 {
+  margin: 0 0 0.5rem; padding-bottom: 0.35rem; border-bottom: 2px solid var(--border-strong);
+  font: 700 0.8125rem/1.2 var(--sans-serif); letter-spacing: 0.04em; text-transform: uppercase; color: var(--text-secondary);
+}
+.por-tema dl { margin: 0; }
+.por-tema-fila { display: grid; grid-template-columns: 11rem 1fr; gap: 0.75rem; padding: 0.6rem 0; border-bottom: 1px solid var(--border-subtle); align-items: start; }
+.por-tema-fila dt { font: 600 0.9375rem/1.35 var(--sans-serif); color: var(--text-primary); }
+.por-tema-fila dd { margin: 0; display: flex; flex-wrap: wrap; gap: 0.35rem; }
+@media (max-width: 560px) { .por-tema-fila { grid-template-columns: 1fr; gap: 0.35rem; } }
+
+/* --- «Qué ya se analizó» en la página de cada fuente ------------------------ */
+.que-analizo { max-width: 1120px; }
+.qa-cabeza { display: flex; flex-direction: column; gap: 0.6rem; margin-bottom: 2rem; }
+#observablehq-main .qa-resumen { margin: 0; font: 400 1.25rem/1.3 var(--serif); color: var(--text-secondary); max-width: none; }
+.qa-cifra { font: 800 2.25rem/1 var(--sans-serif); color: var(--rojo-texto); letter-spacing: -0.02em; margin-right: 0.15rem; }
+.qa-resumen .qa-cifra + .qa-cifra, .qa-resumen .qa-cifra:not(:first-child) { color: var(--text-primary); }
+.qa-anios { margin-left: 1rem; padding-left: 1rem; border-left: 1px solid var(--border-strong); font: 600 0.9375rem/1.3 var(--sans-serif); font-variant-numeric: tabular-nums; }
+#observablehq-main .qa-temas, #observablehq-main .qa-posibles { margin: 0; display: flex; flex-wrap: wrap; align-items: center; gap: 0.4rem; max-width: none; }
+.qa-rotulo { font: 600 0.8125rem/1.3 var(--sans-serif); color: var(--text-secondary); min-width: 8rem; }
+.qa-grupos { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 24rem), 1fr)); gap: 2rem 3rem; }
+.qa-grupo { min-width: 0; }
+#observablehq-main .qa-tema {
+  margin: 0 0 0.25rem; padding-bottom: 0.4rem; border-bottom: 2px solid var(--border-strong);
+  font: 700 0.875rem/1.2 var(--sans-serif); letter-spacing: 0.04em; text-transform: uppercase; color: var(--text-secondary);
+}
+.qa-lista { list-style: none; margin: 0; padding: 0; }
+.qa-item { display: flex; flex-direction: column; gap: 0.2rem; padding: 0.85rem 0; border-bottom: 1px solid var(--border-subtle); }
+#observablehq-main .qa-titulo { font: 600 1.0625rem/1.35 var(--sans-serif); color: var(--text-primary); text-decoration: underline; text-decoration-color: var(--brand-red); text-underline-offset: 3px; }
+.qa-meta { font: 400 0.875rem/1.4 var(--sans-serif); color: var(--text-secondary); }
+.qa-anio { font-weight: 700; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+.qa-sitio, .qa-otros { font: 400 0.8125rem/1.4 var(--sans-serif); color: var(--text-secondary); }
+.qa-otros { font-style: italic; }
+.que-analizo-vacio { display: flex; flex-direction: column; gap: 0.75rem; }
+
+/* --- Tarjetas de fuente (portada) ------------------------------------------- */
+.grupo-fuentes { margin: 0 0 2.75rem; max-width: 1320px; }
+#observablehq-main .grupo-fuentes-titulo {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.75rem;
+  margin: 0 0 1rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--border-strong);
+  font: 400 0.9375rem/1.4 var(--sans-serif); color: var(--text-secondary);
+}
+.grupo-fuentes-titulo .estado-chip { font-size: 1rem; color: var(--text-primary); }
+.rejilla-fuentes { margin: 0; gap: 1rem 1.5rem; }
+#observablehq-main a.fuente-celda {
+  display: flex; flex-direction: column; gap: 0.45rem;
+  padding: 1rem 1.1rem 1.1rem; border-top: 0; border-radius: 6px;
+  background: var(--surface-2); color: var(--text-primary); text-decoration: none;
+  transition: background-color .15s ease;
+}
+#observablehq-main a.fuente-celda:hover, #observablehq-main a.fuente-celda:focus-visible { background: color-mix(in srgb, var(--surface-2) 70%, var(--brand-red) 8%); }
+#observablehq-main a.fuente-celda:focus-visible { outline: 2px solid var(--brand-red); outline-offset: 2px; }
+.fuente-sigla { font: 800 1.375rem/1.1 var(--sans-serif); letter-spacing: -0.01em; color: var(--text-primary); }
+.fuente-celda .fuente-que { font: 400 0.9375rem/1.4 var(--serif); color: var(--text-secondary); }
+.fuente-temas { display: flex; flex-wrap: wrap; gap: 0.3rem; margin-top: 0.15rem; }
+.fuente-temas .tema-chip { font-size: 0.75rem; padding: 0.15rem 0.5rem; }
+.fuente-celda .fuente-cifras { margin-top: auto; padding-top: 0.35rem; font: 400 0.8125rem/1.4 var(--sans-serif); color: var(--text-secondary); font-variant-numeric: tabular-nums; }
+
+/* --- Tapa del inventario (objeto real: conserva sus colores en oscuro) ------- */
+.v-inv .tapa { background: #fdfcf9; color: #1d1d1b; }
+.v-inv .t-sello { color: #c4101b; }
+.v-inv .t-centro { align-self: end; }
+.v-inv .t-mosaico { display: block; width: 100%; height: auto; margin: 0 0 6cqw; }
+#observablehq-main .v-inv .t-titulo { color: #1d1d1b; font-size: 8.6cqw; }
+.v-inv .t-titulo em { font-style: normal; color: #c4101b; }
+#observablehq-main .v-inv .t-sub { color: #4a4846; }
+.v-inv .t-anio { color: #4a4846; }
+.v-inv .t-logo { width: 22cqw; }
+.tabla-temas-caja { position: relative; }
+.tabla-temas td.tt-celda, .tabla-temas td.tt-total, .tabla-temas th.tt-fuente { vertical-align: middle; }
+.tabla-temas .tt-celda > span[aria-hidden], .tabla-temas .tt-celda > span:first-child { display: inline-block; line-height: 1; }
+.qa-grupos { grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr)); gap: 1.75rem 2.5rem; }
+#observablehq-main .qa-lista, #observablehq-main .qa-item { max-width: none; }
+#observablehq-main .grupo-fuentes-titulo { max-width: none; }
+#observablehq-main .grupo-fuentes-titulo > span:last-child { max-width: 70ch; }
+:root { --rojo-chico: #c4101b; }
+:root[data-tema="oscuro"] { --rojo-chico: #f27076; }
+#observablehq-main .tema-chip-posible, #observablehq-main .fuente-chip-posible { color: var(--rojo-chico); border-color: var(--rojo-chico); }
+.tabla-temas .tt-posible { box-shadow: inset 0 0 0 1.5px var(--rojo-chico); color: var(--rojo-chico); }

@@ -39,9 +39,16 @@ for (const ruta of PAGINAS) {
         await pagina.waitForTimeout(120);
         const h = await seccion.evaluate((e) => {
           const fig = e.querySelector("figure.grafica-tablero");
-          const marcas = fig ? [...fig.querySelectorAll("svg [aria-label] > *")].filter((m) => !m.closest('[aria-label="tip"]')) : [];
+          // Figuras en HTML (la tabla de temas): la huella es su texto y el
+          // número de celdas y chips que dibuja.
+          if (!fig) {
+            const otra = e.querySelector(".analisis-cuerpo figure");
+            const piezas = otra ? otra.querySelectorAll("td, .fuente-chip").length : 0;
+            return {n: piezas, firma: (otra?.textContent ?? "") + "|" + piezas};
+          }
+          const marcas = [...fig.querySelectorAll("svg [aria-label] > *")].filter((m) => !m.closest('[aria-label="tip"]'));
           const firma = marcas.map((m) => ["x", "y", "cx", "cy", "width", "height", "d", "fill", "x1", "x2"].map((a) => m.getAttribute(a) ?? "").join(",")).join(";");
-          return {n: marcas.length, firma: (fig?.querySelector(".grafica-sub")?.textContent ?? "") + "|" + firma};
+          return {n: marcas.length, firma: (fig.querySelector(".grafica-sub")?.textContent ?? "") + "|" + firma};
         });
         if (h.n === 0) { console.log(`MAL ${ruta} sección ${s + 1} «${nombre}» = ${op}: la figura queda sin marcas`); problemas++; }
         huellas.set(op, h.firma);

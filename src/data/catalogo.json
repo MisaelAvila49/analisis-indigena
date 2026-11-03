@@ -344,7 +344,10 @@
           "ediciones": [
             2020
           ],
-          "forma": "mapas, heatmap, dumbbell"
+          "forma": "mapas, heatmap, dumbbell",
+          "temas": [
+            "vivienda_tic"
+          ]
         },
         {
           "titulo": "La ciudad entre las 32 entidades",
@@ -353,7 +356,10 @@
           "ediciones": [
             2020
           ],
-          "forma": "coropleta y lollipop"
+          "forma": "coropleta y lollipop",
+          "temas": [
+            "territorio"
+          ]
         },
         {
           "titulo": "Por alcaldía, AGEB y manzana",
@@ -365,7 +371,10 @@
             2010,
             2020
           ],
-          "forma": "mapa navegable y heatmap"
+          "forma": "mapa navegable y heatmap",
+          "temas": [
+            "territorio"
+          ]
         },
         {
           "titulo": "Presencia indígena y marginación urbana",
@@ -374,7 +383,10 @@
           "ediciones": [
             2020
           ],
-          "forma": "barras por grado y lollipop"
+          "forma": "barras por grado y lollipop",
+          "temas": [
+            "marginacion"
+          ]
         },
         {
           "titulo": "Edad y sexo; escuela y trabajo; salud y español",
@@ -384,7 +396,13 @@
             2010,
             2020
           ],
-          "forma": "pirámide y barras apiladas"
+          "forma": "pirámide y barras apiladas",
+          "temas": [
+            "demografia",
+            "educacion",
+            "trabajo",
+            "salud"
+          ]
         },
         {
           "titulo": "Mapa de la población indígena (país y Ciudad de México)",
@@ -396,7 +414,11 @@
             2010,
             2020
           ],
-          "forma": "mapa de teselas"
+          "forma": "mapa de teselas",
+          "temas": [
+            "territorio",
+            "lengua"
+          ]
         },
         {
           "titulo": "La serie larga, 1930 - 2025, y los municipios",
@@ -408,7 +430,11 @@
             2010,
             2020
           ],
-          "forma": "línea, mapa de cambio, franjas, crestas"
+          "forma": "línea, mapa de cambio, franjas, crestas",
+          "temas": [
+            "lengua",
+            "territorio"
+          ]
         },
         {
           "titulo": "Pirámide, edades, de madres a hijos, hogares y generaciones",
@@ -420,7 +446,11 @@
             2010,
             2020
           ],
-          "forma": "pirámide, heatmap, flechas, waffle, árbol"
+          "forma": "pirámide, heatmap, flechas, waffle, árbol",
+          "temas": [
+            "transmision",
+            "demografia"
+          ]
         },
         {
           "titulo": "Dos maneras de contar: habla y se considera",
@@ -429,7 +459,10 @@
           "ediciones": [
             2020
           ],
-          "forma": "mapas gemelos, mosaico de entidades"
+          "forma": "mapas gemelos, mosaico de entidades",
+          "temas": [
+            "identidad"
+          ]
         }
       ],
       "fuentesIds": [
@@ -445,7 +478,8 @@
         "autoadscripcion",
         "territorio",
         "vivienda"
-      ]
+      ],
+      "temasPosibles": []
     },
     {
       "slug": "conteos-eic",
@@ -552,7 +586,11 @@
             2015,
             2025
           ],
-          "forma": "mapas gemelos, hexágonos, mosaico"
+          "forma": "mapas gemelos, hexágonos, mosaico",
+          "temas": [
+            "identidad",
+            "territorio"
+          ]
         },
         {
           "titulo": "La serie larga y el cambio por municipio",
@@ -564,7 +602,11 @@
             2015,
             2025
           ],
-          "forma": "línea, mapa de cambio, aceleración"
+          "forma": "línea, mapa de cambio, aceleración",
+          "temas": [
+            "lengua",
+            "territorio"
+          ]
         },
         {
           "titulo": "Transmisión de madres a hijos y entre generaciones",
@@ -575,7 +617,10 @@
             2015,
             2025
           ],
-          "forma": "flechas, árbol de generaciones"
+          "forma": "flechas, árbol de generaciones",
+          "temas": [
+            "transmision"
+          ]
         },
         {
           "titulo": "Se consideran indígenas pero no hablan la lengua",
@@ -585,7 +630,11 @@
             2015,
             2025
           ],
-          "forma": "waffle"
+          "forma": "waffle",
+          "temas": [
+            "identidad",
+            "lengua"
+          ]
         },
         {
           "titulo": "Perfil de la Ciudad de México (edad, escuela, trabajo, español)",
@@ -595,7 +644,13 @@
             2015,
             2025
           ],
-          "forma": "pirámide y barras apiladas"
+          "forma": "pirámide y barras apiladas",
+          "temas": [
+            "demografia",
+            "educacion",
+            "trabajo",
+            "lengua"
+          ]
         }
       ],
       "fuentesIds": [
@@ -609,6 +664,10 @@
         "lengua",
         "autoadscripcion",
         "serie"
+      ],
+      "temasPosibles": [
+        "vivienda_tic",
+        "salud"
       ]
     },
     {
@@ -718,7 +777,10 @@
             2022,
             2024
           ],
-          "forma": "pendiente"
+          "forma": "pendiente",
+          "temas": [
+            "vivienda_tic"
+          ]
         },
         {
           "titulo": "La conexión según el ingreso del hogar",
@@ -729,7 +791,11 @@
             2022,
             2024
           ],
-          "forma": "dumbbell por decil"
+          "forma": "dumbbell por decil",
+          "temas": [
+            "vivienda_tic",
+            "trabajo"
+          ]
         },
         {
           "titulo": "Dispositivos y servicios del hogar",
@@ -740,7 +806,10 @@
             2022,
             2024
           ],
-          "forma": "heatmap"
+          "forma": "heatmap",
+          "temas": [
+            "vivienda_tic"
+          ]
         }
       ],
       "fuentesIds": [
@@ -752,6 +821,11 @@
         "ingreso",
         "hogar",
         "tic"
+      ],
+      "temasPosibles": [
+        "pobreza",
+        "educacion",
+        "salud"
       ]
     },
     {
@@ -853,7 +927,10 @@
             2017,
             2022
           ],
-          "forma": "barras y dumbbell"
+          "forma": "barras y dumbbell",
+          "temas": [
+            "discriminacion"
+          ]
         },
         {
           "titulo": "Dónde ocurre",
@@ -863,7 +940,10 @@
             2017,
             2022
           ],
-          "forma": "lollipop"
+          "forma": "lollipop",
+          "temas": [
+            "discriminacion"
+          ]
         },
         {
           "titulo": "Derechos negados y cómo ven el respeto a sus derechos",
@@ -873,7 +953,10 @@
             2017,
             2022
           ],
-          "forma": "barras y likert"
+          "forma": "barras y likert",
+          "temas": [
+            "discriminacion"
+          ]
         }
       ],
       "fuentesIds": [
@@ -883,7 +966,8 @@
       "tags": [
         "discriminacion",
         "derechos"
-      ]
+      ],
+      "temasPosibles": []
     },
     {
       "slug": "endutih",
@@ -962,7 +1046,10 @@
           "ediciones": [
             2025
           ],
-          "forma": "heatmap y barras agrupadas"
+          "forma": "heatmap y barras agrupadas",
+          "temas": [
+            "vivienda_tic"
+          ]
         },
         {
           "titulo": "Para qué usa internet: escuela, trabajo, trámites, habilidades",
@@ -971,7 +1058,10 @@
           "ediciones": [
             2025
           ],
-          "forma": "heatmap, dumbbell, waffle"
+          "forma": "heatmap, dumbbell, waffle",
+          "temas": [
+            "vivienda_tic"
+          ]
         },
         {
           "titulo": "Quién queda fuera y por qué",
@@ -980,7 +1070,10 @@
           "ediciones": [
             2025
           ],
-          "forma": "heatmap y apiladas"
+          "forma": "heatmap y apiladas",
+          "temas": [
+            "vivienda_tic"
+          ]
         }
       ],
       "fuentesIds": [
@@ -989,7 +1082,8 @@
       "tags": [
         "tic",
         "brecha-digital"
-      ]
+      ],
+      "temasPosibles": []
     },
     {
       "slug": "endireh",
@@ -1071,7 +1165,10 @@
           "ediciones": [
             2021
           ],
-          "forma": "waffle"
+          "forma": "waffle",
+          "temas": [
+            "violencia"
+          ]
         },
         {
           "titulo": "Dónde ocurre: por ámbito",
@@ -1080,7 +1177,10 @@
           "ediciones": [
             2021
           ],
-          "forma": "dumbbell"
+          "forma": "dumbbell",
+          "temas": [
+            "violencia"
+          ]
         },
         {
           "titulo": "De qué tipo",
@@ -1089,7 +1189,10 @@
           "ediciones": [
             2021
           ],
-          "forma": "barras agrupadas"
+          "forma": "barras agrupadas",
+          "temas": [
+            "violencia"
+          ]
         }
       ],
       "fuentesIds": [
@@ -1098,6 +1201,9 @@
       "tags": [
         "violencia",
         "mujeres"
+      ],
+      "temasPosibles": [
+        "trabajo"
       ]
     },
     {
@@ -1152,7 +1258,10 @@
           "ediciones": [
             2008
           ],
-          "forma": "treemap"
+          "forma": "treemap",
+          "temas": [
+            "lengua"
+          ]
         },
         {
           "titulo": "Las variantes de cada lengua en la ciudad",
@@ -1161,7 +1270,11 @@
           "ediciones": [
             2010
           ],
-          "forma": "barras y heatmap"
+          "forma": "barras y heatmap",
+          "temas": [
+            "lengua",
+            "territorio"
+          ]
         },
         {
           "titulo": "Cuántas variantes están en riesgo",
@@ -1170,7 +1283,10 @@
           "ediciones": [
             2012
           ],
-          "forma": "unidades"
+          "forma": "unidades",
+          "temas": [
+            "riesgo"
+          ]
         },
         {
           "titulo": "Variantes por grado de riesgo y de qué grado a qué grado pasaron",
@@ -1179,7 +1295,10 @@
           "ediciones": [
             2012
           ],
-          "forma": "barras al 100 % y aluvial"
+          "forma": "barras al 100 % y aluvial",
+          "temas": [
+            "riesgo"
+          ]
         }
       ],
       "fuentesIds": [
@@ -1191,7 +1310,8 @@
         "lengua",
         "variante",
         "riesgo"
-      ]
+      ],
+      "temasPosibles": []
     },
     {
       "slug": "coneval",
@@ -1276,7 +1396,10 @@
             2022,
             2024
           ],
-          "forma": "línea"
+          "forma": "línea",
+          "temas": [
+            "pobreza"
+          ]
         },
         {
           "titulo": "Carencias sociales",
@@ -1286,7 +1409,10 @@
             2016,
             2022
           ],
-          "forma": "dumbbell"
+          "forma": "dumbbell",
+          "temas": [
+            "pobreza"
+          ]
         },
         {
           "titulo": "Marginación y rezago social según el umbral de presencia indígena (AGEB)",
@@ -1295,7 +1421,10 @@
           "ediciones": [
             2020
           ],
-          "forma": "dumbbell"
+          "forma": "dumbbell",
+          "temas": [
+            "marginacion"
+          ]
         }
       ],
       "fuentesIds": [
@@ -1305,7 +1434,8 @@
       "tags": [
         "pobreza",
         "carencias"
-      ]
+      ],
+      "temasPosibles": []
     },
     {
       "slug": "conapo",
@@ -1369,7 +1499,10 @@
           "ediciones": [
             2020
           ],
-          "forma": "barras por grado"
+          "forma": "barras por grado",
+          "temas": [
+            "marginacion"
+          ]
         },
         {
           "titulo": "Conectividad y marginación según la presencia indígena (AGEB)",
@@ -1378,7 +1511,11 @@
           "ediciones": [
             2020
           ],
-          "forma": "dumbbell"
+          "forma": "dumbbell",
+          "temas": [
+            "marginacion",
+            "vivienda_tic"
+          ]
         }
       ],
       "fuentesIds": [
@@ -1387,6 +1524,9 @@
       "tags": [
         "marginacion",
         "territorio"
+      ],
+      "temasPosibles": [
+        "educacion"
       ]
     },
     {
@@ -1472,7 +1612,11 @@
           "ediciones": [
             2020
           ],
-          "forma": "coropleta"
+          "forma": "coropleta",
+          "temas": [
+            "territorio",
+            "identidad"
+          ]
         },
         {
           "titulo": "Opción «Población indígena INPI» del panel de censo",
@@ -1481,7 +1625,10 @@
           "ediciones": [
             2020
           ],
-          "forma": "barras con intervalo"
+          "forma": "barras con intervalo",
+          "temas": [
+            "territorio"
+          ]
         }
       ],
       "fuentesIds": [
@@ -1491,6 +1638,12 @@
       "tags": [
         "hogar-indigena",
         "politica-publica"
+      ],
+      "temasPosibles": [
+        "educacion",
+        "salud",
+        "vivienda_tic",
+        "trabajo"
       ]
     },
     {
@@ -1572,6 +1725,10 @@
       "tags": [
         "salud",
         "nutricion"
+      ],
+      "temasPosibles": [
+        "salud",
+        "demografia"
       ]
     },
     {
@@ -1653,6 +1810,9 @@
       "tags": [
         "salud",
         "mortalidad"
+      ],
+      "temasPosibles": [
+        "salud"
       ]
     },
     {
@@ -1718,7 +1878,82 @@
       "fuentesIds": [],
       "tags": [
         "educacion"
+      ],
+      "temasPosibles": [
+        "educacion"
       ]
+    }
+  ],
+  "temas": [
+    {
+      "id": "lengua",
+      "label": "Lengua y hablantes",
+      "grupo": "Lengua e identidad"
+    },
+    {
+      "id": "identidad",
+      "label": "Autoadscripción",
+      "grupo": "Lengua e identidad"
+    },
+    {
+      "id": "transmision",
+      "label": "Transmisión de la lengua",
+      "grupo": "Lengua e identidad"
+    },
+    {
+      "id": "riesgo",
+      "label": "Riesgo de las lenguas",
+      "grupo": "Lengua e identidad"
+    },
+    {
+      "id": "territorio",
+      "label": "Dónde viven",
+      "grupo": "Población y territorio"
+    },
+    {
+      "id": "demografia",
+      "label": "Edad, sexo y hogares",
+      "grupo": "Población y territorio"
+    },
+    {
+      "id": "marginacion",
+      "label": "Marginación del territorio",
+      "grupo": "Población y territorio"
+    },
+    {
+      "id": "educacion",
+      "label": "Educación",
+      "grupo": "Condiciones de vida"
+    },
+    {
+      "id": "trabajo",
+      "label": "Trabajo e ingreso",
+      "grupo": "Condiciones de vida"
+    },
+    {
+      "id": "pobreza",
+      "label": "Pobreza y carencias",
+      "grupo": "Condiciones de vida"
+    },
+    {
+      "id": "vivienda_tic",
+      "label": "Vivienda y tecnologías",
+      "grupo": "Condiciones de vida"
+    },
+    {
+      "id": "salud",
+      "label": "Salud y discapacidad",
+      "grupo": "Condiciones de vida"
+    },
+    {
+      "id": "discriminacion",
+      "label": "Discriminación y derechos",
+      "grupo": "Lo que enfrentan"
+    },
+    {
+      "id": "violencia",
+      "label": "Violencia contra las mujeres",
+      "grupo": "Lo que enfrentan"
     }
   ]
 }

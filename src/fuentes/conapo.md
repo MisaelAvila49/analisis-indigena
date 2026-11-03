@@ -25,11 +25,21 @@ const ALCALDIAS = [...new Set(agebs.map((r) => r.nombre))].sort((a, b) => a.loca
 display(cabecera(cat, SLUG));
 ```
 
+## Qué ya se analizó
+
+```js
+display(bloqueAnalisis(cat, SLUG));
+```
+
 ## Filtros
 
 ```js
 display(bloqueFiltros(cat, SLUG));
 ```
+
+## Pruébalo con los filtros
+
+<p class="intro-muestras">Una muestra de lo ya analizado, con los filtros que están construidos. El análisis completo vive en su sitio de origen (enlace en «¿Qué quiere decir este análisis?»).</p>
 
 <h2 id="m1" class="toc-anchor">En qué grado de marginación viven los hablantes de la ciudad</h2>
 
@@ -73,12 +83,6 @@ display(muestra({
     return [fig, tabla];
   },
 }));
-```
-
-## Análisis que ya existen
-
-```js
-display(bloqueAnalisis(cat, SLUG));
 ```
 
 ## Lo que falta

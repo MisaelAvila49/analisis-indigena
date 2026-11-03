@@ -24,11 +24,21 @@ const mun = (await FileAttachment("../data/muestras/inpi_municipios.csv").csv({t
 display(cabecera(cat, SLUG));
 ```
 
+## Qué ya se analizó
+
+```js
+display(bloqueAnalisis(cat, SLUG));
+```
+
 ## Filtros
 
 ```js
 display(bloqueFiltros(cat, SLUG));
 ```
+
+## Pruébalo con los filtros
+
+<p class="intro-muestras">Una muestra de lo ya analizado, con los filtros que están construidos. El análisis completo vive en su sitio de origen (enlace en «¿Qué quiere decir este análisis?»).</p>
 
 <h2 id="m1" class="toc-anchor">Los municipios de cada entidad según su población indígena</h2>
 
@@ -72,12 +82,6 @@ display(muestra({
     return [fig, tabla];
   },
 }));
-```
-
-## Análisis que ya existen
-
-```js
-display(bloqueAnalisis(cat, SLUG));
 ```
 
 ## Lo que falta

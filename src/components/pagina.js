@@ -5,7 +5,7 @@
 // (análisis existentes, pendientes). Las rutas de FileAttachment tienen que
 // ser literales, así que cada página carga los archivos y los pasa aquí.
 import {html} from "npm:htl";
-import {abrirCatalogo, encabezado, ficha, tablaFiltros, listaAnalisis, listaPendientes, chipFiltro} from "./inventario.js";
+import {abrirCatalogo, encabezado, ficha, tablaFiltros, listaAnalisis, listaPendientes, chipFiltro, queSeAnalizo} from "./inventario.js";
 import {procedencia, catalogo as catalogoFuentes, verificado} from "./fuentes.js";
 import {campo} from "./panel-seccion.js";
 
@@ -37,7 +37,7 @@ export function bloqueFiltros(cat, slug) {
   </div>`;
 }
 
-export const bloqueAnalisis = (cat, slug) => html`<div class="bloque-inventario">${listaAnalisis(cat, slug)}</div>`;
+export const bloqueAnalisis = (cat, slug) => html`<div class="bloque-inventario">${queSeAnalizo(cat, slug)}</div>`;
 export const bloquePendientes = (cat, slug) => html`<div class="bloque-inventario">${listaPendientes(cat, slug)}</div>`;
 
 // Enlace al análisis completo en su sitio de origen (para el desplegable).
