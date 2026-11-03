@@ -21,7 +21,7 @@ const navegador = await chromium.launch({channel: "msedge"});
 const pagina = await navegador.newPage({viewport: {width: 1366, height: 900}});
 let problemas = 0, controles = 0;
 for (const ruta of PAGINAS) {
-  await pagina.goto(`http://localhost:${PUERTO}${ruta}`, {waitUntil: "networkidle"});
+  await pagina.goto(`http://127.0.0.1:${PUERTO}${ruta}`, {waitUntil: "networkidle"});
   await pagina.waitForTimeout(400);
   const nSecciones = await pagina.locator(".seccion-analisis").count();
   for (let s = 0; s < nSecciones; s++) {

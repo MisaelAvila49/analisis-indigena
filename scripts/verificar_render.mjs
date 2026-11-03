@@ -50,7 +50,7 @@ for (const tema of ["claro", "oscuro"]) {
       const avisos = [];
       pagina.on("console", (m) => { if (["error", "warning"].includes(m.type())) avisos.push(`${m.type()}: ${m.text()}`); });
       pagina.on("pageerror", (e) => avisos.push(`pageerror: ${e.message}`));
-      await pagina.goto(`http://localhost:${PUERTO}${p.ruta}`, {waitUntil: "networkidle"});
+      await pagina.goto(`http://127.0.0.1:${PUERTO}${p.ruta}`, {waitUntil: "networkidle"});
       await pagina.evaluate(async () => {
         for (let y = 0; y < document.body.scrollHeight; y += 600) { scrollTo(0, y); await new Promise((r) => setTimeout(r, 60)); }
         scrollTo(0, 0);

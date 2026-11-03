@@ -19,7 +19,11 @@ export function servirEstatico(raiz, puerto) {
     const s = createServer((req, rsp) => {
       let p = decodeURIComponent(new URL(req.url, "http://x").pathname);
       if (p.endsWith("/")) p += "index";
-      let f = path.join(raiz, p);
+      // Solo archivos dentro de la raíz: una ruta con ../ (o su forma
+      // codificada) no sale de dist/.
+      const base = path.resolve(raiz);
+      let f = path.resolve(base, "." + p);
+      if (f !== base && !f.startsWith(base + path.sep)) { rsp.writeHead(403).end("no"); return; }
       if (!existsSync(f) && existsSync(f + ".html")) f += ".html";
       let tam;
       try { tam = statSync(f); } catch { rsp.writeHead(404).end("no"); return; }
@@ -35,6 +39,6 @@ export function servirEstatico(raiz, puerto) {
         createReadStream(f).pipe(rsp);
       }
     });
-    s.listen(puerto, () => listo(s));
+    s.listen(puerto, "127.0.0.1", () => listo(s));
   });
 }
